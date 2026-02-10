@@ -5,9 +5,9 @@ parts:
   - caption: Contents
     chapters:
     - file: introduction/introduction.md
-    - file: section_1._defining_personal_data/section_1._defining_personal_data.md
-    - file: section_2._risks/section_2._risks.md
-    - file: section_3._mitigating_risk/section_3._mitigating_risk.md
+    - file: defining_personal_data/defining_personal_data.md
+    - file: risks/risks.md
+    - file: mitigating_risks/mitigating_risks.md
     - file: closing_remarks/closing_remarks.md
     - file: references.md
     - file: credits.md
