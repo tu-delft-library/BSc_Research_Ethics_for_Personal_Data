@@ -6,11 +6,11 @@ root: intro.md
 parts:
   - caption: Contents
     chapters:
-    - file: intro/intro.md
-    - file: defining_personal_data/defining_personal_data.md
-    - file: risks/risks.md
-    - file: risk_mitigation/risk_mitigation.md
-    - file: institutional_policies/institutional_policies.md
-    - file: closing_remarks/closing_remarks.md
-    - file: references.md
-    - file: credits.md
+    - file: intro
+    - file: defining_personal_data
+    - file: risks
+    - file: risk_mitigation
+    - file: institutional_policies
+    - file: closing_remarks
+    - file: references
+    - file: credits
