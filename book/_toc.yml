@@ -3,12 +3,13 @@
 format: jb-book
 root: intro.md
 
+parts:
   - caption: Contents
     chapters:
-    - file: defining_personal_data/defining_personal_data.md
-    - file: risks/risks.md
-    - file: risk_mitigation/risk_mitigation.md
-    - file: institutional_policies/institutional_policies.md
-    - file: closing_remarks/closing_remarks.md
-    - file: references/references.md
-    - file: credits/credits.md
+    - file: defining_personal_data.md
+    - file: risks.md
+    - file: risk_mitigation.md
+    - file: institutional_policies.md
+    - file: closing_remarks.md
+    - file: references.md
+    - file: credits.md
