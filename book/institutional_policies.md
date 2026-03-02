@@ -1,3 +1,3 @@
-# Institutional_Policies
+# Institutional Policies
 
 information about HREC will go here 
