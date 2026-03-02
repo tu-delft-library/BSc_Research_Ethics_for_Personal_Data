@@ -6,6 +6,7 @@ root: intro.md
 parts:
   - caption: Contents
     chapters:
+    - file: intro.md
     - file: defining_personal_data.md
     - file: risks.md
     - file: risk_mitigation.md
