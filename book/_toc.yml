@@ -1,12 +1,12 @@
 # Configuration of _toc.yml file is explained in detail here: https://jupyterbook.org/en/stable/structure/toc.html and https://sphinx-external-toc.readthedocs.io/en/latest/user_guide/sphinx.html
 
 format: jb-book
-root: intro.md
+root: home.md
 
 parts:
   - caption: Contents
     chapters:
-    - file: intro
+    - file: intro.md
     - file: defining_personal_data.md
     - file: risks.md
     - file: risk_mitigation.md
