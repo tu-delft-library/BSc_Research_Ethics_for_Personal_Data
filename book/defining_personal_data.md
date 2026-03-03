@@ -1,4 +1,4 @@
-# Defining Personal Data 
+# I. Defining Personal Data 
 
 ## Defining Personal Data 	 
 
@@ -15,19 +15,22 @@ Let's enhance our understanding by looking at a variety of examples of personal 
 
 EXAMPLES WITH IMAGES GO HERE! 
 
-These pieces of information are personal data because they can be **directly** or**indirectly** traced back to a single person. Keep in mind that supporting documents or administrative artefacts used to organise a study can also contain personal data. For example, a contact list with the emails of research participants is considered personal data, as are copies of forms that research participants sign to give their consent (informed consent forms). 
+These pieces of information are personal data because they can be **directly** or **indirectly** traced back to a single person. Keep in mind that supporting documents or administrative artefacts used to organise a study can also contain personal data. For example, a contact list with the emails of research participants is considered personal data, as are copies of forms that research participants sign to give their consent (informed consent forms). 
 
-Direct versus Indirect Identifiers  
+## Direct versus Indirect Identifiers  
 
 As a researcher, it is your legal and ethical imperative to protect the dignity, safety, and privacy of the people participating in your study. When you design your study, you need to start by asking yourself the following questions:  
 
-- #1: What's my research question or goal?  
+**#1: What's my research question or goal?**
 <br>
-- #2: Which data do I need to collect to answer my research question?  
+
+**#2: Which data do I need to collect to answer my research question?**  
 <br>
-- #3: Are any of the data that I plan to collect personal data? If yes, is each type of personal data absolutely necessary to answer my research question?  
+
+**#3: Are any of the data that I plan to collect personal data? If yes, is each type of personal data absolutely necessary to answer my research question?**  
 <br>
-- #4: Are the personal data directly or indirectly identifiable? We'll define these terms and look at examples below.   
+
+**#4: Are the personal data directly or indirectly identifiable?** (We'll define these terms and look at examples below.)   
 <br> 
  
 ## Direct Identifiers
@@ -46,8 +49,7 @@ It may seem like a dataset that has information about ages or shoe sizes wouldn'
 In certain cases, the context will determine if data is directly versus indirectly identifiable. Let's look at two examples:  
 
 - **Example #1:** Broad information about geolocations (e.g. participants’ temporary locations such as a city, neighborhood, or campus) can act as indirect identifiers in combination with other data points. However, in some cases coordinates pinpoint a research participant's home address or specifically track a person's regular movements. In such situations, the geolocation standing alone could potentially be enough to directly reidentify a participant, so the geolocation data would be considered directly identifiable personal information.  
-
- 
+<br>
 
 - **Example #2:** General information about gender or height can act as indirectly identifiable personal information: it might pinpoint an individual person when combined with other pieces of data such as age or workplace. And if the sample size is small enough, sometimes these details become much more directly identifiable. Imagine: all the employees of a small company take a survey about their satisfaction with changes implemented by their manager. The survey also asks them to indicate their gender. There is only one male staff member, so in this context, gender standing alone makes it possible to pinpoint his survey responses.  
 
