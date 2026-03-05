@@ -121,5 +121,12 @@ You must check beforehand if the design of your research project prevents re-ide
  
 
 ## Practice for Section II:  
+```{h5p} https://tudelft.h5p.com/content/1292839832320972837
+```
+```{h5p} https://tudelft.h5p.com/content/1292839832022026197
+```
 
-As you read the scenario below, ask yourself: in what way(s) could Femke's planned methods of data collection, data storage, processing, or sharing cause harm to the people involved in her study?  
+<br> 
+
+
+
