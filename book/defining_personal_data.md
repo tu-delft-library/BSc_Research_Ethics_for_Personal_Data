@@ -60,10 +60,27 @@ In certain cases, the context will determine if data is directly versus indirect
 
 ## Scenario 
 
+```{admonition} Video
+:class: tip
 This video gives an example of a researcher who is delving into ethical questions as she plans and designs a study. 
+```
 INSERT VIDEO LINK 
 
+<br>
+<br>
+
+
 ## Practice for Section I:  
+
+**Practice A**
+```{h5p} https://tudelft.h5p.com/content/1292809548674926597
+```
+
+**Practice B** 
+```{h5p} https://tudelft.h5p.com/content/1292841485144039237
+```
+
+<br>
 
 
 
