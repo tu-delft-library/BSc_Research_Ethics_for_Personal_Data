@@ -126,6 +126,11 @@ You must check beforehand if the design of your research project prevents re-ide
 ```{h5p} https://tudelft.h5p.com/content/1292839832022026197
 ```
 
+<br>
+Femke must now identify strategies to eliminate or minimize each of the identified risks. We'll look at methods to prevent and mitigate risk in the next section.  
+
+<br> 
+
 <br> 
 
 
