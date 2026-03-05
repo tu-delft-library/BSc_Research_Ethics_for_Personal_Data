@@ -113,7 +113,13 @@ A document containing personal data can be encrypted by enabling the locking fun
 
 Let's revisit Paula's research project and see how she evaluates and minimises elements of risk: 
 
+<br>
+
 ## Practice for Section III:  
+```{h5p} https://tudelft.h5p.com/content/1292839831402579437
+```
+
+<br>
 
 
 
