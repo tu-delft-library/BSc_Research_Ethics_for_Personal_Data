@@ -48,22 +48,25 @@ It may seem like a dataset that has information about ages or shoe sizes wouldn'
 
 In certain cases, the context will determine if data is directly versus indirectly identifiable. Let's look at two examples:  
 
-- **Example #1:** Broad information about geolocations (e.g. participants’ temporary locations such as a city, neighborhood, or campus) can act as indirect identifiers in combination with other data points. However, in some cases coordinates pinpoint a research participant's home address or specifically track a person's regular movements. In such situations, the geolocation standing alone could potentially be enough to directly reidentify a participant, so the geolocation data would be considered directly identifiable personal information.  
+```{admonition} Example 1: Grey Area
+:class: tip
+Broad information about geolocations (e.g. participants’ temporary locations such as a city, neighborhood, or campus) can act as indirect identifiers in combination with other data points. However, in some cases coordinates pinpoint a research participant's home address or specifically track a person's regular movements. In such situations, the geolocation standing alone could potentially be enough to directly reidentify a participant, so the geolocation data would be considered directly identifiable personal information.
+```  
 <br>
 
-- **Example #2:** General information about gender or height can act as indirectly identifiable personal information: it might pinpoint an individual person when combined with other pieces of data such as age or workplace. And if the sample size is small enough, sometimes these details become much more directly identifiable. Imagine: all the employees of a small company take a survey about their satisfaction with changes implemented by their manager. The survey also asks them to indicate their gender. There is only one male staff member, so in this context, gender standing alone makes it possible to pinpoint his survey responses.  
-
+```{admonition} Example 2: Grey Area
+:class: tip
+**Example #2:** General information about gender or height can act as indirectly identifiable personal information: it might pinpoint an individual person when combined with other pieces of data such as age or workplace. And if the sample size is small enough, sometimes these details become much more directly identifiable. Imagine: all the employees of a small company take a survey about their satisfaction with changes implemented by their manager. The survey also asks them to indicate their gender. There is only one male staff member, so in this context, gender standing alone makes it possible to pinpoint his survey responses.  
+```  
  
 ! Most importantly, whether the data is directly or indirectly identifiable, you must implement measures to protect people's personal information: **all personal data must be processed and stored with care**.  
 
  
 
-## Scenario 
+## Scenario: Video 
 
-```{admonition} Video
-:class: tip
 This video gives an example of a researcher who is delving into ethical questions as she plans and designs a study. 
-```
+
 INSERT VIDEO LINK 
 
 <br>
