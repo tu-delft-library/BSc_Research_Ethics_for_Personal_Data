@@ -21,16 +21,16 @@ These pieces of information are personal data because they can be **directly** o
 
 As a researcher, it is your legal and ethical imperative to protect the dignity, safety, and privacy of the people participating in your study. When you design your study, you need to start by asking yourself the following questions:  
 
-**#1: What's my research question or goal?**
+<p style="text-align: center;">**#1: What's my research question or goal?**</p>
 <br>
 
-**#2: Which data do I need to collect to answer my research question?**  
+<p style="text-align: center;">**#2: Which data do I need to collect to answer my research question?**</p>  
 <br>
 
-**#3: Are any of the data that I plan to collect personal data? If yes, is each type of personal data absolutely necessary to answer my research question?**  
+<p style="text-align: center;">**#3: Are any of the data that I plan to collect personal data? If yes, is each type of personal data absolutely necessary to answer my research question?**</p>  
 <br>
 
-**#4: Are the personal data directly or indirectly identifiable?** (We'll define these terms and look at examples below.)   
+<p style="text-align: center;">**#4: Are the personal data directly or indirectly identifiable?** (We'll define these terms and look at examples below.)</p>   
 <br> 
  
 ## Direct Identifiers
