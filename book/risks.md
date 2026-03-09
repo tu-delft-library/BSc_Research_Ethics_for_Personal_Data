@@ -7,9 +7,11 @@ In this section, we'll look at examples of risks involving personal data that ca
 During this phase of planning, you need to be asking yourself: 
 <br>
 <br>
+
 **In what way(s) could my planned methods of data collection, data storage, processing, or sharing cause harm to the people involved in my study?** 
 <br>
 <br>
+
 To give you ideas about how to evaluate risk, we will first look at two types of high-risk personal data. Then, we will introduce a variety of different examples of risks to human participants that can arise during and after research projects.  
 
  
@@ -113,23 +115,20 @@ You must check beforehand if the design of your research project prevents re-ide
 
 ## Risks Using Generative AI: 
 
+“Feeding” any type of personal data  into large language models (LLMs) like Chat GPT raises serious privacy concerns. Depending on the type of account, the information can be retained for a number of days. Meanwhile, the data you enter can be accessed by people managing the AI system who do not have authorization to view the personal details of your research subjects. It's also possible the input will be re-used for training data: in other words, the data will be used by the company to train future models. This goes against the promise you will have made to your research participants to keep their data private, secure, and used only for specific research purposes. TU Delft's recommendation for the AI tool Copilot Chat is to only enter public information (not any personal data or confidential information) into the chat.  
+<br>
+
 - Example: A researcher uses Generative AI to analyse the data he's collected for a study on commuting patterns in the Netherlands. The data includes personal data about how often, how far, and by what means participants travel to their places of work. The researcher thinks it's no big deal to ask ChatGPT for help analysing the dataset. He thinks it's fine to upload this personal data because it doesn't trace directly back to individual participants (it's not like he's uploading people's BSN numbers to the internet). He uses a free ChatGPT account and doesn't verify whether the data will be retained by the AI model. 
 <br>
 
-“Feeding” any type of personal data  into large language models (LLMs) like Chat GPT raises serious privacy concerns. Depending on the type of account, the information can be retained for a number of days. Meanwhile, the data you enter can be accessed by people managing the AI system who do not have authorization to view the personal details of your research subjects. It's also possible the input will be re-used for training data: in other words, the data will be used by the company to train future models. This goes against the promise you will have made to your research participants to keep their data private, secure, and used only for specific research purposes. TU Delft's recommendation for the AI tool Copilot Chat is to only enter public information (not any personal data or confidential information) into the chat.  
-<br>
+
  
 
 ## Practice for Section II:  
 ```{h5p} https://tudelft.h5p.com/content/1292839832320972837
 ```
-```{h5p} https://tudelft.h5p.com/content/1292839832022026197
-```
-
 <br>
-Femke must now identify strategies to eliminate or minimize each of the identified risks. We'll look at methods to prevent and mitigate risk in the next section.  
 
-<br> 
 
 <br> 
 
