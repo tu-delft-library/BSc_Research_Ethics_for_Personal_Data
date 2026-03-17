@@ -10,10 +10,23 @@ Researchers who collect personal data from people must adhere to the General Dat
 
 Let's enhance our understanding by looking at a variety of examples of personal data:   
 
-|   |   |   |   |   | 
-|---|---|---|---|---|
-| <img src="IP_address.png" alt="IP address icon" width="50"> |   |   |   |   |
-| An IP address | A patient's heart rate | A social media post | An online review of a restaurant | Raw transcripts from an interview |
+::::{grid} 5 
+:::{grid-item-card}  An IP address 
+Image A
+:::
+:::{grid-item-card}  A patient's heart rate 
+Image B
+:::
+:::{grid-item-card}  A social media post 
+Image C
+:::
+:::{grid-item-card}  An online review of a restaurant 
+Image D
+:::
+:::{grid-item-card}  Raw transcripts from an interview 
+Image E
+:::
+::::
 
 
 
