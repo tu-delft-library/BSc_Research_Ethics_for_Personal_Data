@@ -32,7 +32,6 @@ This pilot was developed in collaboration between Narmin Rzayeva (TU Delft Resea
  
 
 ## How to Cite This Resource: 
-
-[APA citation goes here]  
+> `Folsom, P., Ryazeva, N.` (`2025`) _`BSc Research Ethics for Personal Data`_. `<https://tu-delft-library.github.io/BSc_Research_Ethics_for_Personal_Data/main/intro.html>`. Source files at `<https://github.com/tu-delft-library/BSc_Research_Ethics_for_Personal_Data>`. CC BY 4.0.
 
    
