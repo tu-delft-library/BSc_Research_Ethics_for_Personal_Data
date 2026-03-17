@@ -10,8 +10,12 @@ Researchers who collect personal data from people must adhere to the General Dat
 
 Let's enhance our understanding by looking at a variety of examples of personal data:   
 
-[images personal data](book/graphics/Marriage_status.png)
+```{figure} ../graphics/Marriage_status.png
+:width: 200px
+:alt: This is a graphic for personal data
 
+"graphic" by TU Delft Library Education Support is licensed under CC by 4.0
+```
 
 
 
