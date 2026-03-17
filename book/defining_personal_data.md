@@ -52,22 +52,57 @@ As a researcher, it is your legal and ethical imperative to protect the dignity,
 ## Direct Identifiers
 **Direct identifiers** (also called **directly identifiable personal information**) are pieces of personal data that are unique to an individual. A direct identifier standing alone is enough to directly identify an individual research participant. If a direct identifier is accidentally leaked, the risk of exposing a participant’s identity and private information is high. Therefore, direct identifiers should be treated with caution. Examples of direct identifiers are: 
 
-|   |   |   |   | 
-|---|---|---|---|
-|   |   |   |   | 
-| A photo that shows recognizable features| A video that shows recognizable features | Someone's full name | A social security number/BSN | 
-|   |   |   |   |  
-|Someone's exact birthdate | Someone's address | A biomarker like a fingerprint | An email address (that includes someone's name) |
+::::{grid} 4 
+:::{grid-item-card}   A photo that shows recognizable features 
+Image A
+:::
+:::{grid-item-card}  A video that shows recognizable features 
+Image B
+:::
+:::{grid-item-card}  Someone's full name 
+Image C
+:::
+:::{grid-item-card}  Someone's social security number/ BSN 
+Image D
+:::
+::::
+::::{grid} 4 
+:::{grid-item-card}  Someone's exact birth dates  
+Image A
+:::
+:::{grid-item-card}  Someone's exact addresses  
+Image B
+:::
+:::{grid-item-card}  A biomarker like a fingerprint 
+Image C
+:::
+:::{grid-item-card}  An email address (with someone's name) 
+Image D
+:::
+::::
 <br>
 
 
 ## Indirect Identifiers
-**Indirect identifiers** (**indirectly identifiable personal information**) are data that could indirectly reveal a research participant's identity if combined with other available details. These additional details could be found either within the same dataset or separately, like on the web. Because indirect identifiers can lead to reidentification in combination with other data, they are also referred to as "quasi-identifiers”. Examples of data that can act as indirect identifiers include: 
+**Indirect identifiers** (**indirectly identifiable personal information**) are data that could indirectly reveal a research participant's identity if combined with other available details. These additional details could be found either within the same dataset or separately, like on the web. Because indirect identifiers can lead to reidentification in combination with other data, they are also referred to as **"quasi-identifiers”**. Examples of data that can act as indirect identifiers include: 
 
-|   |   |   |   |   | 
-|---|---|---|---|---|
-|   |   |   |   |   |
-| Height | Shoe size | Marital status | Opinions about an experience | Age ranges |
+::::{grid} 5 
+:::{grid-item-card}  Height 
+Image A
+:::
+:::{grid-item-card}  Shoe size 
+Image B
+:::
+:::{grid-item-card}  Marital status 
+Image C
+:::
+:::{grid-item-card}  Opinions about an experience
+Image D
+:::
+:::{grid-item-card}  Age ranges 
+Image E
+:::
+::::
 <br>
 
 It may seem like a dataset that has information about ages or shoe sizes wouldn't carry much risk. However, indirectly identifiable personal information can still be risky because the data can still be linked back to a specific individual. For example, it could be possible to re-identify study participants if indirect identifiers were combined with other details such as gender, workplace, or location, especially in research studies involving small groups of participants. 
