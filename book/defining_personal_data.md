@@ -41,7 +41,11 @@ As a researcher, it is your legal and ethical imperative to protect the dignity,
 ## Direct Identifiers
 **Direct identifiers** (also called **directly identifiable personal information**) are pieces of personal data that are unique to an individual. A direct identifier standing alone is enough to directly identify an individual research participant. If a direct identifier is accidentally leaked, the risk of exposing a participant’s identity and private information is high. Therefore, direct identifiers should be treated with caution. Examples of direct identifiers are: 
 
-EXAMPLES GO HERE
+|   |   |   |   |   |   |   |   |   
+|---|---|---|---|---|---|---|---|
+|   |   |   |   |   |   |   |   |
+| A photo that shows recognizable features| A video that shows recognizable features | Someone's full name | A social security number/BSN | Someone's exact birthdate | Someone's address | A biomarker like a fingerprint | An email address (that includes someone's name) |
+
 
 ## Indirect Identifiers
 **Indirect identifiers** (**indirectly identifiable personal information**) are data that could indirectly reveal a research participant's identity if combined with other available details. These additional details could be found either within the same dataset or separately, like on the web. Because indirect identifiers can lead to reidentification in combination with other data, they are also referred to as "quasi-identifiers”. Examples of data that can act as indirect identifiers include: 
