@@ -12,7 +12,7 @@ Let's enhance our understanding by looking at a variety of examples of personal 
 
 ::::{grid} 5 
 :::{grid-item-card}  An IP address 
-<img src="../graphics/IP_address.png"alt="IP address" />
+<img-bottom="../graphics/IP_address.png"alt="IP address" />
 :::
 :::{grid-item-card}  A patient's heart rate 
 Image B
