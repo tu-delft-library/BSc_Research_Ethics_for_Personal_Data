@@ -4,33 +4,34 @@
 
 Researchers who collect personal data from people must adhere to the General Data Protection Regulation (**GDPR**), or *Algemene verordening gegevensbescherming* (*AVG*), which establishes legal guidelines for working with human research data within the European Union. We will not delve into the details of the GDPR in this mini-module, but the explanations and recommendations shared within these materials are in accordance with the law. 
 <br>
-<center>
-  <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
-    <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">?</span>
-    Personal data is defined as any information that can be traced back to a unique person. 
-  </div>
-</center>
+
+**Personal data** is defined as **any information that can be traced back to a unique person.** 
 <br>
+
 Let's enhance our understanding by looking at a variety of examples of personal data:   
 
-EXAMPLES WITH IMAGES GO HERE! 
+[images personal data}(graphics/BSN by Paige.png)
+
+
+
 
 These pieces of information are personal data because they can be **directly** or **indirectly** traced back to a single person. Keep in mind that supporting documents or administrative artefacts used to organise a study can also contain personal data. For example, a contact list with the emails of research participants is considered personal data, as are copies of forms that research participants sign to give their consent (informed consent forms). 
 
 ## Direct versus Indirect Identifiers  
 
-As a researcher, it is your legal and ethical imperative to protect the dignity, safety, and privacy of the people participating in your study. When you design your study, you need to start by asking yourself the following questions:  
-
-<p style="text-align: center;">**#1: What's my research question or goal?**</p>
+As a researcher, it is your legal and ethical imperative to protect the dignity, safety, and privacy of the people participating in your study. When you design your study, you need to start by asking yourself the following questions: 
 <br>
 
-<p style="text-align: center;">**#2: Which data do I need to collect to answer my research question?**</p>  
+- **#1: What's my research question or goal?**
 <br>
 
-<p style="text-align: center;">**#3: Are any of the data that I plan to collect personal data? If yes, is each type of personal data absolutely necessary to answer my research question?**</p>  
+- **#2: Which data do I need to collect to answer my research question?**
 <br>
 
-<p style="text-align: center;">**#4: Are the personal data directly or indirectly identifiable?** (We'll define these terms and look at examples below.)</p>   
+- **#3: Are any of the data that I plan to collect personal data? If yes, is each type of personal data absolutely necessary to answer my research question?** 
+<br>
+
+- **#4: Are the personal data directly or indirectly identifiable?** (We'll define these terms and look at examples below.)   
 <br> 
  
 ## Direct Identifiers
@@ -59,7 +60,7 @@ Broad information about geolocations (e.g. participants’ temporary locations s
 **Example #2:** General information about gender or height can act as indirectly identifiable personal information: it might pinpoint an individual person when combined with other pieces of data such as age or workplace. And if the sample size is small enough, sometimes these details become much more directly identifiable. Imagine: all the employees of a small company take a survey about their satisfaction with changes implemented by their manager. The survey also asks them to indicate their gender. There is only one male staff member, so in this context, gender standing alone makes it possible to pinpoint his survey responses.  
 ```  
  
-! Most importantly, whether the data is directly or indirectly identifiable, you must implement measures to protect people's personal information: **all personal data must be processed and stored with care**.  
+Most importantly, whether the data is directly or indirectly identifiable, you must implement measures to protect people's personal information: **all personal data must be processed and stored with care**.  
 
  
 
@@ -74,10 +75,12 @@ INSERT VIDEO LINK
 
 
 ## Practice for Section I:  
+Check your understanding by doing the two practice exercises provided here.  
 
 **Practice A**
 ```{h5p} https://tudelft.h5p.com/content/1292809548674926597
 ```
+<br> 
 
 **Practice B** 
 ```{h5p} https://tudelft.h5p.com/content/1292841485144039237
