@@ -5,14 +5,14 @@
 Researchers who collect personal data from people must adhere to the General Data Protection Regulation (**GDPR**), or *Algemene verordening gegevensbescherming* (*AVG*), which establishes legal guidelines for working with human research data within the European Union. We will not delve into the details of the GDPR in this mini-module, but the explanations and recommendations shared within these materials are in accordance with the law. 
 <br>
 
-{bdg-dark-line}`**Personal data** is defined as **any information that can be traced back to a unique person.**`  
+{bdg-dark-line}`Personal data is defined as any information that can be traced back to a unique person.`  
 <br>
 
 Let's enhance our understanding by looking at a variety of examples of personal data:   
 
 ::::{grid} 5 
 :::{grid-item-card}  An IP address 
-<img-bottom="../graphics/IP_address.png"alt="IP address" />
+:img-bottom: graphics/IP_address.png
 :::
 :::{grid-item-card}  A patient's heart rate 
 Image B
