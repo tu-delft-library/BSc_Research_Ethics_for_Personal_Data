@@ -12,7 +12,7 @@ Let's enhance our understanding by looking at a variety of examples of personal 
 
 |   |   |   |   |   | 
 |---|---|---|---|---|
-| <img src="book/graphics/IP_address.png" alt="IP address icon" width="50"> |   |   |   |   |
+| <img src="IP_address.png" alt="IP address icon" width="50"> |   |   |   |   |
 | An IP address | A patient's heart rate | A social media post | An online review of a restaurant | Raw transcripts from an interview |
 
 
@@ -33,7 +33,7 @@ As a researcher, it is your legal and ethical imperative to protect the dignity,
 - **#3: Are any of the data that I plan to collect personal data? If yes, is each type of personal data absolutely necessary to answer my research question?** 
 <br>
 
-- **#4: Are the personal data directly or indirectly identifiable?** (We'll define these terms and look at examples below.)   
+- **#4: Are the personal data directly or indirectly identifiable?** (We'll define these terms next.)   
 <br> 
  
 ## Direct Identifiers
@@ -45,6 +45,7 @@ As a researcher, it is your legal and ethical imperative to protect the dignity,
 | A photo that shows recognizable features| A video that shows recognizable features | Someone's full name | A social security number/BSN | 
 |   |   |   |   |  
 |Someone's exact birthdate | Someone's address | A biomarker like a fingerprint | An email address (that includes someone's name) |
+<br>
 
 
 ## Indirect Identifiers
@@ -54,9 +55,10 @@ As a researcher, it is your legal and ethical imperative to protect the dignity,
 |---|---|---|---|---|
 |   |   |   |   |   |
 | Height | Shoe size | Marital status | Opinions about an experience | Age ranges |
+<br>
 
-
-It may seem like a dataset that has information about ages or shoe sizes wouldn't carry much risk. However, indirectly identifiable personal information can still be risky because the data can still be linked back to a specific individual. For example, it could be possible to re-identify study participants if indirect identifiers were combined with other details such as gender, workplace, or location, especially in research studies involving small groups of participants.  
+It may seem like a dataset that has information about ages or shoe sizes wouldn't carry much risk. However, indirectly identifiable personal information can still be risky because the data can still be linked back to a specific individual. For example, it could be possible to re-identify study participants if indirect identifiers were combined with other details such as gender, workplace, or location, especially in research studies involving small groups of participants. 
+<br>
 
 ## Grey Area: Indirect or Direct?  
 
@@ -87,15 +89,16 @@ INSERT VIDEO LINK
 <br>
 
 
-## Practice for Section I:  
-Check your understanding by doing the two practice exercises provided here.  
+## Practice for Section I: 
 
-**Practice A**
+Check your understanding by completing the two practice exercises below.  
+
+### Practice A:
 ```{h5p} https://tudelft.h5p.com/content/1292809548674926597
 ```
 <br> 
 
-**Practice B** 
+### Practice B: 
 ```{h5p} https://tudelft.h5p.com/content/1292841485144039237
 ```
 
