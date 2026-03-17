@@ -15,16 +15,16 @@ Let's enhance our understanding by looking at a variety of examples of personal 
 :img-bottom: graphics/IP_address.png
 :::
 :::{grid-item-card}  A patient's heart rate 
-Image B
+:img-bottom: graphics/Heartrate.png
 :::
 :::{grid-item-card}  A social media post 
-Image C
+:img-bottom: graphics/Social_media_post.png
 :::
 :::{grid-item-card}  An online review of a restaurant 
-Image D
+:img-bottom: graphics/restaurant_review.png
 :::
 :::{grid-item-card}  Raw transcripts from an interview 
-Image E
+:img-bottom: graphics/Interview_transcripts.png
 :::
 ::::
 
@@ -54,30 +54,30 @@ As a researcher, it is your legal and ethical imperative to protect the dignity,
 
 ::::{grid} 4 
 :::{grid-item-card}   A photo that shows recognizable features 
-Image A
+:img-bottom: graphics/photo_recognizable_features.png
 :::
 :::{grid-item-card}  A video that shows recognizable features 
-Image B
+:img-bottom: graphics/Videos_recognizable_features.png
 :::
 :::{grid-item-card}  Someone's full name 
-Image C
+:img-bottom: graphics/Nametag_full_name.png
 :::
 :::{grid-item-card}  Someone's social security number/ BSN 
-Image D
+:img-bottom: graphics/BSN.png
 :::
 ::::
 ::::{grid} 4 
 :::{grid-item-card}  Someone's exact birth dates  
-Image A
+:img-bottom: graphics/Exact_birthdate.png
 :::
 :::{grid-item-card}  Someone's exact addresses  
-Image B
+:img-bottom: graphics/Exact_address.png
 :::
 :::{grid-item-card}  A biomarker like a fingerprint 
-Image C
+:img-bottom: graphics/fingerprint.png
 :::
 :::{grid-item-card}  An email address (with someone's name) 
-Image D
+:img-bottom: graphics/email.png
 :::
 ::::
 <br>
@@ -88,19 +88,19 @@ Image D
 
 ::::{grid} 5 
 :::{grid-item-card}  Height 
-Image A
+:img-bottom: graphics/Height.png
 :::
 :::{grid-item-card}  Shoe size 
-Image B
+:img-bottom: graphics/Shoe_size.png
 :::
 :::{grid-item-card}  Marital status 
-Image C
+:img-bottom: graphics/Marriage_status.png
 :::
 :::{grid-item-card}  Opinions about an experience
-Image D
+:img-bottom: graphics/Opinions.png
 :::
 :::{grid-item-card}  Age ranges 
-Image E
+Need to rename image 
 :::
 ::::
 <br>
