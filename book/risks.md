@@ -71,7 +71,7 @@ Similar to special categories, data from vulnerable subjects require special pro
 Now we'll look at examples of risks that can apply more generally to all studies and examine risks that can arise during and after research.  
 
 
-## Risk of Physical and/or Psychological Harm: Examples  
+### Risk of Physical and/or Psychological Harm: Examples  
 Participants can be harmed physically or psychologically due to experimental set-up or conditions. Scroll across the carousel below to see different scenarios: 
 
 ::::{card-carousel} 2
@@ -95,7 +95,7 @@ Interview questions **trigger past trauma**: For example, a group of students is
 
  
 
-## Risk of Data Breaches:   
+### Risk of Data Breaches:   
 
 A data breach occurs when stored personal information is leaked, stolen, or shared with people who are not authorized to view those details. Here are some examples of how data breaches can happen.  
 
@@ -124,7 +124,7 @@ A researcher intended to share an anonymised dataset but accidentally shared the
 ::::   
 <br>
 
-## Risk of Reidentification of Study Participants: 
+### Risk of Reidentification of Study Participants: 
 
 You must check beforehand if the design of your research project prevents re-identification using quasi-identifiers. If there's a chance that the collected data can be linked back to a person, you'll need to implement measures to protect the data (cite: Personal Data and Human Subjects in Research. Brightspace course by RDS). Here are two examples:  
 <br>
@@ -141,16 +141,19 @@ When **sample sizes are small**, it can be easier through the process of elimina
 ```  
 <br>
  
-## Risks Using Generative AI: 
+### Risks Using Generative AI: 
 
-“Feeding” any type of personal data  into large language models (LLMs) like Chat GPT raises serious **privacy concerns**. Depending on the type of account, the information can be retained for a number of days. Meanwhile, the data you enter can be accessed by people managing the AI system who do not have authorization to view the personal details of your research subjects. It's also possible the input will be re-used for training data: in other words, the data will be used by the company to train future models. This goes against the promise you will have made to your research participants to keep their data private, secure, and used only for specific research purposes. TU Delft's recommendation for the AI tool Copilot Chat is to only enter public information (not any personal data or confidential information) into the chat.  
-<br>
+This example should be read as a cautionary tale: 
 
  ```{admonition} Example: Risks of Generative AI 
 :class: tip
 A researcher uses Generative AI to analyse the data he's collected for a study on commuting patterns in the Netherlands. The data includes personal data about how often, how far, and by what means participants travel to their places of work. The researcher thinks it's no big deal to ask ChatGPT for help analysing the dataset. He thinks it's fine to upload this personal data because it doesn't trace directly back to individual participants (it's not like he's uploading people's BSN numbers to the internet). He uses a free ChatGPT account and doesn't verify whether the data will be retained by the AI model. 
 ```  
 <br>
+“Feeding” any type of personal data  into large language models (LLMs) like Chat GPT raises serious **privacy concerns**. Depending on the type of account, the information can be retained for a number of days. Meanwhile, the data you enter can be accessed by people managing the AI system who do not have authorization to view the personal details of your research subjects. It's also possible the input will be re-used for training data: in other words, the data will be used by the company to train future models. This goes against the promise you will have made to your research participants to keep their data private, secure, and used only for specific research purposes. TU Delft's recommendation for the AI tool Copilot Chat is to only enter public information (not any personal data or confidential information) into the chat.  
+<br>
+
+
 
 ## Practice for Section II:  
 Read the scenario and evaluate potential risks in this research project as it's currently designed. 
