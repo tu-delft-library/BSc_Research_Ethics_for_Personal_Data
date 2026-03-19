@@ -8,7 +8,7 @@ During this phase of planning, you need to be asking yourself:
 <br>
 <br>
 
-**In what way(s) could my planned methods of data collection, data storage, processing, or sharing cause harm to the people involved in my study?** 
+- **In what way(s) could my planned methods of data collection, data storage, processing, or sharing cause harm to the people involved in my study?** 
 <br>
 <br>
 
@@ -44,20 +44,27 @@ Some types of personal data are extra sensitive and therefore carry more risk. T
 
 **Vulnerable subjects** are defined as **people who cannot freely give their consent to participate** in a study or who cannot fully protect their own interests, for example due to a **power imbalance, dependency, age, or health conditions**. Vulnerable subjects include people who are not competent to give their consent, as well as groups that could face very **adverse consequences** if their personal data were leaked. Here are two examples of vulnerable subjects:  
 
-**Minors**:  
 
-- A 19-year-old BSc student wants to interview a group of 14-year-olds about their use of resources in the public library system. However, a 14-year-old is not legally able to consent to participate in a study. Also, they might feel pressured or coerced to take part in an interview with an older university student.  
+```{admonition} Vulnerable Subjects: Minors
+:class: tip
+A 19-year-old BSc student wants to interview a group of 14-year-olds about their use of resources in the public library system. However, a 14-year-old is **not legally able to consent** to participate in a study. Also, they might feel **pressured or coerced** to take part in an interview with an older university student. 
+```  
+<br> 
 
-**The elderly**:  
-
-- An 85-year-old woman in the early stages of dementia is asked to participate in an experiment that involves wearing virtual reality goggles. Although the researcher gives the elderly woman a paper copy of the consent materials, she still doesn't fully understand what she is agreeing to. She is not competent to give her consent.  
+ ```{admonition} Vulnerable Subjects: Elderly participants
+:class: tip
+An 85-year-old woman in the early stages of dementia is asked to participate in an experiment that involves wearing virtual reality goggles. Although the researcher gives the elderly woman a paper copy of the consent materials, she still **doesn't fully understand what she is agreeing to**. She is not competent to give her consent.  
+```  
+<br> 
 
 Other groups that fall under the designation of vulnerable subjects include people with **mental disorders, asylum seekers**, and people with **disabilities**.  
 
-Similar to special categories, data from vulnerable subjects require special protection and ethical consideration. As a researcher, you must be aware of power dynamics between yourself and the participants of your study. You must be able to justify why collecting data from vulnerable subjects is absolutely necessary to answer your specific research question(s).  
+Similar to special categories, data from vulnerable subjects require special protection and ethical consideration. As a researcher, you must be aware of power dynamics between yourself and the participants of your study. You must be able to justify why collecting data from vulnerable subjects is absolutely necessary to answer your specific research question(s). 
 
- **! Personal data that falls under special categories or vulnerable subjects should be collected, handled and stored with extreme caution.** Both types of high-risk personal data require more stringent ethical review. 
-
+```{note}
+ **Personal data that falls under special categories or vulnerable subjects should be collected, handled and stored with extreme caution!** Both types of high-risk personal data require more stringent ethical review. 
+```
+<br>
 
 ## Evaluating Potential Risks  
 
@@ -106,25 +113,33 @@ Data breaches can occur due to **improper sharing practices**:
 You must check beforehand if the design of your research project prevents re-identification using quasi-identifiers. If there's a chance that the collected data can be linked back to a person, you'll need to implement measures to protect the data (cite: Personal Data and Human Subjects in Research. Brightspace course by RDS). Here are two examples:  
 <br>
 
-- Study participants are reidentified by combining indirect identifiers: There is risk of reidentification in a study focusing on staff experiences with remote work arrangements at the university. The dataset does not include names or employee numbers, but it does contain age range, department, job role, and whether the respondent has requested workplace accommodations in the past year. In a small department, there is only one staff member aged 55–60 who recently requested accommodations. This combination of characteristics makes it possible to reidentify that individual. If their responses can be traced back to them, this is an invasion of their privacy. Also, the staff member may have divulged very personal details, and if these details are leaked it might change how people see or treat them.  
+ ```{admonition} Reidentification: Example #1
+:class: tip
+Study participants are reidentified by combining indirect identifiers in a study focusing on staff experiences with remote work arrangements at the university. The dataset does not include names or employee numbers, but it does contain age range, department, job role, and whether the respondent has requested workplace accommodations in the past year. In a small department, there is only one staff member aged 55–60 who recently requested accommodations. This combination of characteristics makes it possible to reidentify that individual. If their responses can be traced back to them, this is an invasion of their privacy. Also, the staff member may have divulged very personal details, and if these details are leaked it might change how people see or treat them.  
+```  
 <br>
 
-- When sample sizes are small, it can be easier through the process of elimination to re-identify people based on indirect identifiers that apply to very few participants. For example, in a study examining potential associations between hair color and susceptibility to certain skin diseases, a researcher collects data on the hair color of a small group of study participants along with other indirectly identifiable personal data; there are only two red-headed people among all the participants. Through the process of elimination and in combination with other indirectly identifying details, it's possible to link specific responses back to the two participants with red hair. This threatens the privacy of the two red-headed participants, which is an ethical issue: a researcher's priority should be to maintain the privacy of all participants and protect their personal data.  
+ ```{admonition} Reidentification: Example #2
+:class: tip
+When **sample sizes are small**, it can be easier through the process of elimination to re-identify people based on indirect identifiers that apply to very few participants. For example, in a study examining potential associations between hair color and susceptibility to certain skin diseases, a researcher collects data on the hair color of a small group of study participants along with other indirectly identifiable personal data; there are only two red-headed people among all the participants. Through the process of elimination and in combination with other indirectly identifying details, it's possible to link specific responses back to the two participants with red hair. This **threatens the privacy** of the two red-headed participants, which is an ethical issue: a researcher's top priority should be to maintain the privacy of all participants and protect their personal data.
+```  
 <br>
  
-
 ## Risks Using Generative AI: 
 
-“Feeding” any type of personal data  into large language models (LLMs) like Chat GPT raises serious privacy concerns. Depending on the type of account, the information can be retained for a number of days. Meanwhile, the data you enter can be accessed by people managing the AI system who do not have authorization to view the personal details of your research subjects. It's also possible the input will be re-used for training data: in other words, the data will be used by the company to train future models. This goes against the promise you will have made to your research participants to keep their data private, secure, and used only for specific research purposes. TU Delft's recommendation for the AI tool Copilot Chat is to only enter public information (not any personal data or confidential information) into the chat.  
+“Feeding” any type of personal data  into large language models (LLMs) like Chat GPT raises serious **privacy concerns**. Depending on the type of account, the information can be retained for a number of days. Meanwhile, the data you enter can be accessed by people managing the AI system who do not have authorization to view the personal details of your research subjects. It's also possible the input will be re-used for training data: in other words, the data will be used by the company to train future models. This goes against the promise you will have made to your research participants to keep their data private, secure, and used only for specific research purposes. TU Delft's recommendation for the AI tool Copilot Chat is to only enter public information (not any personal data or confidential information) into the chat.  
 <br>
 
-- Example: A researcher uses Generative AI to analyse the data he's collected for a study on commuting patterns in the Netherlands. The data includes personal data about how often, how far, and by what means participants travel to their places of work. The researcher thinks it's no big deal to ask ChatGPT for help analysing the dataset. He thinks it's fine to upload this personal data because it doesn't trace directly back to individual participants (it's not like he's uploading people's BSN numbers to the internet). He uses a free ChatGPT account and doesn't verify whether the data will be retained by the AI model. 
+ ```{admonition} Example: Risks of Generative AI 
+:class: tip
+A researcher uses Generative AI to analyse the data he's collected for a study on commuting patterns in the Netherlands. The data includes personal data about how often, how far, and by what means participants travel to their places of work. The researcher thinks it's no big deal to ask ChatGPT for help analysing the dataset. He thinks it's fine to upload this personal data because it doesn't trace directly back to individual participants (it's not like he's uploading people's BSN numbers to the internet). He uses a free ChatGPT account and doesn't verify whether the data will be retained by the AI model. 
+```  
 <br>
-
-
- 
 
 ## Practice for Section II:  
+Read the scenario and evaluate potential risks in this research project as it's currently designed. 
+<br>
+
 ```{h5p} https://tudelft.h5p.com/content/1292839832320972837
 ```
 <br>
