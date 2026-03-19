@@ -8,7 +8,7 @@ Researchers who collect personal data from people must adhere to the General Dat
 {bdg-dark-line}`Personal data is defined as any information that can be traced back to a unique person.`  
 <br>
 
-Let's enhance our understanding by looking at a variety of examples of personal data:   
+Let's enhance our understanding through examples. Scroll across the carousel below to see a variety of examples of personal data:   
 
 ::::{card-carousel} 3
 
@@ -26,29 +26,12 @@ Let's enhance our understanding by looking at a variety of examples of personal 
 :::
 :::{card} Raw transcripts from an interview 
 :img-bottom: graphics/Interview_transcripts.png
-:::: 
-
-::::{grid} 5 
-:::{grid-item-card}  An IP address 
-:img-bottom: graphics/IP_address.png
-:::
-:::{grid-item-card}  A patient's heart rate 
-:img-bottom: graphics/Heartrate.png
-:::
-:::{grid-item-card}  A social media post 
-:img-bottom: graphics/Social_media_post.png
-:::
-:::{grid-item-card}  An online review of a restaurant 
-:img-bottom: graphics/restaurant_review.png
-:::
-:::{grid-item-card}  Raw transcripts from an interview 
-:img-bottom: graphics/Interview_transcripts.png
-:::
 ::::
-
-
+ <p style="font-size: x-small;"><em>"Personal data icons" by TU Delft Library - Education Support is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
+<br>
 
 These pieces of information are personal data because they can be **directly** or **indirectly** traced back to a single person. Keep in mind that supporting documents or administrative artefacts used to organise a study can also contain personal data. For example, a contact list with the emails of research participants is considered personal data, as are copies of forms that research participants sign to give their consent (informed consent forms). 
+<br>
 
 ## Direct versus Indirect Identifiers  
 
@@ -68,67 +51,69 @@ As a researcher, it is your legal and ethical imperative to protect the dignity,
 <br> 
  
 ## Direct Identifiers
-**Direct identifiers** (also called **directly identifiable personal information**) are pieces of personal data that are unique to an individual. A direct identifier standing alone is enough to directly identify an individual research participant. If a direct identifier is accidentally leaked, the risk of exposing a participant’s identity and private information is high. Therefore, direct identifiers should be treated with caution. Examples of direct identifiers are: 
+**Direct identifiers** (also called **directly identifiable personal information**) are pieces of personal data that are unique to an individual. A direct identifier standing alone is enough to directly identify an individual research participant. If a direct identifier is accidentally leaked, the risk of exposing a participant’s identity and private information is high. Therefore, direct identifiers should be treated with caution. Scroll across the carousel below to see examples of direct identifiers: 
 
-::::{grid} 4 
-:::{grid-item-card}   A photo that shows recognizable features 
+::::{card-carousel} 4
+
+:::{card}   A photo that shows recognizable features 
 :img-bottom: graphics/photo_recognizable_features.png
 :::
-:::{grid-item-card}  A video that shows recognizable features 
+:::{card}  A video that shows recognizable features 
 :img-bottom: graphics/Videos_recognizable_features.png
 :::
-:::{grid-item-card}  Someone's full name 
+:::{card}  Someone's full name 
 :img-bottom: graphics/Nametag_full_name.png
 :::
-:::{grid-item-card}  Someone's social security number/ BSN 
+:::{card}  Someone's social security number/ BSN 
 :img-bottom: graphics/BSN.png
 :::
-::::
-::::{grid} 4 
-:::{grid-item-card}  Someone's exact birth dates  
+:::{card}  Someone's exact birth dates  
 :img-bottom: graphics/Exact_birthdate.png
 :::
-:::{grid-item-card}  Someone's exact addresses  
+:::{card}  Someone's exact addresses  
 :img-bottom: graphics/Exact_address.png
 :::
-:::{grid-item-card}  A biomarker like a fingerprint 
+:::{card}  A biomarker like a fingerprint 
 :img-bottom: graphics/fingerprint.png
 :::
-:::{grid-item-card}  An email address (with someone's name) 
+:::{card}  An email address (with someone's name) 
 :img-bottom: graphics/email.png
 :::
+:::{card} <p style="font-size: x-small;"><em>"Directly identifiable personal data icons" by TU Delft Library - Education Support are licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
 ::::
+<p style="font-size: x-small;"><em>"Directly identifiable personal data icons" by TU Delft Library - Education Support are licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
 <br>
 
 
 ## Indirect Identifiers
-**Indirect identifiers** (**indirectly identifiable personal information**) are data that could indirectly reveal a research participant's identity if combined with other available details. These additional details could be found either within the same dataset or separately, like on the web. Because indirect identifiers can lead to reidentification in combination with other data, they are also referred to as **"quasi-identifiers”**. Examples of data that can act as indirect identifiers include: 
+**Indirect identifiers** (**indirectly identifiable personal information**) are data that could indirectly reveal a research participant's identity if combined with other available details. These additional details could be found either within the same dataset or separately, like on the web. Because indirect identifiers can lead to reidentification in combination with other data, they are also referred to as **"quasi-identifiers”**. Scroll across the carousel below to see examples of data that can act as indirect identifiers: 
 
-::::{grid} 5 
-:::{grid-item-card}  Height 
+::::{card-carousel} 3
+
+:::{card}  Height 
 :img-bottom: graphics/Height.png
 :::
-:::{grid-item-card}  Shoe size 
+:::{card}  Shoe size 
 :img-bottom: graphics/Shoe_size.png
 :::
-:::{grid-item-card}  Marital status 
+:::{card}  Marital status 
 :img-bottom: graphics/Marriage_status.png
 :::
-:::{grid-item-card}  Opinions about an experience
+:::{card}  Opinions about an experience
 :img-bottom: graphics/Opinions.png
 :::
-:::{grid-item-card}  Age ranges 
-Need to rename image 
-:::
+:::{card}  Age ranges 
+:img-bottom: graphics/Age_ranges.png 
 ::::
+<p style="font-size: x-small;"><em>"Indirectly identifiable personal data icons" by TU Delft Library - Education Support are licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
 <br>
 
-It may seem like a dataset that has information about ages or shoe sizes wouldn't carry much risk. However, indirectly identifiable personal information can still be risky because the data can still be linked back to a specific individual. For example, it could be possible to re-identify study participants if indirect identifiers were combined with other details such as gender, workplace, or location, especially in research studies involving small groups of participants. 
+It may seem like a dataset that has information about ages or shoe sizes wouldn't carry much risk. However, **indirectly identifiable personal information can still be risky** because the data can still be linked back to a specific individual. For example, it could be possible to re-identify study participants if indirect identifiers were combined with other details such as gender, workplace, or location, especially in research studies involving small groups of participants. 
 <br>
 
 ## Grey Area: Indirect or Direct?  
 
-In certain cases, the context will determine if data is directly versus indirectly identifiable. Let's look at two examples:  
+In certain cases, the **context** will determine if data is directly versus indirectly identifiable. Let's look at two examples:  
 
 ```{admonition} Example 1: Grey Area
 :class: tip
@@ -157,7 +142,8 @@ INSERT VIDEO LINK
 
 ## Practice for Section I: 
 
-Check your understanding by completing the two practice exercises below.  
+Check your understanding by completing practice exercises A and B. 
+<br>
 
 ### Practice A:
 ```{h5p} https://tudelft.h5p.com/content/1292809548674926597
@@ -167,7 +153,6 @@ Check your understanding by completing the two practice exercises below.
 ### Practice B: 
 ```{h5p} https://tudelft.h5p.com/content/1292841485144039237
 ```
-
 <br>
 
 
