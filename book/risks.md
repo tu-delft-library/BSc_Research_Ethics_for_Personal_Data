@@ -4,7 +4,7 @@
 
 In this section, we'll look at examples of risks involving personal data that can arise during research. Beyond the legal guidelines established by the GDPR, you as a researcher have an **ethical responsibility** to handle personal data with care. This means carefully pre-assessing each aspect of your study to evaluate potential risks that could arise.  
 
-During this phase of planning, you need to be asking yourself: 
+In this phase of planning, you need to ask yourself: 
 <br>
 <br>
 
