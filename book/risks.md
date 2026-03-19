@@ -22,7 +22,7 @@ Some types of personal data are extra sensitive and therefore carry more risk. T
 
  
 
-### SPECIAL CATEGORIES:   
+### HIGH RISK: SPECIAL CATEGORIES   
 **Special categories** of personal data flag **increased risk** because the information could **endanger participants** if disclosed in certain contexts. Special categories require **careful ethical considerations** because a breach could put participants in physical danger, lead to social discrimination, result in persecution, or cause harm to their reputation.  Therefore, these pieces of information require a higher degree of caution and protection than other types of personal data (even if the data is indirectly identifiable). The following types of information fall under special categories of personal data, with examples of what can happen if this sensitive data is leaked.  
 
 1. **Racial or ethnic origin**: The policies of a government target and segregate members of a certain ethnic group. If a participant's ethnicity were leaked, it could lead to their persecution.  
@@ -40,7 +40,7 @@ Some types of personal data are extra sensitive and therefore carry more risk. T
 7. **Genetic information**: People with a predisposition to an adult-onset genetic disorder could be excluded from future job promotions if their genetic data were exposed publicly.  
 
 
-### VULNERABLE SUBJECTS:   
+### HIGH RISK: VULNERABLE SUBJECTS   
 
 **Vulnerable subjects** are defined as **people who cannot freely give their consent to participate** in a study or who cannot fully protect their own interests, for example due to a **power imbalance, dependency, age, or health conditions**. Vulnerable subjects include people who are not competent to give their consent, as well as groups that could face very **adverse consequences** if their personal data were leaked. Here are two examples of vulnerable subjects:  
 
@@ -68,31 +68,28 @@ Similar to special categories, data from vulnerable subjects require special pro
 
 ## Evaluating Potential Risks  
 
-Now we'll look at examples of risks that can apply more generally to all studies. Below are a variety of scenarios to demonstrate risks that can arise during and after research.  
+Now we'll look at examples of risks that can apply more generally to all studies and examine risks that can arise during and after research.  
 
 
 ## Risk of Physical and/or Psychological Harm: Examples  
+Participants can be harmed physically or psychologically due to experimental set-up or conditions. Scroll across the carousel below to see different scenarios: 
 
-::::{grid} 3
-:::{grid-item-card}  
-Participants are harmed during the study due to experimental set-up or conditions.
+::::{card-carousel} 2
+
+:::{card}   
+**Interview questions** cause respondents **undue stress**. For example, it may seem innocent to ask people what they eat for breakfast, but what if some of your participants are survivors of an eating disorder?
 :::
-:::{grid-item-card}   
-Interview questions cause respondents undue stress. For example, it may seem innocent to ask people what they eat for breakfast, but what if some of your participants are survivors of an eating disorder.
+:::{card} 
+Experimental conditions are **unsafe** for participants with **pre-existing medical conditions**. For example, a patient with a history of seizures may be at risk in a study that involves flashing lights. 
 :::
-:::{grid-item-card} 
-Experimental conditions are unsafe for participants with pre-existing medical conditions. For example, a patient with a history of seizures participates in a study that involves flashing lights. 
+:::{card}  
+Experimental conditions **feel unsafe** for participants. For example, a researcher organises a focus group about workplace climate and mixes supervisors and their employees: it's unlikely that this feels like a safe environment for employees to speak freely (and in this context the employees would be vulnerable subjects).  
 :::
-::::
-::::{grid} 3
-:::{grid-item-card}  
-Experimental conditions feel unsafe for participants. For example, a researcher organises a focus group about workplace climate and mixes supervisors and their employees: it's unlikely that this feels like a safe environment for employees to speak freely (and in this context the employees would be vulnerable subjects).  
+:::{card}   
+There's **no “opt out” protocol**. Or, the experiment is structured in a way that participants don't really feel like they have the right to withdraw. 
 :::
-:::{grid-item-card}   
-There's no “opt out” protocol. Or, the experiment is structured in a way that participants don't really feel like they have the right to withdraw. 
-:::
-:::{grid-item-card} 
-Interview questions trigger past trauma: For example, a group of students is researching the perceptions of employees and students on the existing security measures at a TU Delft faculty. If an employee or a student has encountered a security issue in the past (such as aggression or theft), questioning their perceptions on security measures might trigger emotional distress or bring up difficult memories of this negative experience. 
+:::{card} 
+Interview questions **trigger past trauma**: For example, a group of students is researching the perceptions of employees and students on the existing security measures at a TU Delft faculty. If an employee or a student has encountered a security issue in the past (such as aggression or theft), questioning their perceptions on security measures might **trigger emotional distress** or **bring up difficult memories** of this negative experience. 
 :::
 ::::
 
@@ -120,6 +117,7 @@ A file containing personal data was shared more widely than intended when the re
 :::
 :::{grid-item-card} 
 The data for a Bachelor's end project was shared with all of the students in the course instead of the small group of students working on the project.
+:::
 :::{grid-item-card} 
 A researcher intended to share an anonymised dataset but accidentally shared the original/raw version with identifiable details.
 :::
