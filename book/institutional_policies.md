@@ -13,7 +13,7 @@ For bachelor's projects, supervisors apply on behalf of their students. However,
 
 ```{admonition} Flowchart Viewing Tip
 :class: tip
-For optimal viewing of the flowchart, we suggest that you [download the flowchart](../content_to_download/flowchart_pdf.pdf), and that you view it on a device with a bigger screen.
+For optimal viewing of the flowchart, we suggest that you [download the flowchart](../graphics/HREC_flowchart_pdf.pdf), and that you view it on a device with a bigger screen.
 ```
 ```{iframe} ../graphics/HREC_flowchart_pdf.pdf
 :width: 100%
