@@ -78,8 +78,6 @@ As a researcher, it is your legal and ethical imperative to protect the dignity,
 :::
 :::{card}  An email address (with someone's name) 
 :img-bottom: graphics/email.png
-:::
-:::{card} <p style="font-size: x-small;"><em>"Directly identifiable personal data icons" by TU Delft Library - Education Support are licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
 ::::
 <p style="font-size: x-small;"><em>"Directly identifiable personal data icons" by TU Delft Library - Education Support are licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
 <br>
