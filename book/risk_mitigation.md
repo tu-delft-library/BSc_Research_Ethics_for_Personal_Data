@@ -17,6 +17,11 @@ Data minimisation means that you collect only the data that will help you to dir
 
 Here are examples of how to adhere to the principle of data minimisation:
 
+| **DON'T** |   | **DO** |
+|---|---|---|
+| Ask participants about their exact birthdays | instead... |  Record the age ranges of participants (as long as the range is relevant to answer your research question) | 
+| Collect exact home addresses | instead... | Collect only postal codes or regions (as long as this is sufficient to meet your research goals) |
+
 ## Risk minimisation strategy #2: Obtain Consent from Participants  
 
 There are **two ways to get consent** from study participants: permission can be obtained through **direct consent** or **implied consent**.  
