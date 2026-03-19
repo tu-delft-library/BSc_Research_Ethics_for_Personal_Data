@@ -4,8 +4,10 @@ In Section II, we looked at risks that can arise when working with personal data
 
 Now, we'll focus on concrete strategies to minimise the risks of re-identification and prevent harm to participants. Evaluating and managing risk is a key part of ethical research design. At this point you need to ask yourself: 
 <br>
-**How do I structure my study in a way that prevents each identified risk?** 
+
+- **How do I structure my study in a way that prevents each identified risk?** 
 <br>
+
 Below, we'll look at five baseline risk prevention and minimisation strategies that help to protect the wellbeing, safety, and privacy of your research participants. These five strategies provide a general foundation; however, each researcher must carefully assess the specific characteristics, context, and potential risks of their own study and design prevention and minimisation measures that fit those circumstances. 
 <br>
 <br>
@@ -74,35 +76,37 @@ Anonymisation is the process of modifying or erasing all personal data that may 
 
 Best practice is not to collect such personal details in the first place if they are not essential to address research questions. But if these details have already been collected, researchers must ensure they get removed as soon as possible so the dataset can no longer be traced back to a specific person. Note: it may be necessary to collect names for the purposes of the informed consent form. And if that's the case, the informed consent forms should be stored in a secure place separate from the rest of the collected data.  
 
+```{admonition} Anonymisation: Example #1 
+:class: tip
+ A survey aims to measure the job satisfaction of employees at the various branches of a large Dutch bank. Full anonymisation of the survey data means removing personal data that could be linked back to any individual survey taker. For example, the researcher needs to delete details like specific job titles, remove references to specific branch locations, and redact any names of supervisors mentioned in open responses as these details, especially when combined, could make it possible to trace responses back to a specific person.
+```  
+<br> 
 
-**Anonymisation example #1:**  
-
-- A survey aims to measure the job satisfaction of employees at the various branches of a large Dutch bank. Full anonymisation of the survey data means removing personal data that could be linked back to any individual survey taker. For example, the researcher needs to delete details like specific job titles, remove references to specific branch locations, and redact any names of supervisors mentioned in open responses as these details, especially when combined, could make it possible to trace responses back to a specific person.  
-
- 
-
-**Anonymisation example #2:** 
-
-- A dataset contains interview transcripts with quotes like “As the only female professor in the Department of Chemical Engineering, I often feel….” This clearly identifies an individual participant. Through anonymisation, the transcript is changed to “As a professor in my department, I often feel….” The reference to a gender and specific department is removed so the statement becomes anonymous and can no longer be traced back to one person. 
+```{admonition} Anonymisation: Example #2 
+:class: tip
+ A dataset contains interview transcripts with quotes like “As the only female professor in the Department of Chemical Engineering, I often feel….” This clearly identifies an individual participant. Through anonymisation, the transcript is changed to “As a professor in my department, I often feel….” The reference to a gender and specific department is removed so the statement becomes anonymous and can no longer be traced back to one person. 
+```  
+<br> 
 
 ## Pseudonymisation
-Pseudonymisation means that a researcher replaces certain personal data with anonymous identifiers such as number or letter combinations in a way that the personal data can’t point to a specific subject unless they have access to the key (also known as a linkage file).  
+Pseudonymisation means that a researcher replaces certain personal data with anonymous identifiers such as number or letter combinations in a way that the personal data can’t point to a specific subject unless they have access to the key (also known as a linkage file). 
 
-**Pseudonymisation example #1:**  
-
-- A researcher transcribed the comments of participants during a focus  group. She recorded participants’ names in the transcript to be able to distinguish who had said what. To pseudonymise the transcript data, she replaces the participant's names with number codes and creates a key (a separate spreadsheet) that shows the code for each name. This pseudonymised data can be shared with restricted access, and only with participants’ consent. The researcher must store the key separate from the pseudonymised dataset in a secure location and control access to it since the key would allow for the reidentification of participants. This example illustrates that pseudonymisation is reversible (with the key). This is why pseudonymised data is still considered personal data. 
+```{admonition} Pseudonymisation: Example #1 
+:class: tip
+A researcher transcribed the comments of participants during a focus  group. She recorded participants’ names in the transcript to be able to distinguish who had said what. To pseudonymise the transcript data, she replaces the participant's names with number codes and creates a key (a separate spreadsheet) that shows the code for each name. This pseudonymised data can be shared with restricted access, and only with participants’ consent. The researcher must store the key separate from the pseudonymised dataset in a secure location and control access to it since the key would allow for the reidentification of participants. This example illustrates that pseudonymisation is reversible (with the key). This is why pseudonymised data is still considered personal data. 
+```  
+<br> 
 
 As part of pseudonymisation the researcher can also aggregate the data, replacing specific details with more general categories. For example, a researcher might aggregate the names of specific academic programs by replacing the program names with the name of the faculty.  
 
+```{admonition} Pseudonymisation: Example #2 with aggregation
+:class: tip
+In the large-scale study of students’ learning experiences across universities, the researchers aggregate detailed programme codes by grouping the participants into general faculty/discipline categories. They also aggregate individual campus and city names into broader regional categories. The researchers then pseudonymise students’ ID numbers by replacing the IDs with random codes. They ensure that the linkage file (the key) is stored separately in a secure location, with access restricted to the minimum necessary project collaborators. The original dataset should get securely archived with strict access controls. 
+```  
+<br> 
 
-**Pseudonymisation example #2 (with aggregation):**   
-
-- In the large-scale study of students’ learning experiences across universities, the researchers aggregate detailed programme codes by grouping the participants into general faculty/discipline categories. They also aggregate individual campus and city names into broader regional categories. The researchers then pseudonymise students’ ID numbers by replacing the IDs with random codes. They ensure that the linkage file (the key) is stored separately in a secure location, with access restricted to the minimum necessary project collaborators. The original dataset should get securely archived with strict access controls. 
-
- 
-Anonymisation and pseudonymisation are time-intensive processes that are done after you've collected the data. Therefore, we recommend that you design your study to collect only the personal data that you absolutely need to answer your research question(s). During the planning phase of your research you must establish whether you will anonymise or pseudonymise participants’ personal data. In your opening statement or on your Informed Consent Form you must make it clear to participants how their personal data will be protected. 
-
- 
+Anonymisation and pseudonymisation are **time-intensive processes** that are **done after you've collected the data**. Therefore, we recommend that you design your study to collect only the personal data that you absolutely need to answer your research question(s). During the planning phase of your research you must establish whether you will anonymise or pseudonymise participants’ personal data. In your opening statement or on your Informed Consent Form you must make it clear to participants how their personal data will be protected. 
+<br>
 
 ## Risk minimisation strategy #5: Secure sharing through encryption  
 
@@ -116,6 +120,9 @@ Let's revisit Paula's research project and see how she evaluates and minimises e
 <br>
 
 ## Practice for Section III:  
+Complete the practice questions to check your understanding of the vocabulary and concepts in this section. 
+<br>
+
 ```{h5p} https://tudelft.h5p.com/content/1292839831402579437
 ```
 
