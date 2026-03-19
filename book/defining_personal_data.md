@@ -51,7 +51,7 @@ As a researcher, it is your legal and ethical imperative to protect the dignity,
 <br> 
  
 ## Direct Identifiers
-**Direct identifiers** (also called **directly identifiable personal information**) are pieces of personal data that are unique to an individual. A direct identifier standing alone is enough to directly identify an individual research participant. If a direct identifier is accidentally leaked, the risk of exposing a participant’s identity and private information is high. Therefore, direct identifiers should be treated with caution. Scroll across the carousel below to see examples of direct identifiers: 
+**Direct identifiers** (also called **directly identifiable personal information**) are pieces of personal data that are unique to an individual. A direct identifier standing alone is enough to directly identify an individual research participant. If a direct identifier is accidentally leaked, **the risk of exposing a participant’s identity and private information is high**. Therefore, direct identifiers should be treated with caution. Scroll across the carousel below to see examples of direct identifiers: 
 
 ::::{card-carousel} 4
 
