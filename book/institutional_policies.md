@@ -19,8 +19,8 @@ For optimal viewing of the flowchart, we suggest that you [download the flowchar
 :width: 100%
 :aspectratio: auto 16 / 9
 ```
+<br>
 
-  
 As shown in the flowchart, a researcher must submit at least three components to HREC:  
 
 - **A signed HREC checklist:**
@@ -59,7 +59,7 @@ If you are interested in learning more about research practices and policies at 
 <br>
 
 ## Practice for Section IV 
-Check your understanding by doing the practice questions. 
+Check your understanding by completing three practice questions. 
 <iframe src="https://tudelft.h5p.com/content/1292839830104851067/embed" aria-label="Section #4 Quiz" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 <br>
 
