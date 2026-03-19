@@ -73,17 +73,28 @@ Now we'll look at examples of risks that can apply more generally to all studies
 
 ## Risk of Physical and/or Psychological Harm: Examples  
 
-- Participants are harmed during the study due to experimental set-up or conditions  
-
-- Interview questions cause respondents undue stress. For example, it may seem innocent to ask people what they eat for breakfast, but what if some of your participants are survivors of an eating disorder.   
-
-- Experimental conditions are unsafe for participants with pre-existing medical conditions. For example, a patient with a history of seizures participates in a study that involves flashing lights. 
-
-- Experimental conditions feel unsafe for participants. For example, a researcher organises a focus group about workplace climate and mixes supervisors and their employees: it's unlikely that this feels like a safe environment for employees to speak freely (and in this context the employees would be vulnerable subjects).   
-
-- There's no “opt out” protocol. Or, the experiment is structured in a way that participants don't really feel like they have the right to withdraw.  
-
-- Interview questions trigger past trauma: For example, a group of students is researching the perceptions of employees and students on the existing security measures at a TU Delft faculty. If an employee or a student has encountered a security issue in the past (such as aggression or theft), questioning their perceptions on security measures might trigger emotional distress or bring up difficult memories of this negative experience. 
+::::{grid} 3
+:::{grid-item-card}  
+Participants are harmed during the study due to experimental set-up or conditions.
+:::
+:::{grid-item-card}   
+Interview questions cause respondents undue stress. For example, it may seem innocent to ask people what they eat for breakfast, but what if some of your participants are survivors of an eating disorder.
+:::
+:::{grid-item-card} 
+Experimental conditions are unsafe for participants with pre-existing medical conditions. For example, a patient with a history of seizures participates in a study that involves flashing lights. 
+:::
+::::
+::::{grid} 3
+:::{grid-item-card}  
+Experimental conditions feel unsafe for participants. For example, a researcher organises a focus group about workplace climate and mixes supervisors and their employees: it's unlikely that this feels like a safe environment for employees to speak freely (and in this context the employees would be vulnerable subjects).  
+:::
+:::{grid-item-card}   
+There's no “opt out” protocol. Or, the experiment is structured in a way that participants don't really feel like they have the right to withdraw. 
+:::
+:::{grid-item-card} 
+Interview questions trigger past trauma: For example, a group of students is researching the perceptions of employees and students on the existing security measures at a TU Delft faculty. If an employee or a student has encountered a security issue in the past (such as aggression or theft), questioning their perceptions on security measures might trigger emotional distress or bring up difficult memories of this negative experience. 
+:::
+::::
 
  
 
@@ -92,21 +103,28 @@ Now we'll look at examples of risks that can apply more generally to all studies
 A data breach occurs when stored personal information is leaked, stolen, or shared with people who are not authorized to view those details. Here are some examples of how data breaches can happen.  
 
 Data breaches can occur due to **improper storage**:   
-
-- Personal data was saved on the researcher's pen drive, and the pen drive got lost.   
-
-- Personal data was stored on a researcher's computer desktop, and the computer got stolen.      
+::::{grid} 2
+:::{grid-item-card}  
+Personal data was saved on the researcher's pen drive, and the pen drive got lost.  
+:::
+:::{grid-item-card} 
+Personal data was stored on a researcher's computer desktop, and the computer got stolen.
+:::
+::::     
 <br>
 
 Data breaches can occur due to **improper sharing practices**:   
-
-- A file containing personal data was shared more widely than intended when the researcher accidentally shared it through (a mass) email.  
-
-- The data for a Bachelor's end project was shared with all of the students in the course instead of the small group of students working on the project.  
-
-- A researcher intended to share an anonymised dataset but accidentally shared the original/raw version with identifiable details.  
-
- 
+::::{grid} 3
+:::{grid-item-card}  
+A file containing personal data was shared more widely than intended when the researcher accidentally shared it through (a mass) email.   
+:::
+:::{grid-item-card} 
+The data for a Bachelor's end project was shared with all of the students in the course instead of the small group of students working on the project.
+:::{grid-item-card} 
+A researcher intended to share an anonymised dataset but accidentally shared the original/raw version with identifiable details.
+:::
+::::   
+<br>
 
 ## Risk of Reidentification of Study Participants: 
 
