@@ -14,7 +14,7 @@ any information that can be traced back to a unique person
 
 Let's enhance our understanding through examples. Scroll across the carousel below to see a variety of examples of personal data:   
 
-::::{card-carousel} 3
+::::{card-carousel} 4
 
 :::{card} An IP address
 :img-bottom: graphics/IP_address.png
@@ -90,7 +90,7 @@ As a researcher, it is your legal and ethical imperative to protect the dignity,
 ## Indirect Identifiers
 **Indirect identifiers** (**indirectly identifiable personal information**) are data that could indirectly reveal a research participant's identity if combined with other available details. These additional details could be found either within the same dataset or separately, like on the web. Because indirect identifiers can lead to reidentification in combination with other data, they are also referred to as **"quasi-identifiers”**. Scroll across the carousel below to see examples of data that can act as indirect identifiers: 
 
-::::{card-carousel} 3
+::::{card-carousel} 4
 
 :::{card}  Height 
 :img-bottom: graphics/Height.png
