@@ -22,7 +22,7 @@ Some types of personal data are extra sensitive and therefore carry more risk. T
 
  
 
-### HIGH RISK: SPECIAL CATEGORIES   
+### HIGH RISK PERSONAL DATA: <u>SPECIAL CATEGORIES</u>   
 **Special categories** of personal data flag **increased risk** because the information could **endanger participants** if disclosed in certain contexts. Special categories require **careful ethical considerations** because a breach could put participants in physical danger, lead to social discrimination, result in persecution, or cause harm to their reputation.  Therefore, these pieces of information require a higher degree of caution and protection than other types of personal data (even if the data is indirectly identifiable). The following types of information fall under special categories of personal data, with examples of what can happen if this sensitive data is leaked.  
 
 1. **Racial or ethnic origin**: The policies of a government target and segregate members of a certain ethnic group. If a participant's ethnicity were leaked, it could lead to their persecution.  
@@ -40,7 +40,7 @@ Some types of personal data are extra sensitive and therefore carry more risk. T
 7. **Genetic information**: People with a predisposition to an adult-onset genetic disorder could be excluded from future job promotions if their genetic data were exposed publicly.  
 
 
-### HIGH RISK: VULNERABLE SUBJECTS   
+### HIGH RISK PERSONAL DATA: <u>VULNERABLE SUBJECTS</u>   
 
 **Vulnerable subjects** are defined as **people who cannot freely give their consent to participate** in a study or who cannot fully protect their own interests, for example due to a **power imbalance, dependency, age, or health conditions**. Vulnerable subjects include people who are not competent to give their consent, as well as groups that could face very **adverse consequences** if their personal data were leaked. Here are two examples of vulnerable subjects:  
 
