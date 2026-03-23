@@ -1,6 +1,4 @@
 (intro)=
-# Welcome to the Template Book
+# Welcome to the mini-module: "BSc: Research Ethics for Personal Data"
 
-_This is the first page the student will see when opening the url._
-
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative and some exercises to get you going!
+Welcome! This mini-module is a pilot designed for bachelor’s students at TU Delft who are preparing to conduct projects involving personal data. The material will be updated based on feedback from piloting students and instructors.
