@@ -1,6 +1,6 @@
 # IV. Institutional Policies
 
-Each institution has its own norms and policies for working with personal data. It's important to get familiar with the guidelines for your institution and also helpful to identify who can answer any questions you may have about personal data. That way you can be aware of the larger “ecosystem” that you're working in, organise your research more efficiently, and get support quickly when you need it.   
+Each institution has its own norms and policies for working with personal data. It's important to get familiar with the guidelines for your institution and also helpful to identify who can answer any questions you may have about personal data. That way you can **be aware of the larger “ecosystem”** that you're working in, organise your research more **efficiently**, and **get support quickly** whenever you need it.   
 <br> 
 
 ## The HREC 
@@ -23,30 +23,30 @@ For optimal viewing of the flowchart, we suggest that you [download the flowchar
 
 As shown in the flowchart, a researcher must submit at least three components to HREC:  
 
-- **A signed HREC checklist:**
+- **#1: A signed HREC checklist:**
   In the HREC checklist, the researcher indicates potential risks involved in the research project and describes specific strategies that will used to prevent or minimise each risk.  
 
  
 
-- **A data management plan (DMP):**
+- **#2: A data management plan (DMP):**
 A DMP describes the plan to manage data throughout the research process, from start to wrap-up of a project. A DMP should provide a level of detail and description that helps someone with no knowledge of the research project to imagine the research methods and/or experimental setup: what type of data will be collected, and what will be done with the data. The more detailed and descriptive the documentation, the better!   
 
  
 
-- **Copies of any consent templates used for the project**  
+- **#3: Copies of any consent templates used for the project**  
 
  
 
-Note: There may be **other required documents**, depending on the project. The flowchart above applies to general research scenarios. Some projects may involve special circumstances that require additional permissions and documentation such as internships which require a graduation agreement, research conducted outside of the Netherlands, intention to work with special categories of personal data, or the development of medical prototypes. 
+**Important Note:** There may be **other required documents**, depending on the project. The flowchart above applies to general research scenarios. Some projects may involve special circumstances that require additional permissions and documentation such as internships which require a graduation agreement, research conducted outside of the Netherlands, intention to work with special categories of personal data, or the development of medical prototypes. 
 <br>
 
 ## Support & Resources 
 
 **Key supporters:** 
-- **Your supervisor** is the first person to ask when you have questions about working with personal data.  
+- **Your supervisor:** Your supervisor is the first person to ask when you have questions about working with personal data.  
 <br>
 
-- At TU Delft, <a href="https://www.tudelft.nl/en/library/data-management/get-support-on-data-management/contact-the-data-stewards" target="_blank">**the data stewards**</a> work to support researchers at each faculty by fielding questions about how to work ethically and legally with personal data. Find the data steward for your faculty here.  
+- **The Data Stewards:** At TU Delft, the data stewards work to support researchers at each faculty by fielding questions about how to work ethically and legally with personal data. Find the data steward for your faculty <a href="https://www.tudelft.nl/en/library/data-management/get-support-on-data-management/contact-the-data-stewards" target="_blank">**here**</a>.  
 <br>
 
 **Resources:**
