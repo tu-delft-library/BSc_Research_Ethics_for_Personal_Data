@@ -9,7 +9,7 @@ TU Delft researchers who plan to work with any data related to humans must apply
 
 For bachelor's projects, supervisors apply on behalf of their students. However, you should still familiarize yourself with the HREC's ethical approvals process. The HREC's forms and instructions can provide a helpful guide and additional resources for working with personal data at TU Delft.  
 
-**Here is a flowchart with an overview of the HREC application process:**  
+**This flowchart gives an overview of the HREC application process:**  
 
 ```{admonition} Flowchart Viewing Tip
 :class: tip
