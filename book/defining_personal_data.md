@@ -6,9 +6,9 @@ Researchers who collect personal data from people must adhere to the General Dat
 <br>
 
 
-:::{card} PERSONAL DATA:
+:::{card} Definition of PERSONAL DATA:
 
-any information that can be traced back to a unique person
+Any information that can be traced back to a unique person
 :::
 <br>
 
@@ -121,7 +121,6 @@ In certain cases, the **context** will determine if data is directly versus indi
 :class: tip
 Broad information about geolocations (e.g. participants’ temporary locations such as a city, neighborhood, or campus) can act as indirect identifiers in combination with other data points. However, in some cases coordinates pinpoint a research participant's home address or specifically track a person's regular movements. In such situations, the geolocation standing alone could potentially be enough to directly reidentify a participant, so the geolocation data would be considered directly identifiable personal information.
 ```  
-<br>
 
 ```{admonition} Example 2: Grey Area
 :class: tip
