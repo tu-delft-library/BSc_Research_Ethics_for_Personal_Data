@@ -2,7 +2,7 @@
 
 ## Pre-evaluate Your Project for Potential Risks  
 
-In this section, we'll look at examples of risks involving personal data that can arise during research. Beyond the legal guidelines established by the GDPR, you as a researcher have an **ethical responsibility** to handle personal data with care. This means carefully pre-assessing each aspect of your study to evaluate potential risks that could arise.  
+In this section, we'll look at examples of risks involving personal data that can arise during research. Beyond the legal guidelines established by the GDPR, you as a researcher have an **ethical responsibility** to handle personal data with care. This means carefully **pre-assessing** each aspect of your study to **evaluate potential risks** that could arise.  
 
 In this phase of planning, you need to ask yourself: 
 <br>
@@ -18,12 +18,12 @@ To give you ideas about how to evaluate risk, we will first look at two types of
 
 ## High Risk Personal Data 
 
-Some types of personal data are extra sensitive and therefore carry more risk. Two categories of personal data in particular demand increased care and protection both legally and ethically: **special categories** & **vulnerable subjects**. Let's examine both.  
+Some research projects work with personal data that are extra sensitive and therefore carry more risk. Two categories of personal data in particular demand increased care and protection both legally and ethically: <u>**special categories**</u> & <u>**vulnerable subjects**</u>. Let's examine both.  
 
  
 
 ### HIGH RISK PERSONAL DATA: <u>SPECIAL CATEGORIES</u>   
-**Special categories** of personal data flag **increased risk** because the information could **endanger participants** if disclosed in certain contexts. Special categories require **careful ethical considerations** because a breach could put participants in physical danger, lead to social discrimination, result in persecution, or cause harm to their reputation.  Therefore, these pieces of information require a higher degree of caution and protection than other types of personal data (even if the data is indirectly identifiable). The following types of information fall under special categories of personal data, with examples of what can happen if this sensitive data is leaked.  
+**Special categories** of personal data flag **increased risk** because the information could **endanger participants** if disclosed in certain contexts. Special categories require **careful ethical considerations** because a breach could put participants in **physical danger, lead to social discrimination, result in persecution, or cause harm to their reputation**.  Therefore, these pieces of information require a higher degree of caution and protection than other types of personal data (even if the data is indirectly identifiable). The following types of information fall under special categories of personal data, with examples of what can happen if this sensitive data is leaked.  
 
 1. **Racial or ethnic origin**: The policies of a government target and segregate members of a certain ethnic group. If a participant's ethnicity were leaked, it could lead to their persecution.  
 
@@ -49,7 +49,6 @@ Some types of personal data are extra sensitive and therefore carry more risk. T
 :class: tip
 A 19-year-old BSc student wants to interview a group of 14-year-olds about their use of resources in the public library system. However, a 14-year-old is **not legally able to consent** to participate in a study. Also, they might feel **pressured or coerced** to take part in an interview with an older university student. 
 ```  
-<br> 
 
  ```{admonition} Vulnerable Subjects: Elderly participants
 :class: tip
@@ -83,7 +82,7 @@ Participants can be harmed physically or psychologically due to experimental set
 Experimental conditions are **unsafe** for participants with **pre-existing medical conditions**. For example, a patient with a history of seizures may be at risk in a study that involves flashing lights. 
 :::
 :::{card}  
-Experimental conditions **feel unsafe** for participants. For example, a researcher organises a focus group about workplace climate and mixes supervisors and their employees: it's unlikely that this feels like a safe environment for employees to speak freely (and in this context the employees would be vulnerable subjects).  
+**Experimental conditions feel unsafe** for participants. For example, a researcher organises a focus group about workplace climate and mixes supervisors and their employees: it's unlikely that this feels like a safe environment for employees to speak freely (and in this context the employees would be vulnerable subjects).  
 :::
 :::{card}   
 There's **no “opt out” protocol**. Or, the experiment is structured in a way that participants don't really feel like they have the right to withdraw. 
