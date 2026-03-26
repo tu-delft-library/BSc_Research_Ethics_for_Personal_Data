@@ -1,8 +1,8 @@
-# Welcome
+# Introduction
 
-## Introduction 
+## Welcome! 
 
-Welcome! As part of your bachelor's coursework, are you going to do assignments or conduct research projects involving human subjects? If yes, you'll likely be working with personal data, and this mini-module is meant for you! These materials will prepare you to work intentionally and ethically with personal data.  
+As part of your bachelor's coursework, are you going to do assignments or conduct research projects involving human subjects? If yes, you'll likely be working with personal data, and this mini-module is meant for you! These materials will prepare you to work intentionally and ethically with personal data.  
 
  
 
