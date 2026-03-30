@@ -37,8 +37,19 @@ DIAGRAM GOES HERE
 
 While the template and exemplar of an ICF can provide a helpful guide, you must craft an ICF that fits your specific project. Here are some templates and examples of ICFs to obtain direct consent: 
 
--Template of ICF: 
--Exemplar ICF: 
+::::{grid} 2
+:::{grid-item-card}  
+[Download an ICF template](graphics/ICF_Template_BSc.pdf)
+:::
+:::{grid-item-card} 
+[Download an ICF exemplar](graphics/ICF_Exemplar.pdf) 
+:::
+::::     
+<br>
+
+Download an ICF template 
+
+Download an ICF exemplar 
 
 ### Implied Consent via an Opening Statement 
 
