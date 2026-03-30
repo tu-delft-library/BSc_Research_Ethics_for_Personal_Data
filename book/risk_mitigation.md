@@ -40,16 +40,16 @@ While the template and exemplar of an ICF can provide a helpful guide, you must 
 ::::{grid} 2
 :::{grid-item-card}  
 [Download an ICF template](graphics/ICF_Template_BSc.pdf)
+<p style="font-size: x-small;"><em>"ICF template for BSc" by Janine Strandberg is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
+<br>
 :::
 :::{grid-item-card} 
 [Download an ICF exemplar](graphics/ICF_Exemplar.pdf) 
+<p style="font-size: x-small;"><em>"ICF Exemplar" by Bahare Khajepour is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
+<br>
 :::
 ::::     
 <br>
-
-Download an ICF template 
-
-Download an ICF exemplar 
 
 ### Implied Consent via an Opening Statement 
 
