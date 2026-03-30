@@ -42,17 +42,25 @@ These pieces of information are personal data because they can be **directly** o
 As a researcher, it is your legal and ethical imperative to protect the dignity, safety, and privacy of the people participating in your study. When you design your study, you need to start by asking yourself the following questions: 
 <br>
 
-- **#1: What's my research question or goal?**
-<br>
+:::{card} Question #1
+:class-card: text-center
+**#1: What's my research question or goal?**
+:::
 
-- **#2: Which data do I need to collect to answer my research question?**
-<br>
+:::{card} Question #2
+:class-card: text-center
+**Which data do I need to collect to answer my research question?**
+:::
 
-- **#3: Are any of the data that I plan to collect personal data? If yes, is each type of personal data absolutely necessary to answer my research question?** 
-<br>
+:::{card} Question #3
+:class-card: text-center
+**Are any of the data that I plan to collect personal data? If yes, is each type of personal data absolutely necessary to answer my research question?** 
+:::
 
-- **#4: Are the personal data directly or indirectly identifiable?** (We'll define these terms next.)   
-<br> 
+:::{card} Question #4
+:class-card: text-center
+**Are the personal data directly or indirectly identifiable?** (We'll define these terms next.)   
+:::
  
 ## Direct Identifiers
 **Direct identifiers** (also called **directly identifiable personal information**) are pieces of personal data that are unique to an individual. A direct identifier standing alone is enough to directly identify an individual research participant. If a direct identifier is accidentally leaked, **the risk of exposing a participant’s identity and private information is high**. Therefore, direct identifiers should be treated with caution. Scroll across the carousel below to see examples of direct identifiers: 
