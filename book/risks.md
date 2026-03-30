@@ -4,13 +4,10 @@
 
 In this section, we'll look at examples of risks involving personal data that can arise during research. Beyond the legal guidelines established by the GDPR, you as a researcher have an **ethical responsibility** to handle personal data with care. This means carefully **pre-assessing** each aspect of your study to **evaluate potential risks** that could arise.  
 
-In this phase of planning, you need to ask yourself: 
-<br>
-<br>
-
-- **In what way(s) could my planned methods of data collection, data storage, processing, or sharing cause harm to the people involved in my study?** 
-<br>
-<br>
+:::{card} In this phase of planning, you need to ask yourself: 
+:class-card: text-center
+**In what way(s) could my planned methods of data collection, data storage, processing, or sharing cause harm to the people involved in my study?** 
+:::
 
 To give you ideas about how to evaluate risk, we will first look at two types of high-risk personal data. Then, we will introduce a variety of different examples of risks to human participants that can arise during and after research projects.  
 
