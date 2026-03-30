@@ -44,7 +44,7 @@ As a researcher, it is your legal and ethical imperative to protect the dignity,
 
 :::{card} Question #1
 :class-card: text-center
-#1: What's my **research question** or **goal**?
+What's my **research question** or **goal**?
 :::
 
 :::{card} Question #2
