@@ -60,7 +60,7 @@ Other groups that fall under the designation of vulnerable subjects include peop
 
 Similar to special categories, data from vulnerable subjects require special protection and ethical consideration. As a researcher, you must be aware of power dynamics between yourself and the participants of your study. You must be able to justify why collecting data from vulnerable subjects is absolutely necessary to answer your specific research question(s). 
 
-```{admonition}
+```{admonition} Be aware!
 :class: warning
  **Personal data that falls under special categories or vulnerable subjects should be collected, handled and stored with extreme caution!** Both types of high-risk personal data require more stringent ethical review. 
 ```
