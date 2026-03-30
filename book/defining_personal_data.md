@@ -15,6 +15,7 @@ Let's enhance our understanding through examples. Scroll across the carousel bel
 
 ::::{card-carousel} 4
 :margin: 4
+
 :::{card} An IP address
 :img-bottom: graphics/IP_address.png
 :::
