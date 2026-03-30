@@ -14,7 +14,7 @@ Any information that can be traced back to a unique person
 Let's enhance our understanding through examples. Scroll across the carousel below to see a variety of examples of personal data:   
 
 ::::{card-carousel} 4
-
+:margin: 4
 :::{card} An IP address
 :img-bottom: graphics/IP_address.png
 :::
