@@ -30,21 +30,29 @@ There are **two ways to get consent** from study participants: permission can be
 
 ### Direct Consent via an Informed Consent Form  
 
-Researchers use an informed consent form (ICF) to obtain direct consent from participants. An ICF is often used to manage risks for interviews, surveys, focus groups, ethnographic studies, observations, experiments with human participants, etc. An ICF is an agreement between the researcher (you) and the research participant (people from whom you plan to collect personal data). An ICF must communicate clearly to people exactly what they are signing up for and the risks involved. That way, they can make an informed decision about whether to participate in your study.  
+Researchers use an informed consent form (ICF) to obtain direct consent from participants. An ICF is often used to manage risks for interviews, surveys, focus groups, ethnographic studies, observations, experiments with human participants, etc. An ICF is an agreement between the researcher (you) and the research participant (people from whom you plan to collect personal data). An ICF must communicate clearly to people exactly what they are signing up for and the risks involved. That way, they can make an informed decision about whether to participate in your study. An informed consent form usually adheres to this general structure: 
 
-An ICF follows this general structure: 
-```{image} graphics/ICF_diagram.png 
-:alt: clipboard with components of an ICF
-:class: bg-primary mb-1
-:width: 350px
-:align: center
+- **Introduction:** Explains who you are and lists any research partners in the study. 
+
+- **The Topic:** Explains what you are studying and what you want to find out. 
+
+- **The Protocol:** Explains what you are asking people to do and the potential risks involved with participating. 
+
+- **The Data:** Describes what type(s) of data will be collected from participants. 
+
+- **Participants’ Rights:** Explains that participants can exit the study at any time with no negative consequences. It also explains the conditions of data withdrawal, or how/when a participant can request to have their data removed from the larger dataset. 
+
+- **Researcher’s Contact Information:** Gives participants a way to contact you if they have additional questions, concerns or complaints. 
+
+ - **Participant’s Signature:** Participants are asked to sign to indicate they have read and understand the details in the ICF (this component can include the date).
+
+```{admonition} Be aware!
+:class: warning
+While the template and exemplar of an ICF can provide a helpful guide, you must craft an ICF that fits **your specific project**.  
 ```
-<p style="font-size: x-small; text-align: center;">
-  <em>"ICF components" by Education Support-TU Delft Library is licensed under 
-  <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em>
-</p>
+<br>
 
-While the template and exemplar of an ICF can provide a helpful guide, you must craft an ICF that fits your specific project. Here are some templates and examples of ICFs to obtain direct consent: 
+Here are some templates and examples of ICFs to obtain direct consent: 
 
 ::::{grid} 2
 :::{grid-item-card}  
