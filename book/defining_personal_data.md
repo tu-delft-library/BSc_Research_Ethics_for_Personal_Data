@@ -126,9 +126,11 @@ Broad information about geolocations (e.g. participants’ temporary locations s
 General information about gender or height can act as indirectly identifiable personal information: it might pinpoint an individual person when combined with other pieces of data such as age or workplace. And if the sample size is small enough, sometimes these details become much more directly identifiable. Imagine: all the employees of a small company take a survey about their satisfaction with changes implemented by their manager. The survey also asks them to indicate their gender. There is only one male staff member, so in this context, gender standing alone makes it possible to pinpoint his survey responses.  
 ```  
  
-Most importantly, whether the data is directly or indirectly identifiable, you must implement measures to protect people's personal information: **all personal data must be processed and stored with care**.  
-
- 
+```{admonition} Be aware!
+:class: warning
+Whether the data is directly or indirectly identifiable, you must implement measures to protect people's personal information: **all personal data must be processed and stored with care**.    
+```
+<br>
 
 ## Scenario: Video 
 
