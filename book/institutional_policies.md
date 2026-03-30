@@ -46,7 +46,7 @@ A DMP describes the plan to manage data throughout the research process, from st
 - **Your supervisor:** Your supervisor is the first person to ask when you have questions about working with personal data.  
 <br>
 
-- **The Data Stewards:** At TU Delft, the data stewards work to support researchers at each faculty by fielding questions about how to work ethically and legally with personal data. Find the data steward for your faculty <a href="https://www.tudelft.nl/en/library/data-management/get-support-on-data-management/contact-the-data-stewards" target="_blank">**here**</a>.  
+- **The Data Stewards:** At TU Delft, the data stewards work to support researchers at each faculty by fielding questions about how to work ethically and legally with personal data. <a href="https://www.tudelft.nl/en/library/data-management/get-support-on-data-management/contact-the-data-stewards" target="_blank">Find the data steward for your faculty </a>.  
 <br>
 
 **Resources:**
