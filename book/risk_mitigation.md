@@ -36,10 +36,13 @@ An ICF follows this general structure:
 ```{image} graphics/ICF_diagram.png 
 :alt: clipboard with components of an ICF
 :class: bg-primary mb-1
-:width: 200px
+:width: 350px
 :align: center
 ```
-<p style="font-size: x-small;"><em>"ICF components" by Education Support-TU Delft Library is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
+<p style="font-size: x-small; text-align: center;">
+  <em>"ICF components" by Education Support-TU Delft Library is licensed under 
+  <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em>
+</p>
 
 While the template and exemplar of an ICF can provide a helpful guide, you must craft an ICF that fits your specific project. Here are some templates and examples of ICFs to obtain direct consent: 
 
