@@ -72,7 +72,10 @@ Here are some templates and examples of ICFs to obtain direct consent:
 
 An opening statement is a way to obtain implied consent from participants without a signed form. An opening statement is preferable if a survey isn't collecting any directly identifiable personal data. The opening statement is on the first page that participants see on a digital survey or questionnaire. Participants are told that if they click onwards into the survey, they are implying agreement with and understanding of the statement. The structure and content of an opening statement are similar to an ICF, but a key difference is that an opening statement does not ask participants to give their names or sign their signatures.  
 
-- Exemplar opening statement:
+:::{card} Download an exemplar: 
+[Opening Statement Exemplar](Opening_Statement_Exemplar.pdf)
+
+:::
   
 Again, while the template and exemplar can provide a helpful guide and give you an idea of general structure, **you must craft an opening statement to fit your specific project**.  
 
