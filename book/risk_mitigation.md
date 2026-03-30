@@ -143,7 +143,33 @@ A document containing personal data can be encrypted by enabling the locking fun
 
 Let's revisit Paula's research project and see how she evaluates and minimises elements of risk: 
 
-<br>
+:::{dropdown} This 2-part video is still in creation and will go here! View Part II of the script:
+**Part II:**   
+
+Let's revisit Paula's project to see how she evaluates and prevents risk. Once Paula has determined that she'll be working with indirectly identifiable personal data, she must ask herself the next ethical questions: In what way(s) could my planned methods of data collection, data storage, processing, or sharing cause harm to the people involved in my study? And how do I structure my study in a way that prevents or mitigates each identified risk?   
+
+**Identified Risk #1: Vulnerable Subjects** 
+
+For example, Paula is teaching in one of the programs where she plans to collect data from students. She is involved in assigning scores for final assessments. This sub-group of student participants is vulnerable subjects due to the power imbalance between them and Paula. A risk prevention strategy would be to clearly explain in the opening statement for the survey that although direct personal identifiers won't be collected, there remains a small risk that respondents could be indirectly identified. If that happens, students’ grades will not be impacted by their responses. The opening statement for the survey must communicate clearly with students that their participation is entirely voluntary and will have no impact on their grades.  
+
+**Identified Risk #2: Potential Reidentification & Special Categories** 
+
+Paula already intends to practice data minimization, having decided not to collect last names or student ID numbers. However, she predicts that individual students could still be reidentified through combinations of indirect identifiers. She also thinks it's possible that some students will disclose information about their medical conditions or health history as a reason for schedule adjustments. Such details would fall under special categories of personal data which are highly sensitive and require extra protection. 
+
+Paula's predictions are accurate! In the electrical engineering  programme, there is a final-year student who requested schedule adjustments for health-related reasons. The student is taking medications to manage an auto-immune disorder, and she often experiences side effects from the meds in the morning. As a result, she has been unable to attend morning lectures, and she requested a later lecture time. If Paula shares the data with her research group, it will be possible to identify exactly which responses belong to this student based on the combination of her year, academic programme, and the health details she shared in her response. The student's responses will then disclose her specific, sensitive health information, and that may affect how she is treated by staff. Paula knows that she has a responsibility to safeguard sensitive information and to protect the privacy of her participants. She must do further risk evaluation and make a plan to minimize these risks.   
+
+Paula decides that she will minimize the risk of re-identification by aggregating the reasons for schedule changes: she will code the open responses from students into general categories such as "medical reasons," "scheduling conflict," or "personal preferences".  
+
+That way it will be much harder to match any indirect identifiers that were shared in the open response data back to individual students.  
+
+**Identified Risk #3: Data Breaches** 
+
+Paula wants to make sure the data doesn't fall into the wrong hands. To avoid data breaches, Paula will share only the aggregated version of the dataset with the members of her research group. In addition, she will encrypt all files shared with her research group, creating a password for the file containing the survey data. She will not share the raw responses from individual students. Instead, she will store the raw responses in an encrypted folder separately from the aggregated data. She will be the only one with access to this folder. 
+
+In this scenario, Paula evaluated potential risks within her project and chose prevention measures for each. Once she launches her research, she needs to be aware that there could still be risks of reidentification beyond her imagination. If unanticipated risks do arise, she must re-evaluate her methods and introduce further measures to protect her participants. 
+
+By Cconsidering all these risks, Paula makes sure she doesn't cause any unintended harm to the people involved in the study. 
+:::
 
 ## Practice for Section III:  
 Complete the practice questions to check your understanding of the vocabulary and concepts in this section. 
