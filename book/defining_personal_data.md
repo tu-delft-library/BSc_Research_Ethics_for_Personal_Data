@@ -5,11 +5,6 @@
 Researchers who collect personal data from people must adhere to the General Data Protection Regulation (**GDPR**), or *Algemene verordening gegevensbescherming* (*AVG*), which establishes legal guidelines for working with human research data within the European Union. We will not delve into the details of the GDPR in this mini-module, but the explanations and recommendations shared within these materials are in accordance with the law. 
 <br>
 
-.center-card {
-  width: 60%;
-  margin-left: auto;
-  margin-right: auto;
-}
 :::{card} Definition of PERSONAL DATA:
 :class-card: text-center
 Any information that can be traced back to a unique person
