@@ -3,10 +3,11 @@
 In Section II, we looked at risks that can arise when working with personal data.  
 
 Now, we'll focus on concrete strategies to minimise the risks of re-identification and prevent harm to participants. Evaluating and managing risk is a key part of ethical research design. At this point you need to ask yourself: 
-<br>
 
-- **How do I structure my study in a way that prevents each identified risk?** 
-<br>
+:::{card} Now, you must ask: 
+:class-card: text-center
+**How do I structure my study in a way that prevents each identified risk?** 
+:::
 
 Below, we'll look at five baseline risk prevention and minimisation strategies that help to protect the wellbeing, safety, and privacy of your research participants. These five strategies provide a general foundation; however, each researcher must carefully assess the specific characteristics, context, and potential risks of their own study and design prevention and minimisation measures that fit those circumstances. 
 <br>
@@ -83,19 +84,12 @@ Again, while the template and exemplar can provide a helpful guide and give you 
 
 Secure data storage practices are a key risk management strategy. Secure storage protects you against data loss and protects the personal data of research participants from security breaches or leaks. 
 
-**Where to store personal data:** 
+| **Where to store personal data** | **Where NOT to store personal data** |
+|---|---|
+|BSc students at TU Delft should use OneDrive for secure storage, unless their supervisor has organised access to another secure storage solution (such as a folder on the Project Data (U:) Drive or the SURF Drive).|Commercial third party cloud storage such as Dropbox and Google Drive: Cloud applications such as Google and Dropbox store data outside the EU. They are thus not approved by TU Delft, especially for storing personal data.|
+|    |Portable drives such as hard drives and thumb drives: it’s too easy for these to get damaged, to get lost, and fall into the wrong hands.|
+|    |Floating on the desktop of your personal computer: this puts any personal data at risk (not to mention, all your work could get lost if your device gets stolen or broken).| 
 
-BSc students at TU Delft should use OneDrive for secure storage, unless their supervisor has organised access to another secure storage solution (such as a folder on the Project Data (U:) Drive or the SURF Drive).  
-
-**Where NOT to store personal data:**  
-
-- Commercial third party cloud storage such as Dropbox and Google Drive: Cloud applications such as Google and Dropbox store data outside the EU. They are thus not approved by TU Delft, especially for storing personal data. 
-
-- Portable drives such as hard drives and thumb drives: it’s too easy for these to get damaged, to get lost, and fall into the wrong hands. 
-
-- Floating on the desktop of your personal computer: this puts any personal data at risk (not to mention, all your work could get lost if your device gets stolen or broken). 
-
- 
 
 ## Risk minimisation strategy #4: Anonymisation and Pseudonymisation  
 
