@@ -59,7 +59,8 @@ As a researcher, it is your legal and ethical imperative to protect the dignity,
 
 :::{card} Question #4
 :class-card: text-center
-**Are the personal data directly or indirectly identifiable?** (We'll define these terms next.)   
+**Are the personal data directly or indirectly identifiable?** 
+(We'll define these terms next.)   
 :::
  
 ## Direct Identifiers
