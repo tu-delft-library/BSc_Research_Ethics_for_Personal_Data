@@ -2,11 +2,11 @@
 
 In Section II, we looked at risks that can arise when working with personal data.  
 
-Now, we'll focus on concrete strategies to minimise the risks of re-identification and prevent harm to participants. Evaluating and managing risk is a key part of ethical research design. At this point you need to ask yourself: 
+Now, we'll focus on concrete strategies to minimise the risks of re-identification and prevent harm to participants. Evaluating and managing risk is a **key part of ethical research design**. At this point, you need to ask yourself: 
 
 :::{card} Now, you must ask: 
 :class-card: text-center
-**How do I structure my study in a way that prevents each identified risk?** 
+How do I **structure my study** in a way that **prevents each identified risk?** 
 :::
 
 Below, we'll look at five baseline risk prevention and minimisation strategies that help to protect the wellbeing, safety, and privacy of your research participants. These five strategies provide a general foundation; however, each researcher must carefully assess the specific characteristics, context, and potential risks of their own study and design prevention and minimisation measures that fit those circumstances. 
@@ -14,7 +14,7 @@ Below, we'll look at five baseline risk prevention and minimisation strategies t
 <br>
  ## Risk minimisation strategy #1: Practice data minimisation  
 
-Data minimisation means that you collect only the data that will help you to directly answer your research question(s). When collecting personal data, you should always apply the principle of data minimisation: only collect data that's relevant to your research goals. Avoid "going fishing” for any information that you don't absolutely need. In short, if you don't collect it, you don't have to protect it.  
+**Data minimisation** means that you collect only the data that will help you to directly answer your research question(s). When collecting personal data, you should always apply the principle of data minimisation: only collect data that's **relevant to your research goals**. Avoid "going fishing” for any information that you don't absolutely need. If you don't collect it, you don't have to protect it.  
 
 Here are examples of how to adhere to the principle of data minimisation:
 
@@ -31,7 +31,7 @@ There are **two ways to get consent** from study participants: permission can be
 
 ### Direct Consent via an Informed Consent Form  
 
-Researchers use an informed consent form (ICF) to obtain direct consent from participants. An ICF is often used to manage risks for interviews, surveys, focus groups, ethnographic studies, observations, experiments with human participants, etc. An ICF is an agreement between the researcher (you) and the research participant (people from whom you plan to collect personal data). An ICF must communicate clearly to people exactly what they are signing up for and the risks involved. That way, they can make an informed decision about whether to participate in your study. An informed consent form usually adheres to this general structure: 
+Researchers use an **informed consent form (ICF)** to obtain **direct consent** from participants. An ICF is often used to manage risks for interviews, surveys, focus groups, ethnographic studies, observations, experiments with human participants, etc. An ICF is **an agreement** between the researcher (you) and the research participant (people from whom you plan to collect personal data). An ICF must communicate clearly to people exactly what they are signing up for and the risks involved. That way, they can make an informed decision about whether to participate in your study. An informed consent form usually adheres to this general structure: 
 
 - **Introduction:** Explains who you are and lists any research partners in the study. 
 
@@ -46,11 +46,6 @@ Researchers use an informed consent form (ICF) to obtain direct consent from par
 - **Researcher’s Contact Information:** Gives participants a way to contact you if they have additional questions, concerns or complaints. 
 
  - **Participant’s Signature:** Participants are asked to sign to indicate they have read and understand the details in the ICF (this component can include the date).
-
-```{admonition} Be aware!
-:class: warning
-While the template and exemplar of an ICF can provide a helpful guide, you must craft an ICF that fits **your specific project**.  
-```
 <br>
 
 Here are some templates and examples of ICFs to obtain direct consent: 
@@ -66,27 +61,34 @@ Here are some templates and examples of ICFs to obtain direct consent:
 <p style="font-size: x-small;"><em>"ICF Exemplar" by Bahare Khajepour is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
 <br>
 :::
-::::     
+:::: 
+
+```{admonition} Be aware!
+:class: warning
+While the template and exemplar of an ICF can provide a helpful guide, you must craft an ICF that fits **your specific project**.  
+```
 <br>
+
 
 ### Implied Consent via an Opening Statement 
 
-An opening statement is a way to obtain implied consent from participants without a signed form. An opening statement is preferable if a survey isn't collecting any directly identifiable personal data. The opening statement is on the first page that participants see on a digital survey or questionnaire. Participants are told that if they click onwards into the survey, they are implying agreement with and understanding of the statement. The structure and content of an opening statement are similar to an ICF, but a key difference is that an opening statement does not ask participants to give their names or sign their signatures.  
+An **opening statement** is a way to obtain **implied consent** from participants **without a signed form**. An opening statement is preferable if a survey isn't collecting any directly identifiable personal data. The opening statement is shown on the first page that participants see on a digital survey or questionnaire. Participants are told that if they click onwards into the survey, they are implying that they agree with and understand the details of the opening statement. The structure and content of an opening statement are similar to an ICF, but a key difference is that an opening statement does not ask participants to give their names or sign their signatures.  
 
 :::{card} Download an exemplar: 
 [Opening Statement Exemplar](Opening_Statement_Exemplar.pdf)
 
 :::
   
-Again, while the template and exemplar can provide a helpful guide and give you an idea of general structure, **you must craft an opening statement to fit your specific project**.  
+Again, while the exemplar can provide a helpful guide and give you an idea of general structure, **you must craft an opening statement to fit your specific project**.  
+
 
 ## Risk minimisation strategy #3: Use secure storage  
 
-Secure data storage practices are a key risk management strategy. Secure storage protects you against data loss and protects the personal data of research participants from security breaches or leaks. 
+**Secure data storage** practices are a **key risk management strategy**. Secure storage protects you against data loss and protects the personal data of research participants from security breaches or leaks. Here is an overview of secure storage recommendations for BSc students at TU Delft. 
 
 | **Where to store personal data** | **Where NOT to store personal data** |
 |---|---|
-|BSc students at TU Delft should use OneDrive for secure storage, unless their supervisor has organised access to another secure storage solution (such as a folder on the Project Data (U:) Drive or the SURF Drive).|Commercial third party cloud storage such as Dropbox and Google Drive: Cloud applications such as Google and Dropbox store data outside the EU. They are thus not approved by TU Delft, especially for storing personal data.|
+|BSc students at TU Delft should use **OneDrive** for secure storage, unless their supervisor has organised access to another secure storage solution (such as a folder on the Project Data (U:) Drive or the SURF Drive).|Commercial third party cloud storage such as Dropbox and Google Drive: Cloud applications such as Google and Dropbox store data outside the EU. They are thus **not approved by TU Delft**, especially for storing personal data.|
 |    |Portable drives such as hard drives and thumb drives: it’s too easy for these to get damaged, to get lost, and fall into the wrong hands.|
 |    |Floating on the desktop of your personal computer: this puts any personal data at risk (not to mention, all your work could get lost if your device gets stolen or broken).| 
 
@@ -98,15 +100,14 @@ Researchers process data using methods of Anonymisation and Pseudonymisation to 
 
  
 ## Anonymisation
-Anonymisation is the process of modifying or erasing all personal data that may be traceable to a unique person so that it is no longer possible to link it back to any specific research participant. Anonymisation is permanent and irreversible. After a data set is anonymised it’s no longer considered personal data because the information cannot be traced back to any single participant . Anonymisation makes it possible to store, process, and share the data without the risk of exposing people’s identities.  
+**Anonymisation** is the **process of modifying or erasing** all personal data that may be traceable to a unique person so that it is no longer possible to link it back to any specific research participant. Anonymisation is **permanent and irreversible**. After a data set is anonymised it’s no longer considered personal data because the information cannot be traced back to any single participant . Anonymisation makes it possible to store, process, and share the data without the risk of exposing people’s identities.  
 
-Best practice is not to collect such personal details in the first place if they are not essential to address research questions. But if these details have already been collected, researchers must ensure they get removed as soon as possible so the dataset can no longer be traced back to a specific person. Note: it may be necessary to collect names for the purposes of the informed consent form. And if that's the case, the informed consent forms should be stored in a secure place separate from the rest of the collected data.  
+Best practice is not to collect such personal details in the first place if they are not essential to address research questions. But if these details have already been collected, researchers must ensure they get removed as soon as possible so the dataset can no longer be traced back to a specific person. Note: it may be necessary to collect names for the purposes of the informed consent form. And if that's the case, the **informed consent forms** should be **stored in a secure place separate** from the rest of the collected data.  
 
 ```{admonition} Anonymisation: Example #1 
 :class: tip
  A survey aims to measure the job satisfaction of employees at the various branches of a large Dutch bank. Full anonymisation of the survey data means removing personal data that could be linked back to any individual survey taker. For example, the researcher needs to delete details like specific job titles, remove references to specific branch locations, and redact any names of supervisors mentioned in open responses as these details, especially when combined, could make it possible to trace responses back to a specific person.
 ```  
-<br> 
 
 ```{admonition} Anonymisation: Example #2 
 :class: tip
@@ -131,12 +132,17 @@ In the large-scale study of students’ learning experiences across universities
 ```  
 <br> 
 
-Anonymisation and pseudonymisation are **time-intensive processes** that are **done after you've collected the data**. Therefore, we recommend that you design your study to collect only the personal data that you absolutely need to answer your research question(s). During the planning phase of your research you must establish whether you will anonymise or pseudonymise participants’ personal data. In your opening statement or on your Informed Consent Form you must make it clear to participants how their personal data will be protected. 
+Anonymisation and pseudonymisation are **time-intensive processes** that are **done after you've collected the data**. Therefore, we recommend that you design your study to collect only the personal data that you absolutely need to answer your research question(s). 
+
+```{admonition} Be aware!
+:class: warning
+During the **planning phase** of your research you must already establish whether you will anonymise or pseudonymise participants’ personal data. In your opening statement or on your Informed Consent Form you must make it clear to participants how their personal data will be protected.  
+```
 <br>
 
 ## Risk minimisation strategy #5: Secure sharing through encryption  
 
-A document containing personal data can be encrypted by enabling the locking function. The researcher assigns a “key,” i.e. a security code or password, and this is necessary to open the document. 
+A document containing personal data can be **encrypted** by enabling the **locking function**. The researcher assigns a **“key,”** i.e. a security code or password, and this is necessary to open the document. 
 
  
 ## Scenario:  
@@ -172,7 +178,7 @@ By Cconsidering all these risks, Paula makes sure she doesn't cause any unintend
 :::
 
 ## Practice for Section III:  
-Complete the practice questions to check your understanding of the vocabulary and concepts in this section. 
+Complete the practice questions to check your understanding of risk prevention and minimisation strategies. 
 <br>
 
 ```{h5p} https://tudelft.h5p.com/content/1292839831402579437
