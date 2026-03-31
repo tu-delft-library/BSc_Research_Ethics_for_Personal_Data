@@ -6,10 +6,10 @@ In this section, we'll look at examples of risks involving personal data that ca
 
 :::{card} In this phase of planning, you need to ask yourself: 
 :class-card: text-center
-**In what way(s) could my planned methods of data collection, data storage, processing, or sharing cause harm to the people involved in my study?** 
+In what way(s) could my planned methods of **data collection, data storage, processing, or sharing cause harm** to the people involved in my study? 
 :::
 
-To give you ideas about how to evaluate risk, we will first look at two types of high-risk personal data. Then, we will introduce a variety of different examples of risks to human participants that can arise during and after research projects.  
+To give you ideas about how to evaluate risk, we will first look at two specific types of high-risk personal data. Then, we will introduce a variety of more general and common risks that can arise during and after research projects.  
 
  
 
@@ -65,7 +65,7 @@ Similar to special categories, data from vulnerable subjects require special pro
 
 ## Evaluating Potential Risks  
 
-Now we'll look at examples of risks that can apply more generally to all studies and examine risks that can arise during and after research.  
+Now we'll look at examples of risks that can apply more generally during and after research.  
 
 
 ### Risk of Physical and/or Psychological Harm: Examples  
@@ -94,7 +94,7 @@ Interview questions **trigger past trauma**: For example, a group of students is
 
 ### Risk of Data Breaches:   
 
-A data breach occurs when stored personal information is leaked, stolen, or shared with people who are not authorized to view those details. Here are some examples of how data breaches can happen.  
+A **data breach** occurs when stored personal information is leaked, stolen, or shared with people who are not authorized to view those details. Here are some examples of how data breaches can happen.  
 
 Data breaches can occur due to **improper storage**:   
 ::::{grid} 2
@@ -123,18 +123,17 @@ A researcher intended to share an anonymised dataset but accidentally shared the
 
 ### Risk of Reidentification of Study Participants: 
 
-You must check beforehand if the design of your research project prevents re-identification using quasi-identifiers. If there's a chance that the collected data can be linked back to a person, you'll need to implement measures to protect the data (cite: Personal Data and Human Subjects in Research. Brightspace course by RDS). Here are two examples:  
+You must check beforehand if the design of your research project could lead to re-identification through quasi-identifiers. If there's a chance that the collected data can be linked back to a person, you will need to take steps to protect the data. Here are two examples:  
 <br>
 
  ```{admonition} Reidentification: Example #1
 :class: tip
-Study participants are reidentified by combining indirect identifiers in a study focusing on staff experiences with remote work arrangements at the university. The dataset does not include names or employee numbers, but it does contain age range, department, job role, and whether the respondent has requested workplace accommodations in the past year. In a small department, there is only one staff member aged 55–60 who recently requested accommodations. This combination of characteristics makes it possible to reidentify that individual. If their responses can be traced back to them, this is an invasion of their privacy. Also, the staff member may have divulged very personal details, and if these details are leaked it might change how people see or treat them.  
+Study participants are reidentified by combining indirect identifiers in a study focusing on staff experiences with remote work arrangements at the university. The dataset does not include names or employee numbers, but it does contain age range, department, job role, and whether the respondent has requested workplace accommodations in the past year. In a small department, there is only one staff member aged 55–60 who recently requested accommodations. This combination of characteristics makes it possible to reidentify that individual. If their responses can be traced back to them, this is an **invasion of their privacy**. Also, the staff member may have divulged very personal details, and if these details are leaked it might **change how people see or treat them**.  
 ```  
-<br>
 
  ```{admonition} Reidentification: Example #2
 :class: tip
-When **sample sizes are small**, it can be easier through the process of elimination to re-identify people based on indirect identifiers that apply to very few participants. For example, in a study examining potential associations between hair color and susceptibility to certain skin diseases, a researcher collects data on the hair color of a small group of study participants along with other indirectly identifiable personal data; there are only two red-headed people among all the participants. Through the process of elimination and in combination with other indirectly identifying details, it's possible to link specific responses back to the two participants with red hair. This **threatens the privacy** of the two red-headed participants, which is an ethical issue: a researcher's top priority should be to maintain the privacy of all participants and protect their personal data.
+When **sample sizes are small**, it can be easier through the process of elimination to re-identify people based on indirect identifiers that apply to very few participants. For example, in a study examining potential associations between hair color and susceptibility to certain skin diseases, a researcher collects data on the hair color of a small group of study participants along with other indirectly identifiable personal data; there are only two red-headed people among all the participants. Through the process of elimination and in combination with other indirectly identifying details, it's possible to link specific responses back to the two participants with red hair. This **threatens the privacy** of the two red-headed participants, which is an ethical issue: a researcher's **top priority** should be to **maintain the privacy of all participants** and **protect their personal data**.
 ```  
 <br>
  
@@ -147,7 +146,7 @@ This example should be read as a cautionary tale:
 A researcher uses Generative AI to analyse the data he's collected for a study on commuting patterns in the Netherlands. The data includes personal data about how often, how far, and by what means participants travel to their places of work. The researcher thinks it's no big deal to ask ChatGPT for help analysing the dataset. He thinks it's fine to upload this personal data because it doesn't trace directly back to individual participants (it's not like he's uploading people's BSN numbers to the internet). He uses a free ChatGPT account and doesn't verify whether the data will be retained by the AI model. 
 ```  
 <br>
-“Feeding” any type of personal data  into large language models (LLMs) like Chat GPT raises serious privacy concerns. Depending on the type of account, the information can be retained for a number of days. Meanwhile, the data you enter can be accessed by people managing the AI system who do not have authorization to view the personal details of your research subjects. It's also possible the input will be re-used for training data: in other words, the data will be used by the company to train future models. This goes against the promise you will have made to your research participants to keep their data private, secure, and used only for specific research purposes. TU Delft's recommendation for the AI tool Copilot Chat is to only enter public information (not any personal data or confidential information) into the chat.  
+“Feeding” any type of personal data  into large language models (LLMs) like Chat GPT raises **serious privacy concerns**. Depending on the type of account, the information can be retained for a number of days. Meanwhile, the data you enter can be accessed by people managing the AI system who do not have authorization to view the personal details of your research subjects. It's also possible the input will be re-used for training data: in other words, the data will be used by the company to train future models. This goes against the promise you will have made to your research participants to keep their data private, secure, and used only for specific research purposes. TU Delft's recommendation for the AI tool Copilot Chat is to only enter public information (not any personal data or confidential information) into the chat.  
 <br>
 
 
