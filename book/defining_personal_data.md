@@ -128,12 +128,12 @@ In certain cases, the **context** will determine if data is directly versus indi
 
 ```{admonition} Example 1: Grey Area
 :class: tip
-Broad information about geolocations (e.g. participants’ temporary locations such as a city, neighborhood, or campus) can act as indirect identifiers in combination with other data points. However, in some cases coordinates pinpoint a research participant's home address or specifically track a person's regular movements. In such situations, the geolocation standing alone could potentially be enough to directly reidentify a participant, so the geolocation data would be considered directly identifiable personal information.
+Broad information about geolocations (e.g. participants’ temporary locations such as a city, neighborhood, or campus) can act as indirect identifiers in combination with other data points. However, in some cases the coordinates pinpoint a research participant's home address or specifically track a person's regular movements. In such situations, the geolocation standing alone could potentially be enough to directly reidentify a participant, so the geolocation data would be considered directly identifiable personal information.
 ```  
 
 ```{admonition} Example 2: Grey Area
 :class: tip
-General information about gender or height can act as indirectly identifiable personal information: it might pinpoint an individual person when combined with other pieces of data such as age or workplace. And if the sample size is small enough, sometimes these details become much more directly identifiable. Imagine: all the employees of a small company take a survey about their satisfaction with changes implemented by their manager. The survey also asks them to indicate their gender. There is only one male staff member, so in this context, gender standing alone makes it possible to pinpoint his survey responses.  
+General information about gender or height can act as indirectly identifiable personal information: it might trace back to an individual person when combined with other pieces of data such as age or workplace. If the sample size is small enough, sometimes these details become much more directly identifiable. Imagine: all the employees of a small company take a survey about their satisfaction with changes implemented by their manager. The survey also asks them to indicate their gender. There is only one male staff member, so in this context, gender standing alone makes it possible to pinpoint his survey responses.  
 ```  
  
 ```{admonition} Be aware!
@@ -190,7 +190,7 @@ This way she can prioritize the safety and privacy of her participants.
 
 ## Practice for Section I: 
 
-Check your understanding by completing practice exercises A and B. 
+Check your understanding of personal data and directly vs. indirectly identifiable personal information by completing practice exercises A and B. 
 <br>
 
 ### Practice A:
