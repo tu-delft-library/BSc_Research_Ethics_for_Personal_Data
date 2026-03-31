@@ -48,7 +48,7 @@ Researchers use an **informed consent form (ICF)** to obtain **direct consent** 
  - **Participant’s Signature:** Participants are asked to sign to indicate they have read and understand the details in the ICF (this component can include the date).
 <br>
 
-Here are some templates and examples of ICFs to obtain direct consent: 
+**ICF Template and exemplar:** 
 
 ::::{grid} 2
 :::{grid-item-card}  
