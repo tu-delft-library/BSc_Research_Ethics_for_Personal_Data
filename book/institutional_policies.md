@@ -5,9 +5,9 @@ Each institution has its own norms and policies for working with personal data. 
 
 ## The HREC 
 
-TU Delft researchers who plan to work with any data related to humans must apply for ethical approval by submitting an application to the TU Delft HREC, the Human Research Ethics Committee. The role of the HREC is to act as a review and advisory board for the university: the committee members review applications to check that research projects will be conducted ethically and responsibly. The HREC must give approval before a researcher collects or works with any personal data or human subject research data.  
+TU Delft researchers who plan to work with **any data related to humans** must apply for ethical approval by submitting an application to the **TU Delft HREC, the Human Research Ethics Committee**. The role of the HREC is to act as a review and advisory board for the university: the committee members review applications to check that research projects will be conducted ethically and responsibly. The HREC must give approval <u/>**before**<u> a researcher collects or works with any personal data or human subject research data.  
 
-For bachelor's projects, supervisors apply on behalf of their students. However, you should still familiarize yourself with the HREC's ethical approvals process. The HREC's forms and instructions can provide a helpful guide and additional resources for working with personal data at TU Delft.  
+For bachelor's projects, supervisors apply on behalf of their students. However, you should still familiarize yourself with the HREC's ethical approvals process. The HREC's forms and instructions can provide a helpful guide and additional resources for working responsibly with personal data at TU Delft.  
 
 **This flowchart gives an overview of the HREC application process:**  
 
@@ -35,9 +35,11 @@ A DMP describes the plan to manage data throughout the research process, from st
 
 - **#3: Copies of any consent templates used for the project**  
 
- 
-
-**Important Note:** There may be **other required documents**, depending on the project. The flowchart above applies to general research scenarios. Some projects may involve special circumstances that require additional permissions and documentation such as internships which require a graduation agreement, research conducted outside of the Netherlands, intention to work with special categories of personal data, or the development of medical prototypes. 
+  
+```{admonition} Important Note: 
+:class: warning
+There may be **other required documents**, depending on the project. The flowchart above applies to **general research scenarios**. Some projects may involve special circumstances that require additional permissions and documentation such as internships which require a graduation agreement, research conducted outside of the Netherlands, intention to work with special categories of personal data, or the development of medical prototypes.     
+```
 <br>
 
 ## Support & Resources 
@@ -59,7 +61,7 @@ If you are interested in learning more about research practices and policies at 
 <br>
 
 ## Practice for Section IV 
-Check your understanding by completing three practice questions. 
+Check your understanding about institutional practices by completing three practice questions. 
 <iframe src="https://tudelft.h5p.com/content/1292839830104851067/embed" aria-label="Section #4 Quiz" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 <br>
 
