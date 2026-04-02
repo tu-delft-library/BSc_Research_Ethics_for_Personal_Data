@@ -7,7 +7,7 @@ Each institution has its own norms and policies for working with personal data. 
 
 TU Delft researchers who plan to work with **any data related to humans** must apply for ethical approval by submitting an application to the **TU Delft HREC, the Human Research Ethics Committee**. The role of the HREC is to act as a review and advisory board for the university: the committee members review applications to check that research projects will be conducted ethically and responsibly. The HREC must give approval **before** a researcher collects or works with any personal data or human subject research data.  
 
-For bachelor's projects, supervisors apply on behalf of their students. However, you should still familiarize yourself with the HREC's ethical approvals process. The HREC's forms and instructions can provide a helpful guide and additional resources for working responsibly with personal data at TU Delft.  
+**As a bachelor's student, you will not apply to the HREC**. Your BSc supervisor(s) may run an internal ethics check or review to help you learn the skills. Although you will not be applying to the HREC, you should still familiarize yourself with the HREC's ethical approvals process. The HREC's forms and instructions can provide a helpful guide and additional resources for working responsibly with personal data at TU Delft. You will also benefit from this knowledge if you later pursue a master's degree which involves human research subjects. 
 
 **This flowchart gives an overview of the HREC application process:**  
 
