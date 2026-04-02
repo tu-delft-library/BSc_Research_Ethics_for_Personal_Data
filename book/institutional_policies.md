@@ -57,8 +57,11 @@ If you are interested in learning more about research practices and policies at 
 - <a href="https://www.tudelft.nl/en/library/data-management/research-data-management/a-guide-to-the-extended-personal-research-data-workflow" target="_blank">PRDW+</a>: This document has been designed for TU Delft researchers (including students that perform research). We recommend that you read through it if you are interested in learning how to manage a wide variety of complex research workflows, including scenarios related to personal data.
 <br>
   
-- <a href="https://www.tudelft.nl/en/about-tu-delft/strategy/integrity-policy/human-research-ethics/" target="_blank">The HREC's website</a>: Here, you can find copies of the HREC checklist, detailed instructions about working with personal data, and tools and links.  
+- <a href="https://www.tudelft.nl/en/about-tu-delft/strategy/integrity-policy/human-research-ethics/" target="_blank">The HREC's website</a>: Here, you can find copies of the HREC checklist, detailed instructions about working with personal data, and tools and links. 
 <br>
+
+- <a href="https://www.tudelft.nl/en/library/data-management/training-and-events/training-for-researchers/personal-data-human-subjects-in-research" target="_blank">Personal Data & Human Subjects in Research</a>: This is a much more detailed and extended course which was designed for PhD candidates. It is open to BSc students who are interested in learning more. 
+
 
 ## Practice for Section IV 
 Check your understanding about institutional practices by completing three practice questions. 
