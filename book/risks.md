@@ -32,7 +32,7 @@ Some research projects work with personal data that are extra sensitive and ther
 
 5. **Sexual preferences**: Historically and now, individuals have become targets of persecution based on their sexual orientation. Data about a participant's sexual preferences must therefore be carefully protected.   
 
-6. **Health status**: Patients with drug resistant viruses could be shunned by others and become the targets of discrimination if their health data were leaked.  
+6. **Health status**: Patients with drug resistant viruses could be shunned by others and become the targets of discrimination if their health data were leaked. In addition, health insurance companies might refuse coverage for specific patients, based on leaked data. 
 
 7. **Genetic information**: People with a predisposition to an adult-onset genetic disorder could be excluded from future job promotions if their genetic data were exposed publicly.  
 
