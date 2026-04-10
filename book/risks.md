@@ -2,7 +2,7 @@
 
 ## Pre-evaluate Your Project for Potential Risks  
 
-In this section, we'll look at examples of risks involving personal data that can arise during research. Beyond the legal guidelines established by the GDPR, you as a researcher have an **ethical responsibility** to handle personal data with care. This means carefully **pre-assessing** each aspect of your study to **evaluate potential risks** that could arise.  
+In this section, we'll look at examples of risks involving personal data that can arise during research. Beyond the legal guidelines established by the GDPR, you as a researcher have an **ethical responsibility** to handle personal data with care. This means carefully **pre-assessing** each aspect of your study during the preparation phase to **evaluate potential risks** that could arise.  
 
 :::{card} In this phase of planning, you need to ask yourself: 
 :class-card: text-center
@@ -24,7 +24,7 @@ Some research projects work with personal data that are extra sensitive and ther
 
 1. **Racial or ethnic origin**: The policies of a government target and segregate members of a certain ethnic group. If a participant's ethnicity were leaked, it could lead to their persecution.  
 
-2. **Political views**: Dissidents living under an authoritarian political regime could be imprisoned or punished for their ideas if their views were inadvertently made public.  
+2. **Political views**: Dissidents (or their families) who are participating in your research and living under an authoritarian political regime could be imprisoned or punished for their ideas if their views were inadvertently made public.  
 
 3. **Religion or philosophy of life**: Information about a participant’s religious beliefs could put that person at risk of danger if leaked in a social or political climate that is hostile to those beliefs. 
 
@@ -32,7 +32,7 @@ Some research projects work with personal data that are extra sensitive and ther
 
 5. **Sexual preferences**: Historically and now, individuals have become targets of persecution based on their sexual orientation. Data about a participant's sexual preferences must therefore be carefully protected.   
 
-6. **Health status**: Patients with drug resistant viruses could be shunned by others and become the targets of discrimination if their health data were leaked. In addition, health insurance companies might refuse coverage for specific patients, based on leaked data. 
+6. **Health status**: Patients with drug resistant viruses could be avoided by others and become the targets of discrimination if their health data were leaked. In addition, health insurance companies might refuse coverage for specific patients, based on leaked data. 
 
 7. **Genetic information**: People with a predisposition to an adult-onset genetic disorder could be excluded from future job promotions if their genetic data were exposed publicly.  
 
@@ -94,7 +94,7 @@ Interview questions **trigger past trauma**: For example, a group of students is
 
 ### Risk of Data Breaches:   
 
-A **data breach** occurs when stored personal information is leaked, stolen, or shared with people who are not authorized to view those details. Here are some examples of how data breaches can happen.  
+A **data breach** occurs when stored personal information is leaked, stolen, or shared with people who are not authorized to view those details and may (mis)use the data for their own goals and benefits. Here are some examples of how data breaches can happen.  
 
 Data breaches can occur due to **improper storage**:   
 ::::{grid} 2
@@ -146,7 +146,8 @@ This example should be read as a cautionary tale:
 A researcher uses Generative AI to analyse the data he's collected for a study on commuting patterns in the Netherlands. The data includes personal data about how often, how far, and by what means participants travel to their places of work. The researcher thinks it's no big deal to ask ChatGPT for help analysing the dataset. He thinks it's fine to upload this personal data because it doesn't trace directly back to individual participants (it's not like he's uploading people's BSN numbers to the internet). He uses a free ChatGPT account and doesn't verify whether the data will be retained by the AI model. 
 ```  
 <br>
-“Feeding” any type of personal data  into large language models (LLMs) like Chat GPT raises **serious privacy concerns**. Depending on the type of account, the information can be retained for a number of days. Meanwhile, the data you enter can be accessed by people managing the AI system who do not have authorization to view the personal details of your research subjects. It's also possible the input will be re-used for training data: in other words, the data will be used by the company to train future models. This goes against the promise you will have made to your research participants to keep their data private, secure, and used only for specific research purposes. TU Delft's recommendation for the AI tool Copilot Chat is to only enter public information (not any personal data or confidential information) into the chat.  
+
+“Feeding” *any* type of personal data  into large language models (LLMs) like Chat GPT raises **serious privacy concerns**. Depending on the type of account, the information can be retained for a number of days. Meanwhile, the data you enter can be accessed by people managing the AI system who do not have authorization to view the personal details of your research subjects. It's also possible the input will be re-used for training data: in other words, the data will be used by the company to train future models. This goes against the promise you will have made to your research participants to keep their data private, secure, and used only for specific research purposes. TU Delft's recommendation for the AI tool Copilot Chat is to only enter public information (not any personal data or confidential information) into the chat.  
 <br>
 
 
