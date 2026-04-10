@@ -53,12 +53,12 @@ Researchers use an **informed consent form (ICF)** to obtain **direct consent** 
 ::::{grid} 2
 :::{grid-item-card}  
 [Download an ICF template](graphics/ICF_Template_BSc.pdf)
-<p style="font-size: x-small;"><em>"ICF template for BSc" by Janine Strandberg is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
+<p style="font-size: x-small;"><em>"ICF template for BSc" by Janine Strandberg is licensed under <a href="https://creativecommons.org/licenses/by/4.0/"target="_blank">CC BY 4.0</a></em></p>
 <br>
 :::
 :::{grid-item-card} 
 [Download an ICF exemplar](graphics/ICF_Exemplar.pdf) 
-<p style="font-size: x-small;"><em>"ICF Exemplar" by Bahare Khajepour is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
+<p style="font-size: x-small;"><em>"ICF Exemplar" by Bahare Khajepour is licensed under <a href="https://creativecommons.org/licenses/by/4.0/"target="_blank">CC BY 4.0</a></em></p>
 <br>
 :::
 :::: 
@@ -75,8 +75,8 @@ While the template and exemplar of an ICF can provide a helpful guide, you must 
 An **opening statement** is a way to obtain **implied consent** from participants **without a signed form**. An opening statement is preferable if a survey isn't collecting any directly identifiable personal data. The opening statement is shown on the first page that participants see on a digital survey or questionnaire. Participants are told that if they click onwards into the survey, they are implying that they agree with and understand the details of the opening statement. The structure and content of an opening statement are similar to an ICF, but a key difference is that an opening statement does not ask participants to give their names or sign their signatures.  
 
 :::{card} Download an exemplar: 
-[Opening Statement Exemplar](Opening_Statement_Exemplar.pdf)
-
+[Opening Statement Exemplar](graphics/Opening_Statement_Exemplar.pdf)
+<p style="font-size: x-small;"><em>"Opening Statement Exemplar" by TU Delft Library Education Support is licensed under <a href="https://creativecommons.org/licenses/by/4.0/"target="_blank">CC BY 4.0</a></em></p>
 :::
   
 Again, while the exemplar can provide a helpful guide and give you an idea of general structure, **you must craft an opening statement to fit your specific project**.  
