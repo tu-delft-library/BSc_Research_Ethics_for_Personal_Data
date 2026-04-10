@@ -92,7 +92,7 @@ Are the personal data **directly** or **indirectly identifiable**?
 :::{card}  An email address (with someone's name) 
 :img-bottom: graphics/email.png
 ::::
-<p style="font-size: x-small;"><em>"Directly identifiable personal data icons" by TU Delft Library - Education Support are licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
+<p style="font-size: x-small;"><em>"Directly identifiable personal data icons" by TU Delft Library - Education Support are licensed under <a href="https://creativecommons.org/licenses/by/4.0/"target="_blank">CC BY 4.0</a></em></p>
 <br>
 
 
@@ -116,7 +116,7 @@ Are the personal data **directly** or **indirectly identifiable**?
 :::{card}  Age ranges 
 :img-bottom: graphics/Age_ranges.png 
 ::::
-<p style="font-size: x-small;"><em>"Indirectly identifiable personal data icons" by TU Delft Library - Education Support are licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
+<p style="font-size: x-small;"><em>"Indirectly identifiable personal data icons" by TU Delft Library - Education Support are licensed under <a href="https://creativecommons.org/licenses/by/4.0/"target="_blank">CC BY 4.0</a></em></p>
 <br>
 
 It may seem like a dataset that has information about ages or shoe sizes wouldn't carry much risk. However, **indirectly identifiable personal information can still be risky** because the data can still be linked back to a specific individual. For example, it could be possible to re-identify study participants if indirect identifiers were combined with other details such as gender, workplace, or location, especially in research studies involving small groups of participants. 
