@@ -68,25 +68,25 @@ Similar to special categories, data from vulnerable subjects require special pro
 Now we'll look at examples of risks that can apply more generally during and after research.  
 
 
-### Risk of Physical and/or Psychological Harm: Examples  
+### Risk of Physical and/or Psychological Harm:   
 Participants can be harmed physically or psychologically due to experimental set-up or conditions. Scroll across the carousel below to see different scenarios: 
 
 ::::{card-carousel} 2
 
 :::{card}   
-**Interview questions** cause respondents **undue stress**. For example, it may seem innocent to ask people what they eat for breakfast, but what if some of your participants are survivors of an eating disorder?
+**Interview questions** can cause respondents **undue stress**. For example, it may seem innocent to ask people what they eat for breakfast, but what if some of your participants are survivors of an eating disorder?
 :::
 :::{card} 
-Experimental conditions are **unsafe** for participants with **pre-existing medical conditions**. For example, a patient with a history of seizures may be at risk in a study that involves flashing lights. 
+Experimental conditions can be **unsafe** for participants with **pre-existing medical conditions**. For example, a patient with a history of seizures may be at risk in a study that involves flashing lights. 
 :::
 :::{card}  
-**Experimental conditions feel unsafe** for participants. For example, a researcher organises a focus group about workplace climate and mixes supervisors and their employees: it's unlikely that this feels like a safe environment for employees to speak freely (and in this context the employees would be vulnerable subjects).  
+**Experimental conditions can feel unsafe** for participants. For example, a researcher organises a focus group about workplace climate and mixes supervisors and their employees: it's unlikely that this feels like a safe environment for employees to speak freely (and in this context the employees would be vulnerable subjects).  
 :::
 :::{card}   
 There's **no “opt out” protocol**. Or, the experiment is structured in a way that participants don't really feel like they have the right to withdraw. 
 :::
 :::{card} 
-Interview questions **trigger past trauma**: For example, a group of students is researching the perceptions of employees and students on the existing security measures at a TU Delft faculty. If an employee or a student has encountered a security issue in the past (such as aggression or theft), questioning their perceptions on security measures might **trigger emotional distress** or **bring up difficult memories** of this negative experience. 
+Interview questions can **trigger past trauma**: For example, a group of students is researching the perceptions of employees and students on the existing security measures at a TU Delft faculty. If an employee or a student has encountered a security issue in the past (such as aggression or theft), questioning their perceptions on security measures might **trigger emotional distress** or **bring up difficult memories** of this negative experience. 
 :::
 ::::
 
@@ -139,15 +139,15 @@ When **sample sizes are small**, it can be easier through the process of elimina
  
 ### Risks Using Generative AI: 
 
-This example should be read as a cautionary tale: 
+
 
  ```{admonition} Example: Risks of Generative AI 
 :class: tip
-A researcher uses Generative AI to analyse the data he's collected for a study on commuting patterns in the Netherlands. The data includes personal data about how often, how far, and by what means participants travel to their places of work. The researcher thinks it's no big deal to ask ChatGPT for help analysing the dataset. He thinks it's fine to upload this personal data because it doesn't trace directly back to individual participants (it's not like he's uploading people's BSN numbers to the internet). He uses a free ChatGPT account and doesn't verify whether the data will be retained by the AI model. 
+A researcher uses Generative AI to analyse the data collected for a study on commuting patterns in the Netherlands. The data includes personal data about how often, how far, and by what means participants travel to their places of work. The researcher thinks it's no big deal to ask ChatGPT for help analysing the dataset.  The researcher thinks it's fine to upload this personal data because it doesn't trace directly back to individual participants (it's not like the researcher is uploading people's BSN numbers to the internet). The researcher uses a free ChatGPT account and doesn't verify whether the data will be retained by the AI model. 
 ```  
 <br>
 
-“Feeding” *any* type of personal data  into large language models (LLMs) like Chat GPT raises **serious privacy concerns**. Depending on the type of account, the information can be retained for a number of days. Meanwhile, the data you enter can be accessed by people managing the AI system who do not have authorization to view the personal details of your research subjects. It's also possible the input will be re-used for training data: in other words, the data will be used by the company to train future models. This goes against the promise you will have made to your research participants to keep their data private, secure, and used only for specific research purposes. TU Delft's recommendation for the AI tool Copilot Chat is to only enter public information (not any personal data or confidential information) into the chat.  
+“Feeding” *any* type of personal data into large language models (LLMs) like Chat GPT raises **serious privacy concerns**. Depending on the type of account, the information can be retained for a number of days. Meanwhile, the data you enter can be accessed by people managing the AI system who do not have authorization to view the personal details of your research subjects. It's also possible the input will be re-used for training data: in other words, the data will be used by the company to train future models. This goes against the promise you will have made to your research participants to keep their data private, secure, and used only for specific research purposes. TU Delft's recommendation for the AI tool Copilot Chat is to only enter public information (not any personal data or confidential information) into the chat.  
 <br>
 
 
