@@ -54,7 +54,7 @@ Which data do I **need to collect** to answer my **research question**?
 
 :::{card} Question #3
 :class-card: text-center
-Are any of the data that I plan to collect **personal data**? If yes, is each type of personal data **absolutely necessary** to answer **my research question**? 
+Are any of the data that I plan to collect **personal data** (i.e. can be linked to a specific person)? If yes, is each type of personal data **absolutely necessary** to answer **my research question**? 
 :::
 
 :::{card} Question #4
@@ -80,7 +80,7 @@ Are the personal data **directly** or **indirectly identifiable**?
 :::{card}  Someone's social security number/ BSN 
 :img-bottom: graphics/BSN.png
 :::
-:::{card}  Someone's exact birth dates  
+:::{card}  Someone's exact birth date  
 :img-bottom: graphics/Exact_birthdate.png
 :::
 :::{card}  Someone's exact addresses  
@@ -126,12 +126,12 @@ It may seem like a dataset that has information about ages or shoe sizes wouldn'
 
 In certain cases, the **context** will determine if data is directly versus indirectly identifiable. Let's look at two examples:  
 
-```{admonition} Example 1: Grey Area
+```{admonition} Example 1: Grey Area for direct vs. indirect identifiers 
 :class: tip
 Broad information about geolocations (e.g. participants’ temporary locations such as a city, neighbourhood, or campus) can act as indirect identifiers in combination with other data points. However, in some cases the coordinates pinpoint a research participant's home address or specifically track a person's regular movements. In such situations, the geolocation standing alone could potentially be enough to directly reidentify a participant, so the geolocation data would be considered directly identifiable personal information.
 ```  
 
-```{admonition} Example 2: Grey Area
+```{admonition} Example 2: Grey Area for direct vs. indirect identifiers
 :class: tip
 General information about gender or height can act as indirectly identifiable personal information: it might trace back to an individual person when combined with other pieces of data such as age or workplace. If the sample size is small enough, sometimes these details become much more directly identifiable. Imagine: all the employees of a small company take a survey about their satisfaction with changes implemented by their manager. The survey also asks them to indicate their gender. There is only one male staff member, so in this context, gender standing alone makes it possible to pinpoint his survey responses.  
 ```  
