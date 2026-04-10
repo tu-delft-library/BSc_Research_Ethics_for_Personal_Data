@@ -2,9 +2,9 @@
 
 In Section II, we looked at risks that can arise when working with personal data.  
 
-Now, we'll focus on concrete strategies to minimise the risks of re-identification and prevent harm to participants. Evaluating and managing risk is a **key part of ethical research design**. At this point, you need to ask yourself: 
+Now, we'll focus on concrete strategies to minimise the risks of re-identification and prevent harm to participants. Evaluating and managing risk is a **key part of ethical research design**.  
 
-:::{card} Now, you must ask: 
+:::{card} At this point, you must ask: 
 :class-card: text-center
 How do I **structure my study** in a way that **prevents each identified risk?** 
 :::
@@ -65,14 +65,15 @@ Researchers use an **informed consent form (ICF)** to obtain **direct consent** 
 
 ```{admonition} Be aware!
 :class: warning
-While the template and exemplar of an ICF can provide a helpful guide, you must craft an ICF that fits **your specific project**.  
+- While the template and exemplar of an ICF can provide a helpful guide, you must craft an ICF that fits **your specific project**.
+- Once an ICF has been filled in by a participant, it will contain directly identifiable personal data (e.g. signature, name) and must be carefully handled and securely stored. 
 ```
 <br>
 
 
 ### Implied Consent via an Opening Statement 
 
-An **opening statement** is a way to obtain **implied consent** from participants **without a signed form**. An opening statement is preferable if a survey isn't collecting any directly identifiable personal data. The opening statement is shown on the first page that participants see on a digital survey or questionnaire. Participants are told that if they click onwards into the survey, they are implying that they agree with and understand the details of the opening statement. The structure and content of an opening statement are similar to an ICF, but a key difference is that an opening statement does not ask participants to give their names or sign their signatures.  
+An **opening statement** is a way to obtain **implied consent** from participants **without a signed form**. An opening statement is preferable if a survey isn't collecting any directly identifiable personal data. The opening statement is shown on the first page that participants see on survey or questionnaire. Participants are told that if they continue onwards into the survey, they are implying that they agree with and understand the details of the opening statement. The structure and content of an opening statement are similar to an ICF, but a key difference is that an opening statement does not ask participants to give their names or sign their signatures.  
 
 :::{card} Download an exemplar: 
 [Opening Statement Exemplar](graphics/Opening_Statement_Exemplar.pdf)
@@ -88,7 +89,8 @@ Again, while the exemplar can provide a helpful guide and give you an idea of ge
 
 | **Where to store personal data** | **Where NOT to store personal data** |
 |---|---|
-|BSc students at TU Delft should use **OneDrive** for secure storage, unless their supervisor has organised access to another secure storage solution (such as a folder on the Project Data (U:) Drive or the SURF Drive).|Commercial third party cloud storage such as Dropbox and Google Drive: Cloud applications such as Google and Dropbox store data outside the EU. They are thus **not approved by TU Delft**, especially for storing personal data.|
+|BSc students at TU Delft should use **OneDrive** for secure storage, unless their supervisor has organised access to another secure storage solution (such as a folder on the Project Data (U:) Drive or the SURF Drive).|Commercial third party cloud storage such as Dropbox and Google Drive: Cloud applications such as Google and Dropbox may store data outside the EU, where it could fall under the privacy rules of other countries. They are thus **not approved by TU Delft**, especially for storing personal data.|
+|    |Other platforms such as Overleaf, Miro, and Github. |
 |    |Portable drives such as hard drives and thumb drives: it’s too easy for these to get damaged, to get lost, and fall into the wrong hands.|
 |    |Floating on the desktop of your personal computer: this puts any personal data at risk (not to mention, all your work could get lost if your device gets stolen or broken).| 
 
@@ -149,10 +151,12 @@ A document containing personal data can be **encrypted** by enabling the **locki
 
 Let's revisit Paula's research project and see how she evaluates and minimises elements of risk: 
 
-:::{dropdown} This 2-part video is still in creation and will go here! View Part II of the script:
+:::{dropdown} Script, Part II of the video:
 **Part II:**   
 
-Let's revisit Paula's project to see how she evaluates and prevents risk. Once Paula has determined that she'll be working with indirectly identifiable personal data, she must ask herself the next ethical questions: In what way(s) could my planned methods of data collection, data storage, processing, or sharing cause harm to the people involved in my study? And how do I structure my study in a way that prevents or mitigates each identified risk?   
+Let's revisit Paula's project to see how she evaluates and prevents risk. Once Paula has determined that she'll be working with indirectly identifiable personal data, she must ask herself the next ethical questions: 
+- **In what way(s) could my planned methods of data collection, data storage, processing, or sharing cause harm to the people involved in my study?**
+- **And how do I structure my study in a way that prevents or mitigates each identified risk?**   
 
 **Identified Risk #1: Vulnerable Subjects** 
 
@@ -174,7 +178,7 @@ Paula wants to make sure the data doesn't fall into the wrong hands. To avoid da
 
 In this scenario, Paula evaluated potential risks within her project and chose prevention measures for each. Once she launches her research, she needs to be aware that there could still be risks of reidentification beyond her imagination. If unanticipated risks do arise, she must re-evaluate her methods and introduce further measures to protect her participants. 
 
-By Cconsidering all these risks, Paula makes sure she doesn't cause any unintended harm to the people involved in the study. 
+By Considering all these risks, Paula makes sure she doesn't cause any unintended harm to the people involved in the study. 
 :::
 
 ## Practice for Section III:  
