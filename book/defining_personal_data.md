@@ -31,10 +31,10 @@ Let's enhance our understanding through examples. Scroll across the carousel bel
 :::{card} Raw transcripts from an interview 
 :img-bottom: graphics/Interview_transcripts.png
 ::::
- <p style="font-size: x-small;"><em>"Personal data icons" by TU Delft Library - Education Support is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
+ <p style="font-size: x-small;"><em>"Personal data icons" by TU Delft Library - Education Support is licensed under <a href="https://creativecommons.org/licenses/by/4.0/"target="_blank">CC BY 4.0</a></em></p>
 <br>
 
-These pieces of information are personal data because they can be **directly** or **indirectly** traced back to a single person. Keep in mind that supporting documents or administrative artefacts used to organise a study can also contain personal data. For example, a contact list with the emails of research participants is considered personal data, as are copies of forms that research participants sign to give their consent (informed consent forms). 
+These pieces of information are personal data because they can be **directly** or **indirectly** traced back to a single person. Keep in mind that supporting documents or administrative artefacts used to organise a study can also contain personal data. For example, a contact list with the emails of research participants is considered personal data, as are copies of forms that research participants sign to give their consent to participate in the study (informed consent forms). 
 <br>
 
 ## Direct versus Indirect Identifiers  
@@ -128,7 +128,7 @@ In certain cases, the **context** will determine if data is directly versus indi
 
 ```{admonition} Example 1: Grey Area
 :class: tip
-Broad information about geolocations (e.g. participants’ temporary locations such as a city, neighborhood, or campus) can act as indirect identifiers in combination with other data points. However, in some cases the coordinates pinpoint a research participant's home address or specifically track a person's regular movements. In such situations, the geolocation standing alone could potentially be enough to directly reidentify a participant, so the geolocation data would be considered directly identifiable personal information.
+Broad information about geolocations (e.g. participants’ temporary locations such as a city, neighbourhood, or campus) can act as indirect identifiers in combination with other data points. However, in some cases the coordinates pinpoint a research participant's home address or specifically track a person's regular movements. In such situations, the geolocation standing alone could potentially be enough to directly reidentify a participant, so the geolocation data would be considered directly identifiable personal information.
 ```  
 
 ```{admonition} Example 2: Grey Area
