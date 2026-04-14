@@ -5,4 +5,5 @@ Welcome! This mini-module is designed for bachelor's students at TU Delft who ar
 
  Do you have additional feedback or questions? Please contact Data Literacy Project leader Paige Folsom:  p.m.folsom@tudelft.nl  
 
- You can also suggest edits through Github! Please visit <a href="https://github.com/tu-delft-library/BSc_Research_Ethics_for_Personal_Data/"target="_blank</a> the Github Repository</a> for this mini-module. 
+ You can also suggest edits through Github! Please visit the <a href="https://github.com/tu-delft-library/BSc_Research_Ethics_for_Personal_Data" target="_blank">
+  Open GitHub repository</a> for this mini-module. 
