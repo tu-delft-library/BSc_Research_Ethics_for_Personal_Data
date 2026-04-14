@@ -171,13 +171,6 @@ Read the scenario and evaluate potential risks in this research project as it's 
     allow="fullscreen; autoplay">
   </iframe>
 </div>
-
-
-```{h5p} https://tudelft.h5p.com/content/1292839832320972837
-```
-<br>
-
-
 <br> 
 
 
