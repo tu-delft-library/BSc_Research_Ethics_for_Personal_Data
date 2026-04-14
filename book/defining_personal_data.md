@@ -16,7 +16,8 @@ Let's enhance our understanding through examples. Scroll across the carousel bel
 ::::{card-carousel} 4
 :margin: 4
 
-:::{card} An IP address
+:::{card} An IP address 
+(if it's associated with a person)
 :img-bottom: graphics/IP_address.png
 :::
 :::{card} A patient's heart rate 
@@ -37,9 +38,9 @@ Let's enhance our understanding through examples. Scroll across the carousel bel
 These pieces of information are personal data because they can be **directly** or **indirectly** traced back to a single person. Keep in mind that supporting documents or administrative artefacts used to organise a study can also contain personal data. For example, a contact list with the emails of research participants is considered personal data, as are copies of forms that research participants sign to give their consent to participate in the study (informed consent forms). 
 <br>
 
-## Direct versus Indirect Identifiers  
+## Ethical Questions   
 
-As a researcher, it is your legal and ethical imperative to protect the dignity, safety, and privacy of the people participating in your study. When you design your study, you need to start by asking yourself the following questions: 
+As a researcher, it is your legal and ethical imperative to protect the personal data of the people participating in your study. When you design your study, you need to be very clear about what type(s) of personal data will be involved. Therefore, you must start by asking yourself the following questions: 
 <br>
 
 :::{card} Question #1
@@ -59,7 +60,7 @@ Are any of the data that I plan to collect **personal data** (i.e. can be linked
 
 :::{card} Question #4
 :class-card: text-center
-Are the personal data **directly** or **indirectly identifiable**?
+Are the personal data <u>**directly**</u> or <u>**indirectly identifiable**</u>?
 (We'll define these terms next.)   
 :::
  
@@ -97,7 +98,7 @@ Are the personal data **directly** or **indirectly identifiable**?
 
 
 ## Indirect Identifiers
-**Indirect identifiers** (**indirectly identifiable personal information**) are data that could indirectly reveal a research participant's identity if combined with other available details. These additional details could be found either within the same dataset or separately, like on the web. Because indirect identifiers can lead to reidentification in combination with other data, they are also referred to as **"quasi-identifiers”**. Scroll across the carousel below to see examples of data that can act as indirect identifiers: 
+**Indirect identifiers** (**indirectly identifiable personal information**) are data that could indirectly reveal a research participant's identity if combined with other available details. These additional details could be found either within the same dataset or separately, like on the web. Indirect identifiers can lead to reidentification in combination with other data. They are also referred to as **"quasi-identifiers”**. Like an indirect identifier, a quasi-identifier is a piece of data that standing alone won't identify a single person, but it could become identifying if other quasi-identifiers are available. Scroll across the carousel below to see examples of data that can act as indirect identifiers: 
 
 ::::{card-carousel} 4
 
@@ -115,6 +116,9 @@ Are the personal data **directly** or **indirectly identifiable**?
 :::
 :::{card}  Age ranges 
 :img-bottom: graphics/Age_ranges.png 
+::::
+:::{card}  Name of the organisation or team a person works for 
+:img-bottom: graphics/organisational_icon.png
 ::::
 <p style="font-size: x-small;"><em>"Indirectly identifiable personal data icons" by TU Delft Library - Education Support are licensed under <a href="https://creativecommons.org/licenses/by/4.0/"target="_blank">CC BY 4.0</a></em></p>
 <br>
@@ -138,7 +142,7 @@ General information about gender or height can act as indirectly identifiable pe
  
 ```{admonition} Be aware!
 :class: warning
-Whether the data is directly or indirectly identifiable, you must implement measures to protect people's personal information: **all personal data must be processed and stored with care**.    
+Whether the data is directly or indirectly identifiable personal information, you must implement measures to protect people's personal information: **all personal data must be processed and stored with care**.    
 ```
 
 ## Scenario: Video 
