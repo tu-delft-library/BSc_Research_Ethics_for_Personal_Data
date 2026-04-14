@@ -1,6 +1,6 @@
-# IV. Institutional Policies
+# IV. Institutional Policies at TU Delft
 
-Each institution has its own norms, policies, and procedures for working with personal data. It's important to get familiar with the guidelines for your institution and also helpful to identify who can answer any questions you may have about personal data. That way you can **be aware of the larger “ecosystem”** that you're working in, organise your research more **efficiently**, and **get support quickly** whenever you need it.   
+Each institution has its own norms, policies, and procedures for working with personal data. It's important to get familiar with the guidelines for TU Delft and also helpful to identify who can answer any questions you may have about personal data. That way you can **be aware of the larger “ecosystem”** that you're working in, organise your research more **efficiently**, and **get support quickly** whenever you need it.   
 <br> 
 
 ## The HREC 
