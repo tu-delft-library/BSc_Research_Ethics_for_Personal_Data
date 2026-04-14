@@ -2,9 +2,9 @@
 
 In Section II, we looked at risks that can arise when working with personal data.  
 
-Now, we'll focus on concrete strategies to minimise the risks of re-identification and prevent harm to participants. Evaluating and managing risk is a **key part of ethical research design**.  
+Now, we'll focus on concrete strategies to minimise the risks of re-identification and prevent harm to participants. Evaluating and managing risk is a **key part of ethical research design**. At this point, you must ask: 
 
-:::{card} At this point, you must ask: 
+:::{card} 
 :class-card: text-center
 How do I **structure my study** in a way that **prevents each identified risk?** 
 :::
@@ -39,7 +39,7 @@ Researchers use an **informed consent form (ICF)** to obtain **direct consent** 
 
 - **The Protocol:** Explains what you are asking people to do and the potential risks involved with participating. 
 
-- **The Data:** Describes what type(s) of data will be collected from participants. 
+- **The Data:** Describes what type(s) of data will be collected from participants, who will have access to the data/where it will be stored, and the potential risks involved.  
 
 - **Participants’ Rights:** Explains that participants can exit the study at any time with no negative consequences. It also explains the conditions of data withdrawal, or how/when a participant can request to have their data removed from the larger dataset. 
 
@@ -85,7 +85,7 @@ Again, while the exemplar can provide a helpful guide and give you an idea of ge
 
 ## Risk minimisation strategy #3: Use secure storage  
 
-**Secure data storage** practices are a **key risk management strategy**. Secure storage protects you against data loss and protects the personal data of research participants from security breaches or leaks. Here is an overview of secure storage recommendations for BSc students at TU Delft. 
+**Secure data storage** practices are a **key risk management strategy**. Secure storage protects you against data loss and protects the personal data of research participants from security breaches or leaks. During the planning phase you should already decide where and how you will protect the data against loss and breaches. Here is an overview of secure storage recommendations for BSc students at TU Delft. 
 
 | **Where to store personal data** | **Where NOT to store personal data** |
 |---|---|
@@ -94,6 +94,7 @@ Again, while the exemplar can provide a helpful guide and give you an idea of ge
 |    |Portable drives such as hard drives and thumb drives: it’s too easy for these to get damaged, to get lost, and fall into the wrong hands.|
 |    |Floating on the desktop of your personal computer: this puts any personal data at risk (not to mention, all your work could get lost if your device gets stolen or broken).| 
 
+Check with your supervisor or instructor if you plan to use a storage solution that is not listed above.  
 
 ## Risk minimisation strategy #4: Anonymisation and Pseudonymisation  
 
@@ -101,7 +102,7 @@ Again, while the exemplar can provide a helpful guide and give you an idea of ge
 Researchers process data using methods of Anonymisation and Pseudonymisation to help protect participants' identities.  
 
  
-## Anonymisation
+### Anonymisation
 **Anonymisation** is the **process of modifying or erasing** all personal data that may be traceable to a unique person so that it is no longer possible to link it back to any specific research participant. Anonymisation is **permanent and irreversible**. After a data set is anonymised it’s no longer considered personal data because the information cannot be traced back to any single participant . Anonymisation makes it possible to store, process, and share the data without the risk of exposing people’s identities.  
 
 Best practice is not to collect such personal details in the first place if they are not essential to address research questions. But if these details have already been collected, researchers must ensure they get removed as soon as possible so the dataset can no longer be traced back to a specific person. Note: it may be necessary to collect names for the purposes of the informed consent form. And if that's the case, the **informed consent forms** should be **stored in a secure place separate** from the rest of the collected data.  
@@ -117,14 +118,16 @@ Best practice is not to collect such personal details in the first place if they
 ```  
 <br> 
 
-## Pseudonymisation
+### Pseudonymisation
 Pseudonymisation means that a researcher replaces certain personal data with anonymous identifiers such as number or letter combinations in a way that the personal data can’t point to a specific subject unless they have access to the key (also known as a linkage file). 
 
 ```{admonition} Pseudonymisation: Example #1 
 :class: tip
-A researcher transcribed the comments of participants during a focus  group. She recorded participants’ names in the transcript to be able to distinguish who had said what. To pseudonymise the transcript data, she replaces the participant's names with number codes and creates a key (a separate spreadsheet) that shows the code for each name. This pseudonymised data can be shared with restricted access, and only with participants’ consent. The researcher must store the key separate from the pseudonymised dataset in a secure location and control access to it since the key would allow for the reidentification of participants. This example illustrates that pseudonymisation is reversible (with the key). This is why pseudonymised data is still considered personal data. 
+A researcher transcribed the comments of participants during a focus  group. The researcher records participants’ names in the transcript to be able to distinguish who had said what. To pseudonymise the transcript data, the researcher replaces the participant's names with number codes and creates a key (a separate spreadsheet) that shows the code for each name. This pseudonymised data can be shared with restricted access, and only with participants’ consent. The researcher must store the key separate from the pseudonymised dataset in a secure location and control access to it since the key would allow for the reidentification of participants.  
 ```  
 <br> 
+
+This example illustrates that **pseudonymisation is reversible (with the key)**. This is why <u>pseudonymised data is still considered personal data.</u>
 
 As part of pseudonymisation the researcher can also aggregate the data, replacing specific details with more general categories. For example, a researcher might aggregate the names of specific academic programs by replacing the program names with the name of the faculty.  
 
@@ -138,7 +141,7 @@ Anonymisation and pseudonymisation are **time-intensive processes** that are **d
 
 ```{admonition} Be aware!
 :class: warning
-During the **planning phase** of your research you must already establish whether you will anonymise or pseudonymise participants’ personal data. In your opening statement or on your Informed Consent Form you must make it clear to participants how their personal data will be protected.  
+During the **planning phase** of your research you must already establish whether you will anonymise or pseudonymise participants’ personal data, with a plan for how you will do this. In your opening statement or on your Informed Consent Form you must make it clear to participants how their personal data will be protected.  
 ```
 <br>
 
@@ -146,8 +149,13 @@ During the **planning phase** of your research you must already establish whethe
 
 A document containing personal data can be **encrypted** by enabling the **locking function**. The researcher assigns a **“key,”** i.e. a security code or password, and this is necessary to open the document. 
 
- 
-## Scenario:  
+```{admonition} Encryption: Example
+:class: tip
+In the practice exercises for Section II we learned about Femke, the researcher who is collecting data about the experiences of immigrants to the Netherlands. We learned that to act ethically and to protect the identities of her research participants, Femke needs to collect signed informed consent forms and keep the paper copies secure until they are digitized. Next, Femke must move the digital forms into a folder that is separate from the rest of the research data. And she must also **encrypt** or password-protect the folder containing the digitized IFCs: she right clicks on the folder to adjust the folder's properties, clicks on the Security tab, and edits the user permissions. Femke makes herself the only user with access to the folder, and adjusts the settings to require a passcode that only she knows.     
+```
+<br>
+
+## Scenario  
 
 Let's revisit Paula's research project and see how she evaluates and minimises elements of risk: 
 
@@ -181,7 +189,7 @@ In this scenario, Paula evaluated potential risks within her project and chose p
 By Considering all these risks, Paula makes sure she doesn't cause any unintended harm to the people involved in the study. 
 :::
 
-## Practice for Section III:  
+## Practice: Section III  
 Complete the practice questions to check your understanding of risk prevention and minimisation strategies. 
 <br>
 
