@@ -16,8 +16,7 @@ Let's enhance our understanding through examples. Scroll across the carousel bel
 ::::{card-carousel} 4
 :margin: 4
 
-:::{card} An IP address 
-(if it's associated with a person)
+:::{card} An IP address (if it's associated with a person)
 :img-bottom: graphics/IP_address.png
 :::
 :::{card} A patient's heart rate 
@@ -100,7 +99,7 @@ Are the personal data <u>**directly**</u> or <u>**indirectly identifiable**</u>?
 ## Indirect Identifiers
 **Indirect identifiers** (**indirectly identifiable personal information**) are data that could indirectly reveal a research participant's identity if combined with other available details. These additional details could be found either within the same dataset or separately, like on the web. Indirect identifiers can lead to reidentification in combination with other data. They are also referred to as **"quasi-identifiers”**. Like an indirect identifier, a quasi-identifier is a piece of data that standing alone won't identify a single person, but it could become identifying if other quasi-identifiers are available. Scroll across the carousel below to see examples of data that can act as indirect identifiers: 
 
-::::{card-carousel} 5
+::::{card-carousel} 6
 
 :::{card}  Height 
 :img-bottom: graphics/Height.png
@@ -117,6 +116,7 @@ Are the personal data <u>**directly**</u> or <u>**indirectly identifiable**</u>?
 :::{card}  Age ranges 
 :img-bottom: graphics/Age_ranges.png 
 ::::
+:::
 :::{card}  Name of the organisation or team a person works for 
 :img-bottom: graphics/organisational_icon.png
 ::::
