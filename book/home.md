@@ -2,7 +2,7 @@
 
 ## Welcome! 
 
-As part of your bachelor's coursework, are you going to do assignments or conduct research using data from or about people?  If yes, you'll likely be working with personal data, and this mini-module is meant for you! These materials will teach you to work ethically with personal data.  
+As part of your bachelor's coursework, are you going to do assignments or conduct research using data from or about people?  If yes, you'll likely be working with personal data, and this mini-module is meant for you! This information will also be useful for your Bachelor's End Project or thesis project. These materials will teach you to work ethically with personal data. 
 
  
 
@@ -12,12 +12,12 @@ By participating in this mini-module, we hope you will develop an awareness of k
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr style="background-color: #f2f2f2;">
-    <th style="border: 1px solid black;">Section</th>
+    <th style="border: 1px solid black; width: 30%;">Section</th>
     <th style="border: 1px solid black;">Goals</th>
   </tr>
 
-  <tr style="background-color: #f9f9f9;">
-    <td style="border: 1px solid black;">Section I</td>
+  <tr style="background-color: #f9f9f9;"> 
+    <td style="border: 1px solid black; width: 30%;">Section I</td>
     <td style="border: 1px solid black;">
       • Recognize personal data.<br>
       • Identify directly and indirectly identifiable personal research data.
@@ -25,7 +25,7 @@ By participating in this mini-module, we hope you will develop an awareness of k
   </tr>
 
   <tr style="background-color: #f9f9f9;">
-    <td style="border: 1px solid black;">Section II</td>
+    <td style="border: 1px solid black; width: 30%;">Section II</td>
     <td style="border: 1px solid black;">
       • Explain why all human research data must be handled carefully, both ethically and legally.<br>
       • Understand risks that arise when working with human research participants and personal data.<br>
@@ -36,14 +36,14 @@ By participating in this mini-module, we hope you will develop an awareness of k
   </tr>
 
   <tr style="background-color: #f9f9f9;">
-    <td style="border: 1px solid black;">Section III</td>
+    <td style="border: 1px solid black; width: 30%;">Section III</td>
     <td style="border: 1px solid black;">
       • Explain how to prevent and mitigate risks related to collecting, processing, sharing, and storing personal data.
     </td>
   </tr>
 
   <tr style="background-color: #f9f9f9;">
-    <td style="border: 1px solid black;">Section IV</td>
+    <td style="border: 1px solid black; width: 30%;">Section IV</td>
     <td style="border: 1px solid black;">
       • Be familiar with institutional policies and procedures for personal data.
     </td>
