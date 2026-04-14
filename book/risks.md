@@ -2,9 +2,9 @@
 
 ## Pre-evaluate Your Project for Potential Risks  
 
-In this section, we'll look at examples of risks involving personal data that can arise during research. Beyond the legal guidelines established by the GDPR, you as a researcher have an **ethical responsibility** to handle personal data with care. This means carefully **pre-assessing** each aspect of your study during the preparation phase to **evaluate potential risks** that could arise.  
+In this section, we'll look at examples of risks involving personal data that can arise during research. Beyond the legal guidelines established by the GDPR, you as a researcher have an **ethical responsibility** to handle personal data with care. This means carefully **pre-assessing** each aspect of your study during the preparation phase to **evaluate potential risks** that could arise. In this phase of planning, you need to ask yourself: 
 
-:::{card} In this phase of planning, you need to ask yourself: 
+:::{card} 
 :class-card: text-center
 In what way(s) could my planned methods of **data collection, data storage, processing, or sharing cause harm** to the people involved in my study? 
 :::
@@ -19,7 +19,7 @@ Some research projects work with personal data that are extra sensitive and ther
 
  
 
-### HIGH RISK PERSONAL DATA: <u>SPECIAL CATEGORIES</u>   
+### <u>SPECIAL CATEGORIES</u>   
 **Special categories** of personal data flag **increased risk** because the information could **endanger participants** if disclosed in certain contexts. Special categories require **careful ethical considerations** because a breach could put participants in **physical danger, lead to social discrimination, result in persecution, or cause harm to their reputation**.  Therefore, these pieces of information require a higher degree of caution and protection than other types of personal data (even if the data is indirectly identifiable). The following types of information fall under special categories of personal data, with examples of what can happen if this sensitive data is leaked.  
 
 1. **Racial or ethnic origin**: The policies of a government target and segregate members of a certain ethnic group. If a participant's ethnicity were leaked, it could lead to their persecution.  
@@ -37,7 +37,7 @@ Some research projects work with personal data that are extra sensitive and ther
 7. **Genetic information**: People with a predisposition to an adult-onset genetic disorder could be excluded from future job promotions if their genetic data were exposed publicly.  
 
 
-### HIGH RISK PERSONAL DATA: <u>VULNERABLE SUBJECTS</u>   
+### <u>VULNERABLE SUBJECTS</u>   
 
 **Vulnerable subjects** are defined as **people who cannot freely give their consent to participate** in a study or who cannot fully protect their own interests, for example due to a **power imbalance, dependency, age, or health conditions**. Vulnerable subjects include people who are not competent to give their consent, as well as groups that could face very **adverse consequences** if their personal data were leaked. Here are two examples of vulnerable subjects:  
 
@@ -47,9 +47,9 @@ Some research projects work with personal data that are extra sensitive and ther
 A 19-year-old BSc student wants to interview a group of 14-year-olds about their use of resources in the public library system. However, a 14-year-old is **not legally able to consent** to participate in a study. Also, they might feel **pressured or coerced** to take part in an interview with an older university student. 
 ```  
 
- ```{admonition} Vulnerable Subjects: Elderly participants
+ ```{admonition} Vulnerable Subjects: Health-related consent limitations
 :class: tip
-An 85-year-old woman in the early stages of dementia is asked to participate in an experiment that involves wearing virtual reality goggles. Although the researcher gives the elderly woman a paper copy of the consent materials, she still **doesn't fully understand what she is agreeing to**. She is not competent to give her consent.  
+An 85-year-old woman in the early stages of dementia is asked to participate in an experiment that involves wearing virtual reality goggles. Although the researcher gives the elderly woman a paper copy of the consent materials, she still **doesn't fully understand what she is agreeing to**. This means she may not be able to give fully informed consent. 
 ```  
 <br> 
 
@@ -59,7 +59,7 @@ Similar to special categories, data from vulnerable subjects require special pro
 
 ```{admonition} Be aware!
 :class: warning
- **Personal data that falls under special categories or vulnerable subjects should be collected, handled and stored with extreme caution!** Both types of high-risk personal data require more stringent ethical review. 
+ Personal data that falls under **special categories** or **vulnerable subjects** should be collected, handled and stored with **extreme caution!** Both types of high-risk personal data require more stringent ethical review. 
 ```
 <br>
 
@@ -94,15 +94,15 @@ Interview questions can **trigger past trauma**: For example, a group of student
 
 ### Risk of Data Breaches:   
 
-A **data breach** occurs when stored personal information is leaked, stolen, or shared with people who are not authorized to view those details and may (mis)use the data for their own goals and benefits. Here are some examples of how data breaches can happen.  
+A **data breach** occurs when stored personal information is leaked, stolen, or shared with people who are not authorized to view those details and may (mis)use the data for their own goals and benefits. This goes against the promise that you made to participants to keep their personal data safe and to use the data only for specific research purposes. Here are some examples of how data breaches can happen.  
 
 Data breaches can occur due to **improper storage**:   
 ::::{grid} 2
 :::{grid-item-card}  
-Personal data was saved on the researcher's pen drive, and the pen drive got lost.  
+Personal data was saved on the researcher's pen drive, and the pen drive got lost.    
 :::
 :::{grid-item-card} 
-Personal data was stored on a researcher's computer desktop, and the computer got stolen.
+Personal data was stored on a researcher's computer desktop, and the computer got stolen. 
 :::
 ::::     
 <br>
@@ -121,25 +121,25 @@ A researcher intended to share an anonymised dataset but accidentally shared the
 ::::   
 <br>
 
-### Risk of Reidentification of Study Participants: 
+### Risk of Re-identification of Study Participants: 
 
 You must check beforehand if the design of your research project could lead to re-identification through quasi-identifiers. If there's a chance that the collected data can be linked back to a person, you will need to take steps to protect the data. Here are two examples:  
 <br>
 
- ```{admonition} Reidentification: Example #1
+ ```{admonition} Re-identification: Example #1
 :class: tip
-Study participants are reidentified by combining indirect identifiers in a study focusing on staff experiences with remote work arrangements at the university. The dataset does not include names or employee numbers, but it does contain age range, department, job role, and whether the respondent has requested workplace accommodations in the past year. In a small department, there is only one staff member aged 55–60 who recently requested accommodations. This combination of characteristics makes it possible to reidentify that individual. If their responses can be traced back to them, this is an **invasion of their privacy**. Also, the staff member may have divulged very personal details, and if these details are leaked it might **change how people see or treat them**.  
+Study participants are re-identified by combining indirect identifiers in a study focusing on staff experiences with remote work arrangements at the university. The dataset does not include names or employee numbers, but it does contain age range, department, job role, and whether the respondent has requested workplace accommodations in the past year. In a small department, there is only one staff member aged 55–60 who recently requested accommodations. This combination of characteristics makes it possible to re-identify that individual. If their responses can be traced back to them, this is an **invasion of their privacy**. Also, the staff member may have divulged very personal details, and if these details are leaked it might **change how people see or treat them**.  
 ```  
 
- ```{admonition} Reidentification: Example #2
+ ```{admonition} Re-identification: Example #2
 :class: tip
-When **sample sizes are small**, it can be easier through the process of elimination to re-identify people based on indirect identifiers that apply to very few participants. For example, in a study examining potential associations between hair color and susceptibility to certain skin diseases, a researcher collects data on the hair color of a small group of study participants along with other indirectly identifiable personal data; there are only two red-headed people among all the participants. Through the process of elimination and in combination with other indirectly identifying details, it's possible to link specific responses back to the two participants with red hair. This **threatens the privacy** of the two red-headed participants, which is an ethical issue: a researcher's **top priority** should be to **maintain the privacy of all participants** and **protect their personal data**.
+When **sample sizes are small**, it can be easier through the process of elimination to re-identify people based on indirect identifiers that apply to very few participants. For example, in a study examining potential associations between hair color and susceptibility to certain skin diseases, a researcher collects data on the hair color of a small group of study participants along with other indirectly identifiable personal data; there are only two red-headed people among all the participants. Through the process of elimination and in combination with other indirectly identifying details, it's possible to link specific responses back to the two participants with red hair. This **threatens to expose the health information** of the two red-headed participants, which is an ethical issue: a researcher's **top priority** should be to **maintain the privacy of all participants** and **protect their personal data**.
 ```  
 <br>
  
 ### Risks Using Generative AI: 
 
-
+“Feeding” *any* type of personal data into large language models (LLMs) like Chat GPT raises **serious privacy concerns** and could lead to a data breach. 
 
  ```{admonition} Example: Risks of Generative AI 
 :class: tip
@@ -147,7 +147,12 @@ A researcher uses Generative AI to analyse the data collected for a study on com
 ```  
 <br>
 
-“Feeding” *any* type of personal data into large language models (LLMs) like Chat GPT raises **serious privacy concerns**. Depending on the type of account, the information can be retained for a number of days. Meanwhile, the data you enter can be accessed by people managing the AI system who do not have authorization to view the personal details of your research subjects. It's also possible the input will be re-used for training data: in other words, the data will be used by the company to train future models. This goes against the promise you will have made to your research participants to keep their data private, secure, and used only for specific research purposes. TU Delft's recommendation for the AI tool Copilot Chat is to only enter public information (not any personal data or confidential information) into the chat.  
+In this example, the researcher breaks the promise made to participants to keep their data private and secure. Depending on the type of ChatGPT account, the information entered can be retained for a number of days and accessed by the people managing the AI system. They do not have authorization to view the personal details of research subjects, and this would be a data breach. It's also possible that information entered into AI platforms like ChatGPT will be re-used for training data. In other words, the data will be used by the company to train future models. This goes against the promise that the researchers made to use participants' personal data only for specific research purposes. 
+
+```{admonition} Be aware!
+:class: warning
+Based on these privacy risks, TU Delft’s recommendation for the AI tool Copilot Chat is to only enter public information (not any personal data or confidential information) into the chat.
+```
 <br>
 
 
@@ -155,6 +160,18 @@ A researcher uses Generative AI to analyse the data collected for a study on com
 ## Practice for Section II:  
 Read the scenario and evaluate potential risks in this research project as it's currently designed. 
 <br>
+
+<div style="max-width: 900px; margin: auto;">
+  <iframe
+    src="https://tudelft.h5p.com/content/1292839832320972837/embed"
+    width="100%"
+    height="600"
+    frameborder="0"
+    allowfullscreen="allowfullscreen"
+    allow="fullscreen; autoplay">
+  </iframe>
+</div>
+
 
 ```{h5p} https://tudelft.h5p.com/content/1292839832320972837
 ```
