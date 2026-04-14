@@ -19,6 +19,7 @@ For optimal viewing of the flowchart, we suggest that you [download the flowchar
 :width: 100%
 :aspectratio: auto 16 / 9
 ```
+<p style="font-size: x-small;"><em>"HREC Flowchart" by TU Delft Library - Education Support is licensed under <a href="https://creativecommons.org/licenses/by/4.0/"target="_blank">CC BY 4.0</a></em></p>
 <br>
 
 As shown in the flowchart, a researcher must submit at least three components to HREC:  
