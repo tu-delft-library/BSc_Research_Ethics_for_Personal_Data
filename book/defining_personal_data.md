@@ -191,7 +191,7 @@ This way she can prioritize the safety and privacy of her participants.
 :::
 
 
-## Practice for Section I: 
+## Practice: Section I 
 
 Check your understanding of personal data and directly vs. indirectly identifiable personal information by completing practice exercises A and B. 
 <br>
