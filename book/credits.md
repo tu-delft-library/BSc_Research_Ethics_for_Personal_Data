@@ -1,6 +1,7 @@
 (credits)=
 # Credits and License
 
+## Credits
 You can refer to this book as:
 
 `Folsom, P., Ryazeva, N.` (`2025`) _`BSc Research Ethics for Personal Data`_.  `TU Delft Library.` `<https://tu-delft-library.github.io/BSc_Research_Ethics_for_Personal_Data/main/intro.html>`. Source files at `<https://github.com/tu-delft-library/BSc_Research_Ethics_for_Personal_Data>`. CC BY 4.0.
