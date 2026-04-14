@@ -4,7 +4,7 @@ Thank you for participating in this mini-module, BSc Research Ethics for Persona
 
 - In  <a href="https://tu-delft-library.github.io/BSc_Research_Ethics_for_Personal_Data/main/defining_personal_data.html" target="_blank">Section I</a>, we discussed the **definition of personal data**. We learned how to distinguish between **directly and and indirectly identifiable** personal research data. 
 
-- In <a href="https://tu-delft-library.github.io/BSc_Research_Ethics_for_Personal_Data/main/risks.html" target="_blank">Section II</a>, we looked at examples of why all human research data must be **handled carefully**, both from an ethical and legal perspective. We examined **risks that can arise** when working with human research participants and personal data. We learned that some types of personal data carry **increased risk**, including **vulnerable subjects** and **special categories** of personal data. 
+- In <a href="https://tu-delft-library.github.io/BSc_Research_Ethics_for_Personal_Data/main/risks.html" target="_blank">Section II</a>, we looked at examples of why all human research data must be **handled carefully**, both from an ethical and legal perspective. We learned how to pre-evaluate for **risks that can arise** when working with human research participants and personal data. We learned that some types of personal data carry **increased risk**, including **vulnerable subjects** and **special categories** of personal data. 
 
 - In <a href="https://tu-delft-library.github.io/BSc_Research_Ethics_for_Personal_Data/main/risk_mitigation.html" target="_blank">Section III</a>, we examined how to **prevent and minimise risks** related to collecting, processing, and storing personal data. 
 
