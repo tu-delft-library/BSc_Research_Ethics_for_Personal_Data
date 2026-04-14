@@ -1,13 +1,13 @@
 # IV. Institutional Policies
 
-Each institution has its own norms and policies for working with personal data. It's important to get familiar with the guidelines for your institution and also helpful to identify who can answer any questions you may have about personal data. That way you can **be aware of the larger “ecosystem”** that you're working in, organise your research more **efficiently**, and **get support quickly** whenever you need it.   
+Each institution has its own norms, policies, and procedures for working with personal data. It's important to get familiar with the guidelines for your institution and also helpful to identify who can answer any questions you may have about personal data. That way you can **be aware of the larger “ecosystem”** that you're working in, organise your research more **efficiently**, and **get support quickly** whenever you need it.   
 <br> 
 
 ## The HREC 
 
-TU Delft researchers who plan to work with **any data related to humans** must apply for ethical approval by submitting an application to the **TU Delft HREC, the Human Research Ethics Committee**. The role of the HREC is to act as a review and advisory board for the university: the committee members review applications to check that research projects will be conducted ethically and responsibly. The HREC must give approval **before** a researcher collects or works with any personal data or human subject research data.  
+TU Delft researchers who plan to work with **any data related to or collected from humans** must apply for ethical approval by submitting an application to the **TU Delft HREC, the Human Research Ethics Committee**. The role of the HREC is to act as a review and advisory board for the university: the committee members review applications to check that research projects will be conducted ethically and responsibly. The HREC must give approval **before** a researcher collects or works with any personal data or human subject research data.  
 
-**As a bachelor's student, you will not apply to the HREC**. Your BSc supervisor(s) may run an internal ethics check or review to help you learn the skills. Although you will not be applying to the HREC, you should still familiarize yourself with the HREC's ethical approvals process. The HREC's forms and instructions can provide a helpful guide and additional resources for working responsibly with personal data at TU Delft. You will also benefit from this knowledge if you later pursue a master's degree which involves human research subjects. 
+**As a bachelor's student, you will not apply to the HREC**. Your BSc supervisor(s) may run an internal ethics check or review to help you build the skills and mindset needed to work ethically with personal data. In rare cases, a BSc supervisor will apply to the HREC on a BSc student's behalf because the student is involved in research that is going to be published. Although you will not be applying directly to the HREC, you should still familiarize yourself with the HREC's ethical approvals process. The HREC's forms and instructions can provide a helpful guide and additional resources for working responsibly with personal data at TU Delft. You will also benefit from this knowledge if you later pursue a master's degree which involves human research subjects. 
 
 **This flowchart gives an overview of the HREC application process:**  
 
@@ -25,21 +25,21 @@ For optimal viewing of the flowchart, we suggest that you [download the flowchar
 As shown in the flowchart, a researcher must submit at least three components to HREC:  
 
 - **#1: A signed HREC checklist:**
-  In the HREC checklist, the researcher indicates potential risks involved in the research project and describes specific strategies that will used to prevent or minimise each risk.  
+  In the HREC checklist, the researcher indicates potential risks involved in the research project and describes specific strategies that will be used to prevent or minimise each risk.  
 
  
 
 - **#2: A data management plan (DMP):**
-A DMP describes the plan to manage data throughout the research process, from start to wrap-up of a project. A DMP should provide a level of detail and description that helps someone with no knowledge of the research project to imagine the research methods and/or experimental setup: what type of data will be collected, and what will be done with the data. The more detailed and descriptive the documentation, the better!   
+A DMP describes the plan to manage data throughout the research process, from start to wrap-up of a project. A DMP should provide a level of detail and description that helps someone with no knowledge of the research project to imagine the research methods and/or experimental setup: what type of data will be collected, what will be done with the data, and how it will be stored and protected. The more detailed and descriptive the documentation, the better!   
 
  
 
-- **#3: Copies of any consent templates used for the project**  
+- **#3: Copies of any informed consent templates or opening statement used for the project**  
 
   
 ```{admonition} Important Note: 
 :class: warning
-There may be **other required documents**, depending on the project. The flowchart above applies to **general research scenarios**. Some projects may involve special circumstances that require additional permissions and documentation such as internships which require a graduation agreement, research conducted outside of the Netherlands, intention to work with special categories of personal data, or the development of medical prototypes.     
+There may be **other required documents**, depending on the project. The flowchart above applies to **general research scenarios**. Some projects may involve special circumstances that require additional permissions and documentation such as internships which require a graduation agreement, research conducted outside of the Netherlands, intention to work with special categories of personal data, or the development of medical prototypes. Students should reach out to their supervisors for more information.    
 ```
 <br>
 
