@@ -49,44 +49,7 @@ By participating in this mini-module, we hope you will develop an awareness of k
     </td>
   </tr>
 </table>
-
-
-<table style="border-collapse: collapse; width: 100%;">
-  <tr style="background-color: #f2f2f2;">
-    <th style="border: 1px solid black;">Section</th>
-    <th style="border: 1px solid black;">Goals</th>
-  </tr>
-
-  <tr style="background-color: #f9f9f9;">
-    <td style="border: 1px solid black;" rowspan="2">Section I</td>
-    <td style="border: 1px solid black;">Recognize personal data.</td>
-  </tr>
-  <tr style="background-color: #f9f9f9;">
-    <td style="border: 1px solid black;">Identify directly and indirectly identifiable personal research data.</td>
-  </tr>
-
-  <tr style="background-color: #f9f9f9;">
-    <td style="border: 1px solid black;" rowspan="3">Section II</td>
-    <td style="border: 1px solid black;">Explain why all human research data must be handled carefully.</td>
-  </tr>
-  <tr style="background-color: #f9f9f9;">
-    <td style="border: 1px solid black;">Understand risks with participants and data.</td>
-  </tr>
-  <tr style="background-color: #f9f9f9;">
-    <td style="border: 1px solid black;">Explain why certain data types carry increased risk.</td>
-  </tr>
-
-  <tr style="background-color: #f9f9f9;">
-    <td style="border: 1px solid black;">Section III</td>
-    <td style="border: 1px solid black;">Explain how to prevent and mitigate risks.</td>
-  </tr>
-
-  <tr style="background-color: #f9f9f9;">
-    <td style="border: 1px solid black;">Section IV</td>
-    <td style="border: 1px solid black;">Be familiar with institutional policies.</td>
-  </tr>
-</table>
-
+<br>
 
 ## Course Format 
 
