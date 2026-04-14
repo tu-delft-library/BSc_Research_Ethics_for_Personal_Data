@@ -1,20 +1,15 @@
 # Closing Remarks 
 
-Thank you for participating in this mini-module, BSc Research Ethics for Personal Data! We aimed to provide information, examples, and practice opportunities so that you develop the skills to:  
+Thank you for participating in this mini-module, BSc Research Ethics for Personal Data! We aimed to provide information, examples, and practice opportunities so that you could develop core skills and knowledge necessary to work ethically with personal data. This information will apply when you do projects involving human participants. It could be helpful to refer back to when you start your BEP.  
 
-- Recognize personal data.  
+In  <a href="https://tu-delft-library.github.io/BSc_Research_Ethics_for_Personal_Data/main/defining_personal_data.html" target="_blank">Section I</a>, we discussed the **definition of personal data**. We learend how to distinguish between **directly and and indirectly identifiable(( personal research data. 
 
-- Identify directly and indirectly identifiable personal research data. 
+In Section II, we looked at examples of why all human research data must be **handled carefully**, both from an ethical and legal perspective. We examined **risks that can arise** when working with human research participants and personal data. We learned that some types of personal data carry **increased risk**, including **vulnerable subjects** and **special categories** of personal data. 
 
-- Explain why all human research data must be handled carefully, both from an ethical and legal perspective. 
+In Section III, we examined how to **prevent and minimise risks** related to collecting, processing, and storing personal data. 
 
-- Understand that risks can arise when working with human research participants and personal data. 
+In Section IV we built familiarity with **institutional policies and procedures at TU Delft** for working with personal data. We looked at **the role of the HREC** and the HREC's **application process** and identified who to approach with questions.   
 
-- Explain why certain types of personal data carry increased risk, including vulnerable subjects and special categories of personal data. 
-
-- Explain how to prevent and mitigate risks related to collecting, processing, and storing personal data. 
-
-- Be familiar with institutional policies and procedures for working with personal data.   
 
 
 Please contact Data Literacy Project leader Paige Folsom with additional questions or to suggest edits and revisions: p.m.folsom@tudelft.nl
