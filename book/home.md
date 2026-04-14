@@ -12,12 +12,12 @@ By participating in this mini-module, we hope you will develop an awareness of k
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr style="background-color: #f2f2f2;">
-    <th style="border: 1px solid black; width: 30%;">Section</th>
+    <th style="border: 1px solid black; width: 20%;">Section</th>
     <th style="border: 1px solid black;">Goals</th>
   </tr>
 
   <tr style="background-color: #f9f9f9;"> 
-    <td style="border: 1px solid black; width: 30%;">Section I</td>
+    <td style="border: 1px solid black; width: 20%;">Section I</td>
     <td style="border: 1px solid black;">
       • Recognize personal data.<br>
       • Identify directly and indirectly identifiable personal research data.
@@ -25,7 +25,7 @@ By participating in this mini-module, we hope you will develop an awareness of k
   </tr>
 
   <tr style="background-color: #f9f9f9;">
-    <td style="border: 1px solid black; width: 30%;">Section II</td>
+    <td style="border: 1px solid black; width: 20%;">Section II</td>
     <td style="border: 1px solid black;">
       • Explain why all human research data must be handled carefully, both ethically and legally.<br>
       • Understand risks that arise when working with human research participants and personal data.<br>
@@ -36,14 +36,14 @@ By participating in this mini-module, we hope you will develop an awareness of k
   </tr>
 
   <tr style="background-color: #f9f9f9;">
-    <td style="border: 1px solid black; width: 30%;">Section III</td>
+    <td style="border: 1px solid black; width: 20%;">Section III</td>
     <td style="border: 1px solid black;">
       • Explain how to prevent and mitigate risks related to collecting, processing, sharing, and storing personal data.
     </td>
-  </tr>
+  </tr2
 
   <tr style="background-color: #f9f9f9;">
-    <td style="border: 1px solid black; width: 30%;">Section IV</td>
+    <td style="border: 1px solid black; width: 20%;">Section IV</td>
     <td style="border: 1px solid black;">
       • Be familiar with institutional policies and procedures for personal data.
     </td>
