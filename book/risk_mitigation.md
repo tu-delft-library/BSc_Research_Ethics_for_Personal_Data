@@ -1,6 +1,6 @@
 # IV. Risk Prevention & Minimisation 
 
-In Section II, we looked at risks that can arise when working with personal data.  
+In Section III, we looked at risks that can arise when working with personal data.  
 
 Now, we'll focus on concrete strategies to minimise the risks of re-identification and prevent harm to participants. Evaluating and managing risk is a **key part of ethical research design**. At this point, you must ask: 
 
@@ -189,7 +189,7 @@ In this scenario, Paula evaluated potential risks within her project and chose p
 By Considering all these risks, Paula makes sure she doesn't cause any unintended harm to the people involved in the study. 
 :::
 
-## Practice: Section III  
+## Practice: Section IV  
 Complete the practice questions to check your understanding of risk prevention and minimisation strategies. 
 <br>
 
