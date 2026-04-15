@@ -3,7 +3,7 @@
 
 ## Ethical Questions while Planning  
 
-As a researcher, it is your legal and ethical imperative to protect the personal data of the people participating in your study. When you design your study, you need to be very clear about what type(s) of personal data will be involved. Therefore, you must start by asking yourself the following questions: 
+As a researcher, it is your legal and ethical imperative to protect the personal data of the people participating in your study. When you design your study, you need to get very clear about exactly what type(s) of personal data will be involved. During the planning phase you need to ask yourself the following questions: 
 <br>
 
 :::{card} Question #1
@@ -30,7 +30,7 @@ Are the personal data <u>**directly**</u> or <u>**indirectly identifiable**</u>?
 
 ## Scenario: Video 
 
-This video gives an example of a researcher who is delving into ethical questions as she plans and designs a study. 
+This video gives an example of a researcher who is delving into the ethical questions as she plans and designs a study. 
 
 :::{dropdown} This 2-part video is still in creation and will be embedded here! See the script for Part I:
 **Part I:**   
