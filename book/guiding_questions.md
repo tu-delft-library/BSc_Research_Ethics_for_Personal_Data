@@ -23,8 +23,7 @@ Are any of the data that I plan to collect **personal data** (i.e. can be linked
 
 :::{card} Question #4
 :class-card: text-center
-Are the personal data <u>**directly**</u> or <u>**indirectly identifiable**</u>?
-(We'll define these terms next.)   
+Are the personal data <u>**directly**</u> or <u>**indirectly identifiable**</u>?  
 :::
 
 
