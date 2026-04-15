@@ -73,11 +73,8 @@ So before she starts collecting any data, Paula will need to carefully assess el
 This way she can prioritize the safety and privacy of her participants. 
 :::
 
-## Practice: Section II
+## Section II: Conclusion
 
-Check your understanding of the ethical questions. 
-
-```{h5p} https://tudelft.h5p.com/content/1292839832022026197
-```
+To summarize, it is important that you ask these guiding questions before collecting any data from people. In the next sections we will revisit Paula's scenario to see how she prepares to conduct her project ethically. We will look at additional guiding questions that researchers use to assess for and then prevent risk. 
 <br>
-
+ues
