@@ -2,7 +2,7 @@
 
 ## Welcome! 
 
-As part of your bachelor's coursework, are you going to do assignments or conduct research using data from or about people?  If yes, you'll likely be working with personal data, and this mini-module is meant for you! This information will also be useful for your Bachelor's End Project or thesis project. These materials will teach you to work ethically with personal data. 
+As part of your bachelor's coursework, are you going to do assignments or conduct research using data from or about people?  If yes, you'll likely be working with **personal data in research**, and this mini-module is meant for you! This information will also be useful for your Bachelor's End Project or thesis project. These materials will teach you to work ethically with personal data. 
 
  
 
@@ -27,6 +27,13 @@ By participating in this mini-module, we hope you will develop an awareness of k
   <tr style="background-color: #f9f9f9;">
     <td style="border: 1px solid black; width: 25%;">Section II</td>
     <td style="border: 1px solid black;">
+      • Become familiar with guiding questions that researchers ask themselves when preparing to work ethically with personal data.<br>
+    </td>
+  </tr>
+
+  <tr style="background-color: #f9f9f9;">
+    <td style="border: 1px solid black; width: 25%;">Section III</td>
+    <td style="border: 1px solid black;">
       • Explain why all human research data must be handled carefully, both ethically and legally.<br>
       • Understand risks that arise when working with human research participants and personal data.<br>
       • Explain why certain types of personal data carry increased risk.
@@ -34,14 +41,14 @@ By participating in this mini-module, we hope you will develop an awareness of k
   </tr>
 
   <tr style="background-color: #f9f9f9;">
-    <td style="border: 1px solid black; width: 25%;">Section III</td>
+    <td style="border: 1px solid black; width: 25%;">Section IV</td>
     <td style="border: 1px solid black;">
       • Explain how to prevent and mitigate risks related to collecting, processing, sharing, and storing personal data.
     </td>
   </tr>
 
   <tr style="background-color: #f9f9f9;">
-    <td style="border: 1px solid black; width: 25%;">Section IV</td>
+    <td style="border: 1px solid black; width: 25%;">Section V</td>
     <td style="border: 1px solid black;">
       • Be familiar with institutional policies and procedures for personal data.
     </td>
