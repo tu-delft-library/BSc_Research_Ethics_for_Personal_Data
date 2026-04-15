@@ -157,7 +157,7 @@ Based on these privacy risks, TU Delft’s recommendation for the AI tool Copilo
 
 
 
-## Practice for Section II:  
+## Practice: Section III  
 Read the scenario and evaluate potential risks in this research project as it's currently designed. 
 <br>
 
