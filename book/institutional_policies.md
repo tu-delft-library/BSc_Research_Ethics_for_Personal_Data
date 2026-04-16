@@ -34,8 +34,11 @@ A DMP describes the plan to manage data throughout the research process, from st
 
  
 
-- **#3: Copies of any informed consent templates or opening statement used for the project**  
+- **#3: Copies of any informed consent templates or opening statement used for the project:**  
+We learned about developing an ICF and opening statement as a key risk minimisation strategy in <a href="https://tu-delft-library.github.io/BSc_Research_Ethics_for_Personal_Data/main/risk_mitigation.html#risk-minimisation-strategy-2-obtain-consent-from-participants" target="_blank">the previous section </a> of the mini-module.
+<br>
 
+Section IV. 
   
 ```{admonition} Important Note: 
 :class: warning
