@@ -66,6 +66,15 @@ This mini-course is online and self-paced. It's "mini” because it will take yo
 
 This pilot was developed in collaboration between Narmin Rzayeva (TU Delft Research Data & Software training team), Paige Folsom (Data Literacy Project @ TU Delft Library Education Support), and TU Delft data stewards Janine Strandberg and Nicolas Dintzner. Thank you to Paula Martinez Lavanchy for consulting on the development of these materials. Thank you Thijs Slot, officer of the TU Delft Human Research Ethics Committee, for helping to align the materials with the HREC's policies and guidelines. Special thanks to Karolien van Nunen, the instructors and TA's of Ethics & Safety, and the coordinators of the Bachelor's End Project in the BSc of Technology, Policy and Management for their partnership and feedback.  
 
+## Disclosure of AI Use 
+
+While creating this mini-module, we used AI for: 
+- learning about how to add HTML tags and CSS to Markdown in order to center text, configure links to open in new tabs, and adjust the properties of tables to make them more readable to users.
+- troubleshooting syntax errors when Sphinx design commands were not working. 
+- to verify that all references were properly cited in APA 7th Edition. 
+
+AI tool used: 
+- OpenAI. (2026). ChatGPT (free version 1 March 2026-16 April 2026)[Large language model]. https://chatgpt.com/
  
 
 ## How to Cite This Resource 
