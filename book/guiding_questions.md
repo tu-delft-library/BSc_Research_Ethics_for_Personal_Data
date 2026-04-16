@@ -31,7 +31,7 @@ Are the personal data <u>**directly**</u> or <u>**indirectly identifiable**</u>?
 
 This video gives an example of a researcher who is delving into the ethical questions as she plans and designs a study. 
 
-:::{dropdown} Click this box to read the script for Part I:
+:::{dropdown} Click this box to read the full script for Part I:
 **Part I:**   
 
 In this video, we will see a scenario of a researcher who will use ethical questions to guide the design of a study that involves personal data.  
@@ -77,4 +77,4 @@ This way she can prioritize the safety and privacy of her participants.
 
 To summarize, it is important that you ask these guiding questions before collecting any data from people. In the next sections we will revisit Paula's scenario to see how she prepares to conduct her project ethically. We will look at additional guiding questions that researchers use to assess for and then prevent risk. 
 <br>
-ues
+
