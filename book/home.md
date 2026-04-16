@@ -74,7 +74,7 @@ While creating this mini-module, we used AI for:
 - to verify that all references were properly cited in APA 7th Edition. 
 
 AI tool used: 
-- OpenAI. (2026). ChatGPT (free version 1 March 2026-16 April 2026)[Large language model]. https://chatgpt.com/
+- OpenAI. (2026). ChatGPT (free version 1 March 2026-16 April 2026)[Large language model]. <a href="https://chatgpt.com/" target="_blank">https://chatgpt.com</a>
  
 
 ## How to Cite This Resource 
