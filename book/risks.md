@@ -147,7 +147,7 @@ A researcher uses Generative AI to analyse the data collected for a study on com
 ```  
 <br>
 
-In this example, the researcher breaks the promise made to participants to keep their data private and secure. Depending on the type of ChatGPT account, the information entered can be retained for a number of days and accessed by the people managing the AI system. They do not have authorization to view the personal details of research subjects, and this would be a data breach. It's also possible that information entered into AI platforms like ChatGPT will be re-used for training data. In other words, the data will be used by the company to train future models. This goes against the promise that the researchers made to use participants' personal data only for specific research purposes. 
+In this example, the researcher breaks the promise made to participants to keep their data private and secure. Depending on the type of ChatGPT account, the information entered can be retained for a number of days and accessed by the people managing the AI system. They do not have authorization to view the personal details of research subjects, and this would be a data breach. It's also possible that information entered into AI platforms like ChatGPT will be re-used for training data. In other words, the data will be used by the company to train future models. This goes against the promise that the researcher made to use participants' personal data only for specific research purposes. 
 
 ```{admonition} Be aware!
 :class: warning
