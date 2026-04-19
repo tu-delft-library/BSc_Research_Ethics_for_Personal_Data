@@ -158,19 +158,7 @@ In the practice exercises for Section II we learned about Femke, the researcher 
 ## Scenario: Video   
 
 Let's revisit Paula's research project and see how she evaluates and minimises elements of risk: 
-
-<iframe
-width="560"   
-height="315"
-src="https://www.youtube.com/embed/idPy9zKYH7o?si=tGx_wgSMask119Vu"
-align="center"
-frameborder="0"
-allowfullscreen
-></iframe>
-
 <br>
-<br>
-
 
 :::{dropdown} Click this box to read the full script for Part II:
 **Part II:**   
@@ -201,6 +189,20 @@ In this scenario, Paula evaluated potential risks within her project and chose p
 
 By Considering all these risks, Paula makes sure she doesn't cause any unintended harm to the people involved in the study. 
 :::
+<br>
+
+
+<iframe
+width="560"   
+height="315"
+src="https://www.youtube.com/embed/idPy9zKYH7o?si=tGx_wgSMask119Vu"
+align="center"
+frameborder="0"
+allowfullscreen
+></iframe>
+
+<br>
+
 
 ## Practice: Section IV  
 Complete the practice questions to check your understanding of risk prevention and minimisation strategies. 
