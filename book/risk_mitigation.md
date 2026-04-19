@@ -155,11 +155,22 @@ In the practice exercises for Section II we learned about Femke, the researcher 
 ```
 <br>
 
-## Scenario  
+## Scenario: Video   
 
 Let's revisit Paula's research project and see how she evaluates and minimises elements of risk: 
 
-:::{dropdown} Script, Part II of the video:
+<iframe
+width="560"   
+height="315"
+src="https://youtu.be/idPy9zKYH7o"
+align="center"
+frameborder="0"
+allowfullscreen
+></iframe>
+
+<br>
+
+:::{dropdown} Click this box to read the full script for Part II:
 **Part II:**   
 
 Let's revisit Paula's project to see how she evaluates and prevents risk. Once Paula has determined that she'll be working with indirectly identifiable personal data, she must ask herself the next ethical questions: 
