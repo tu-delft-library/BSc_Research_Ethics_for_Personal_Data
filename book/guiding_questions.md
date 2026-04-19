@@ -31,6 +31,16 @@ Are the personal data <u>**directly**</u> or <u>**indirectly identifiable**</u>?
 
 This video gives an example of a researcher who is delving into the ethical questions as she plans and designs a study. 
 
+<iframe
+width="560"   
+height="315"
+src="https://youtu.be/OGbpHC7rlF4"
+align="center"
+frameborder="0"
+allowfullscreen
+></iframe>
+<br>
+
 :::{dropdown} Click this box to read the full script for Part I:
 **Part I:**   
 
