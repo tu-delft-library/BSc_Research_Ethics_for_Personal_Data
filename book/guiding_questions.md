@@ -34,7 +34,7 @@ This video gives an example of a researcher who is delving into the ethical ques
 <iframe
 width="560"   
 height="315"
-src="https://youtu.be/OGbpHC7rlF4"
+src="https://www.youtube.com/embed/OGbpHC7rlF4?si=8SqQeST8V6cInP7s"
 align="center"
 frameborder="0"
 allowfullscreen
