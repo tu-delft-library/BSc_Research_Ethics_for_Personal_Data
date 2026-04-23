@@ -64,7 +64,7 @@ This mini-course is online and self-paced. It's "mini” because it will take yo
 
 ## Appreciations
 
-This pilot was developed in collaboration between Narmin Rzayeva (TU Delft Research Data & Software training team), Paige Folsom (Data Literacy Project @ TU Delft Library Education Support), and TU Delft data stewards Janine Strandberg and Nicolas Dintzner. Thank you to Paula Martinez Lavanchy for consulting on the development of these materials. Thank you Thijs Slot, officer of the TU Delft Human Research Ethics Committee, for helping to align the materials with the HREC's policies and guidelines. Special thanks to Karolien van Nunen, the instructors and TA's of Ethics & Safety, and the coordinators of the Bachelor's End Project in the BSc of Technology, Policy and Management for their partnership and feedback.  
+This pilot was developed in collaboration between Narmin Rzayeva (TU Delft Research Data & Software training team), Paige Folsom (Data Literacy Project @ TU Delft Library Education Support), and TU Delft data stewards Janine Strandberg and Nicolas Dintzner. Thank you to Paula Martinez Lavanchy for consulting on the development of these materials. Thank you Thijs Slot, officer of the TU Delft Human Research Ethics Committee, for helping to align the materials with the HREC's policies and guidelines. Thank you to Library Education Support colleagues for their feedback and to Reid Sczerba for support building this Jupyter book. Special thanks to Karolien van Nunen, the instructors and TA's of Ethics & Safety, and the coordinators of the Bachelor's End Project in the BSc of Technology, Policy and Management for their partnership and feedback.  
 
 ## Disclosure of AI Use 
 
