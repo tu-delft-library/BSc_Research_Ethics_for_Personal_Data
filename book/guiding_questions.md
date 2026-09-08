@@ -34,13 +34,12 @@ This video gives an example of a researcher who is delving into the ethical ques
 <iframe
 width="560"   
 height="315"
-src="https://www.youtube.com/embed/OGbpHC7rlF4?si=8SqQeST8V6cInP7s"
+src="https://www.youtube.com/embed/_GzilAZ-gEI?si=XFhsQrosVwqPz7NB"
 align="center"
 frameborder="0"
 allowfullscreen
 ></iframe>
 
-<br>
 <br>
 
 :::{dropdown} Click this box to read the full script for Part I:
