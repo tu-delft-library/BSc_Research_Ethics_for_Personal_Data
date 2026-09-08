@@ -1,5 +1,6 @@
 # Closing Remarks 
 
+## Review Learning Goals 
 Thank you for participating in this mini-module, BSc Research Ethics for Personal Data! We aimed to provide information, examples, and practice opportunities so that you could develop core skills and knowledge necessary to work ethically with personal data. This information will apply when you do projects involving human participants. It will be helpful to refer back to when you start your BEP.  
 <br>
 
@@ -18,4 +19,14 @@ Thank you for participating in this mini-module, BSc Research Ethics for Persona
   - In <a href="https://tu-delft-library.github.io/BSc_Research_Ethics_for_Personal_Data/main/institutional_policies.html" target="_blank">Section V</a>, we built familiarity with **institutional policies and procedures at TU Delft** for working with personal data. We looked at **the role of the HREC** and the HREC's **application process** and identified who to approach with questions.   
 <br>
 
+
+## Feedback Survey 
+
+:::{card} Please share your feedback 
+We would so appreciate your input to help make these materials better. Click the blue button below to participate in this brief survey: 
+```{button-link} https://tudelft.fra1.qualtrics.com/jfe/form/SV_9yN8Kbwj6aVqzaK
+:color: primary
+FEEDBACK SURVEY
+```
+:::
 Please contact Data Literacy Project leader Paige Folsom with additional questions or to suggest edits and revisions: p.m.folsom@tudelft.nl
