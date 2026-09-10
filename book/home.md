@@ -34,16 +34,16 @@ By participating in this mini-module, we hope you will develop an awareness of k
   <tr style="background-color: #f9f9f9;">
     <td style="border: 1px solid black; width: 25%;">Section III</td>
     <td style="border: 1px solid black;">
-      • Explain why all human research data must be handled carefully, both ethically and legally.<br>
+      • Understand why all human research data must be handled carefully, both ethically and legally.<br>
       • Understand risks that arise when working with human research participants and personal data.<br>
-      • Explain why certain types of personal data carry increased risk.
+      • Understand why certain types of personal data carry increased risk.
     </td>
   </tr>
 
   <tr style="background-color: #f9f9f9;">
     <td style="border: 1px solid black; width: 25%;">Section IV</td>
     <td style="border: 1px solid black;">
-      • Explain how to prevent and mitigate risks related to collecting, processing, sharing, and storing personal data.
+      • Recognize how to prevent and mitigate risks related to collecting, processing, sharing, and storing personal data.
     </td>
   </tr>
 
