@@ -119,7 +119,7 @@ Whether the data is directly or indirectly identifiable personal information, yo
 ```
 <br>
 
-## Practice: Section I 
+## Check your understanding 
 
 Check your understanding of personal data and directly vs. indirectly identifiable personal information by completing practice exercises A and B. 
 <br>
