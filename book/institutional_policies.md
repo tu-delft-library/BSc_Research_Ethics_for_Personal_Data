@@ -67,7 +67,7 @@ If you are interested in learning more about research practices and policies at 
 - <a href="https://www.tudelft.nl/en/library/data-management/training-and-events/training-for-researchers/personal-data-human-subjects-in-research" target="_blank">Personal Data & Human Subjects in Research</a>: This is a much more detailed and extended course which was designed for PhD candidates. It is open to BSc students who are interested in learning more. 
 
 
-## Practice: Section V 
+## Check for understanding
 Check your understanding about institutional practices by completing three practice questions. 
 <iframe src="https://tudelft.h5p.com/content/1292839830104851067/embed" aria-label="Section #4 Quiz" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 <br>
