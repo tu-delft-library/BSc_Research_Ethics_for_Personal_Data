@@ -23,7 +23,7 @@ Thank you for participating in this mini-module, BSc Research Ethics for Persona
 ## Feedback Survey 
 
 :::{card} Please share your feedback 
-We would so appreciate your input to help make these materials better. Click the blue button below to participate in this brief survey: 
+We would greatly appreciate your input to help make these materials better. Click the blue button below to participate in this brief survey: 
 ```{button-link} https://tudelft.fra1.qualtrics.com/jfe/form/SV_9yN8Kbwj6aVqzaK
 :color: primary
 FEEDBACK SURVEY
