@@ -9,10 +9,10 @@ Now, we'll focus on concrete strategies to minimise the risks of re-identificati
 How do I **structure my study** in a way that **prevents each identified risk?** 
 :::
 
-Below, we'll look at five baseline risk prevention and minimisation strategies that help to protect the wellbeing, safety, and privacy of your research participants. These five strategies provide a general foundation; however, each researcher must carefully assess the specific characteristics, context, and potential risks of their own study and design prevention and minimisation measures that fit those circumstances. 
+Below, we'll look at **five baseline risk prevention and minimisation strategies** that help to protect the wellbeing, safety, and privacy of your research participants. These five strategies provide a general foundation; however, each researcher must carefully assess the specific characteristics, context, and potential risks of their own study and design prevention and minimisation measures that fit those circumstances. 
 <br>
 <br>
- ## Risk minimisation strategy #1: Practice data minimisation  
+ ## #1: Practice data minimisation  
 
 **Data minimisation** means that you collect only the data that will help you to directly answer your research question(s). When collecting personal data, you should always apply the principle of data minimisation: only collect data that's **relevant to your research goals**. Avoid "going fishing” for any information that you don't absolutely need. If you don't collect it, you don't have to protect it.  
 
@@ -23,7 +23,7 @@ Here are examples of how to adhere to the principle of data minimisation:
 | Ask participants about their exact birthdays | instead... |  Record the age ranges of participants (as long as the range is relevant to answer your research question) | 
 | Collect exact home addresses | instead... | Collect only postal codes or regions (as long as this is sufficient to meet your research goals) |
 
-## Risk minimisation strategy #2: Obtain Consent from Participants  
+## #2: Obtain Consent from Participants  
 
 There are **two ways to get consent** from study participants: permission can be obtained through **direct consent** or **implied consent**.  
 
@@ -83,7 +83,7 @@ An **opening statement** is a way to obtain **implied consent** from participant
 Again, while the exemplar can provide a helpful guide and give you an idea of general structure, **you must craft an opening statement to fit your specific project**.  
 
 
-## Risk minimisation strategy #3: Use secure storage  
+## #3: Use secure storage  
 
 **Secure data storage** practices are a **key risk management strategy**. Secure storage protects you against data loss and protects the personal data of research participants from security breaches or leaks. During the planning phase you should already decide where and how you will protect the data against loss and breaches. Here is an overview of secure storage recommendations for BSc students at TU Delft. 
 
@@ -96,7 +96,7 @@ Again, while the exemplar can provide a helpful guide and give you an idea of ge
 
 Check with your supervisor or instructor if you plan to use a storage solution that is not listed above.  
 
-## Risk minimisation strategy #4: Anonymisation and Pseudonymisation  
+## #4: Anonymisation and Pseudonymisation  
 
 
 Researchers process data using methods of Anonymisation and Pseudonymisation to help protect participants' identities.  
@@ -145,7 +145,7 @@ During the **planning phase** of your research you must already establish whethe
 ```
 <br>
 
-## Risk minimisation strategy #5: Secure sharing through encryption  
+## #5: Secure sharing through encryption  
 
 A document containing personal data can be **encrypted** by enabling the **locking function**. The researcher assigns a **“key,”** i.e. a security code or password, and this is necessary to open the document. 
 
@@ -203,7 +203,7 @@ By Considering all these risks, Paula makes sure she doesn't cause any unintende
 :::
 <br>
 
-## Practice: Section IV  
+## Check for understanding  
 Complete the practice questions to check your understanding of risk prevention and minimisation strategies. 
 <br>
 
